@@ -11,7 +11,8 @@
 #EXTINF:-1 tvg-logo="" group-title="Canal",Imagen Tv https://www.dailymotion.com/cdn/live/video/x96n7we.m3u8?sec=iDkWj_VKEgtsf_4opKSNDTPd8LLWVIbfxacEG1PM7m0OcnNFBaQ4aR5ppcX5-KrMkfcvFa-0V7-NA0m6yw1SIQ&dmTs=527311&dmV1st=29a32383-68a1-40a0-a7f9-0d7131f55fa7
 #EXTINF:-1 tvg-logo="" group-title="Canal",Imagen Tv1 https://www.dailymotion.com/video/x96n7we
 #EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.dailymotion.com/video/x96n7we",Imagen Tv2 https://www.dailymotion.com/video/x96n7we
-#EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.dailymotion.com/",Imagen Tv2 https://www.dailymotion.com/video/x96n7we
+#EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.dailymotion.com/",Imagen Tv3 #EXTVLCOPT:http-referrer="https://www.dailymotion.com/" https://www.dailymotion.com/video/x96n7we
+#EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.imagentv.com/en-vivo",Imagen Tv3 #EXTVLCOPT:http-referrer="https://www.imagentv.com/en-vivo" https://www.dailymotion.com/video/x96n7w
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal",Canal 5 http://104.238.205.28:8989/278329_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal",Azteca 7 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
@@ -532,6 +533,7 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-logo="" group-title="Canal",A&E East2
 https://tvpass.org/live/AEEast/hd
 ",
+
 
 
 
