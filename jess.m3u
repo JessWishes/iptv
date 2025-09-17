@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="Canal",Tele Yucatán
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Canal; Local",SIPSE TV
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="Canal; Local",SIPSE TV Cancún
@@ -541,8 +540,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tMhRdd1/travelxp.png" group-title="Canal; Internacional",Travelxp
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Canal; Internacional",A&E East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Canal",A&E East
 https://tvpass.org/live/AEEast/hd
+
 
 
 
