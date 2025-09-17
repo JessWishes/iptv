@@ -15,11 +15,11 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal; Nacional",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/250px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Canal; Nacional",Imagen Tv
+#EXTINF:-1 tvg-logo="" group-title="Canal;Nacional",Imagen Tv
 https://www.dailymotion.com/cdn/live/video/x96n7we.m3u8?sec=iDkWj_VKEgtsf_4opKSNDTPd8LLWVIbfxacEG1PM7m0OcnNFBaQ4aR5ppcX5-KrMkfcvFa-0V7-NA0m6yw1SIQ&dmTs=527311&dmV1st=29a32383-68a1-40a0-a7f9-0d7131f55fa7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/250px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Canal; Nacional" tvg-name,Imagen Tv1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/250px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Canal;Nacional",Imagen Tv1
 https://www.dailymotion.com/video/x96n7we
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/250px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Canal; Nacional" tvg-name,Imagen Tv2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Canal;Nacional",Imagen Tv2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://www.dailymotion.com/video/x96n7we
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacional",Canal 5
@@ -542,4 +542,5 @@ https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Canal; Internacional",A&E East
 https://tvpass.org/live/AEEast/hd
+
 
