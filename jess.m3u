@@ -13,10 +13,14 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal;Nacional",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1,Imagen Tv
+https://www.dailymotion.com/cdn/live/video/x96n7we.m3u8?sec=f9qxwOieaKVkb9Icw3N3mG3uE8u5n5ujJNBC_ybQ2m98ffNEiZ_JJncKi5_qLnM7GsmcfRKCbTY37bQjuBnYCg&dmTs=984841&dmV1st=0f69fb54-f021-43c8-af84-084a87b5acd2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",Canal 5
 http://104.238.205.28:8989/278329_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1,A más
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="Canal;Nacional",Galavisión
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Canal;Nacional",Once México
@@ -42,6 +46,8 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal;Internacional",MVS TV
+https://mvs.daioncdn.net/mvstv/mvstv.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Canal;Local",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvcuatro.tv/wp-content/uploads/2025/04/logo.png" group-title="Canal;Local",TV Cuatro 4.1 Guadalajara
@@ -132,12 +138,16 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="Canal;Cultura",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:-1, group-title="Canal;Películas",MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI1IDI6MDk6NTkgQU0maGFzaF92YWx1ZT1CN0FQTUxDa0NSYjZ3WDZpRnIzdnpBPT0mdmFsaWRtaW51dGVzPTIwJmlkPQ==&DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Canal;Películas",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/qvJQXi.png" group-title="Canal;Películas",Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Canal;Internacional",WTV Canal 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Canal;Internacional",MyTime Movie Network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Canal;Películas",Runtime
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="Canal;Películas",Cine Accion
@@ -158,14 +168,14 @@ https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/330px-Hallmark_Channel.svg.png" group-title="Canal;Películas",Hallmark en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
-#EXTINF:-1 tvg-logo="" group-title="Canal;Deportes",ITV Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Canal;Deportes",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="Canal;Deportes",CDN Deportes
 http://200.125.170.122:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canal,Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal;Internacional",Milenio Television
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Canal;Noticias",TeleFórmula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbm21St/france24.png" group-title="Canal;Noticias",France 24
@@ -495,11 +505,9 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal;Internacional",Gardening with Monty Don
 https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canal;Internacional",Gardening With Monty Don (720p)
-https://livetv-fa.tubi.video/gardening-monty-don/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpPt7q5T/ifoodtv.png" group-title="Canal;Internacional",iFood.TV
 https://ifood-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="Canal;Internacional",KCWE-DT1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="Canal;Internacional",KCWE-DT1
 ttps://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Canal;Internacional",KYOU-DT2
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
