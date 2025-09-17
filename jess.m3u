@@ -11,12 +11,19 @@
 #EXTINF:-1 tvg-logo="" group-title="Canal",Imagen Tv https://www.dailymotion.com/cdn/live/video/x96n7we.m3u8?sec=iDkWj_VKEgtsf_4opKSNDTPd8LLWVIbfxacEG1PM7m0OcnNFBaQ4aR5ppcX5-KrMkfcvFa-0V7-NA0m6yw1SIQ&dmTs=527311&dmV1st=29a32383-68a1-40a0-a7f9-0d7131f55fa7
 #EXTINF:-1 tvg-logo="" group-title="Canal",Imagen Tv1 https://www.dailymotion.com/video/x96n7we
 #EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.dailymotion.com/video/x96n7we",Imagen Tv2 https://www.dailymotion.com/video/x96n7we
-#EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.dailymotion.com/",Imagen Tv3 #EXTVLCOPT:http-referrer="https://www.dailymotion.com/" https://www.dailymotion.com/video/x96n7we
-#EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.imagentv.com/en-vivo",Imagen Tv3 #EXTVLCOPT:http-referrer="https://www.imagentv.com/en-vivo" https://www.dailymotion.com/video/x96n7w
+#EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.dailymotion.com/",Imagen Tv3
+#EXTVLCOPT:http-referrer="https://www.dailymotion.com/" https://www.dailymotion.com/video/x96n7we
+#EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.imagentv.com/en-vivo",Imagen Tv3
+#EXTVLCOPT:http-referrer="https://www.imagentv.com/en-vivo" https://www.dailymotion.com/video/x96n7w
+#EXTINF:-1,TEST01 https://www.youtube.com/embed/UB1VzXXKkig
+#EXTINF:-1,Test02 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758166757/ei/hSrLaNKsKu2Olu8PsumL6Qw/ip/2806%3A2f0%3A83e0%3Af3be%3A2da9%3A2299%3Aca48%3Ae48e/id/UB1VzXXKkig.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51554424/txs/51554424%2C51554425/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSVH6B0LXjthr_3AL5QDpt74GeC0mrFUtH34rZLBi5nSBVA01HBeDSslmYidiJ-qgm2wLQgDLAL8/spc/hcYD5YXT4QvWlUKGqqjWtxIFC8MSBIvfaXfHVvqkdgOUGdA9DwlL2EuSQs9Eiqigz4E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOhsgzAgyvHxLYgfzJG36hBO5ES5i5kdILtTsS4BzF-ACIQCVCWpkVQx8GUGQ1lhMVHttjrK1cKLl9mBCGJ-dmw6SjQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal",Canal 5 http://104.238.205.28:8989/278329_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal",Azteca 7 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Canal; Nacional",A más https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Canal; Nacional",A más
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ZOKp9K.png" group-title="Canal; Nacional",Galavisión http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal; Nacional",Milenio Television
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -533,6 +540,7 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-logo="" group-title="Canal",A&E East2
 https://tvpass.org/live/AEEast/hd
 ",
+
 
 
 
