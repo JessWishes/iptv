@@ -1,5 +1,6 @@
 #EXTM3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="Canal",Tele Yucatán https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTM3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ybty01t.jpeg" group-title="Canal",Tele Yucatán https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Canal",SIPSE TV https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="Canal",SIPSE TV Cancún https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="Canal",Canal 10 Cancún http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -11,7 +12,9 @@
 #EXTINF:-1 tvg-logo="" group-title="Canal",Imagen Tv1 https://www.dailymotion.com/video/x96n7we
 #EXTINF:-1 tvg-logo="" group-title="Canal",Imagen Tv2 https://www.dailymotion.com/video/x96n7we
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal",Canal 5 http://104.238.205.28:8989/278329_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal",Azteca 7 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal",Azteca 7 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/A%2B_2021.svg/250px-A%2B_2021.svg.png" group-title="Canal; Nacional",A más
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="Canal; Nacional",Galavisión
@@ -531,6 +534,7 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-logo="" group-title="Canal",A&E East2
 https://tvpass.org/live/AEEast/hd
 ",
+
 
 
 
