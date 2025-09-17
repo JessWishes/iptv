@@ -10,15 +10,13 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal",Las Estrellas https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal",Imagen Tv https://www.dailymotion.com/cdn/live/video/x96n7we.m3u8?sec=iDkWj_VKEgtsf_4opKSNDTPd8LLWVIbfxacEG1PM7m0OcnNFBaQ4aR5ppcX5-KrMkfcvFa-0V7-NA0m6yw1SIQ&dmTs=527311&dmV1st=29a32383-68a1-40a0-a7f9-0d7131f55fa7
 #EXTINF:-1 tvg-logo="" group-title="Canal",Imagen Tv1 https://www.dailymotion.com/video/x96n7we
-#EXTINF:-1 tvg-logo="" group-title="Canal",Imagen Tv2 https://www.dailymotion.com/video/x96n7we
+#EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.dailymotion.com/video/x96n7we",Imagen Tv2 https://www.dailymotion.com/video/x96n7we
+#EXTINF:-1 tvg-logo="" group-title="Canal" http-referrer="https://www.dailymotion.com/",Imagen Tv2 https://www.dailymotion.com/video/x96n7we
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal",Canal 5 http://104.238.205.28:8989/278329_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal",Azteca 7 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/A%2B_2021.svg/250px-A%2B_2021.svg.png" group-title="Canal; Nacional",A más
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="Canal; Nacional",Galavisión
-http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Canal; Nacional",A más https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ZOKp9K.png" group-title="Canal; Nacional",Galavisión http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal; Nacional",Milenio Television
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Canal; Nacional",TeleFórmula
@@ -534,6 +532,7 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-logo="" group-title="Canal",A&E East2
 https://tvpass.org/live/AEEast/hd
 ",
+
 
 
 
