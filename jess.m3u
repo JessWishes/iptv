@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canal; Local" tvg-logo="https://yt3.googleusercontent.com/7ShsIkAKLC-HyoKQwSKVaujG6IN8cOrCxfeEUFnUGtoVRZVLKuhgH43UlZG2oKE6FDHawAptJCE=s160-c-k-c0x00ffffff-no-rj",TeleYucatan
+#EXTINF:-1 group-title="Canal; Local" tvg-logo="http://www.teleyucatan.gob.mx/img/logo_admin.png",Tele Yucatán
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Canal; Local",SIPSE TV
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
@@ -43,7 +43,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Canal; Nacional",Canal Catorce
 #EXTVLCOPT:http-referrer=https://www.canalcatorce.tv/
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal;Nacional",Estrella TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Nacional",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200" group-title="Canal; Nacional",Estrella TV 2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
@@ -163,7 +163,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal; Películas",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI1IDI6MDk6NTkgQU0maGFzaF92YWx1ZT1CN0FQTUxDa0NSYjZ3WDZpRnIzdnpBPT0mdmFsaWRtaW51dGVzPTIwJmlkPQ==&DVR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Canal;Películas",Sony Cine
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Canal; Películas",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/qvJQXi.png" group-title="Canal; Películas",Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
@@ -542,4 +542,5 @@ https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Canal; Internacional",A&E East
 https://tvpass.org/live/AEEast/hd
+
 
