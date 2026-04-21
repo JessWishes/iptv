@@ -160,6 +160,8 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Canal",Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canal", Shop Channel Japón
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 # Deportes #
 
@@ -192,6 +194,8 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal",88 Stereo Español
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0d9OjHQ.jpg" group-title="Canal", Company TV Música
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="Canal",YOU & ME Radio
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
@@ -207,6 +211,11 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="Canal",RadioVisione Italia
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canal",Mundo Series
@@ -490,17 +499,14 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EjspQDMJTv8/XbIv0DmeI5I/AAAAAAAArp4/sxviem-Fy9skCw30jz2aykgMXeffZqW_wCK8BGAsYHg/s0/2019-10-24.png", Arirang Corea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canal", Shop Channel Japón
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0d9OjHQ.jpg" group-title="Canal", Company TV Música
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+
+
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Private", file01
 https://archive.org/download/colossal-combo-43-1993/Colossal%20Combo%2043%20%281993%29.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file02
-https://archive.org/download/one-and-only-dominator-1992/One%20and%20Only%20Dominator%20%281992%29.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="Private", file03
 https://archive.org/download/CopperheadCanyon/Copperhead%20Canyon.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file04
@@ -511,11 +517,53 @@ https://archive.org/download/ColeSimon/cr%20sa%201.mpg
 https://archive.org/download/ColeSimon/cr%20sa%202.mpg
 #EXTINF:-1 tvg-logo="" group-title="Private", file07
 https://archive.org/download/TheAddison/Addison%20%26%20Devin.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file08
-https://archive.org/download/TheAddison/Harley%20%26%20Addison.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file09
-https://archive.org/download/untitled-video-made-with-clipchamp-4_202510/Untitled%20video%20-%20Made%20with%20Clipchamp%20%284%29.ia.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file10
 https://archive.org/download/iambearboy-movie-gif/iAmBearBoy%20Movie%20%26%20Gif.zip/iAmBearBoy%20Cum%20Collage%20%28%20THE%20MOVIE%20%29.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file11
 https://ia801401.us.archive.org/6/items/1728069313737756701-1/1728069313737756701_1.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file12
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Private", file13
+https://dn720303.ca.archive.org/0/items/stroke-video-the-best-of-the-biggest/Stroke%20Video%20-%20The%20Best%20Of%20The%20Biggest.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file14
+https://archive.org/download/christopher-rages-best-of-the-superstars/ChristopherRageSuperstars-003.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file15
+https://archive.org/download/bulletgoldvol2/Bullet%20Gold%20Vol%202.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file16
+https://archive.org/download/do-me-evil-1975/DoMeEvil.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file17
+https://archive.org/download/HunksByPool/Rickys%20Porn/01%20%284%29.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file18
+https://archive.org/download/HunksByPool/Rickys%20Porn/196.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file19
+https://archive.org/download/HunksByPool/Rickys%20Porn/197.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file20
+https://archive.org/download/HunksByPool/Rickys%20Porn/199.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file21
+https://archive.org/download/HunksByPool/Rickys%20Porn/200.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file22
+https://archive.org/download/HunksByPool/Rickys%20Porn/Alpha%20Male%20Fuckers-69%281%29.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file23
+https://archive.org/download/HunksByPool/Rickys%20Porn/Alpha%20Male%20Fuckers-69.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file24
+https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20BiLatin%20Men.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file25
+https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20Raw%20Papi.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file26
+https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porno%20100.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file27
+https://archive.org/download/HunksByPool/Rickys%20Porn/Hairy%20muscle%20bareback%20fuck.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file28
+https://archive.org/download/HunksByPool/Rickys%20Porn/Hunks%20by%20pool.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file29
+https://archive.org/download/HunksByPool/Rickys%20Porn/Latino%20Raw%20Fuck.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file30
+https://archive.org/download/HunksByPool/Rickys%20Porn/aday%20traun%20isaac%20eliad.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file31
+https://dn720702.ca.archive.org/0/items/gms-254/GMS254.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file32
+https://archive.org/download/redemption-the-abduction-series-part-3/Redemption%20%28The%20Abduction%20Series%20Part%203%29.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file33
+https://archive.org/download/dial-justice/DIAL%20JUSTICE.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file34
+https://archive.org/download/when-the-boss-is-away/When%20The%20Boss%20Is%20Away.mp4
