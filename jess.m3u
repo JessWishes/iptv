@@ -10,6 +10,7 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #Nacional#
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal",Azteca Internacional
@@ -179,7 +180,10 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Canal",TV Lobo
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-
+#EXTINF:-1 tvg-id="AntenaTV.mx" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="Canal",Antena TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Canal",Vision Television
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Canal",Tv Galicia 
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
@@ -189,6 +193,10 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Canal",Canal 2000 La Solana
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Canal",TVE Internacional America
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/512px-Star_TVE_2026.svg.png" group-title="Canal",TVE Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
 #Entretenimiento#
 
@@ -202,13 +210,15 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal",Crímenes Reales
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",PlutoTv - Comedy Central en español
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjK3IWK.png" group-title="Canal",PRIDEtv 
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Canal",Ridiculous TV 
 https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Canal; Internacional",AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Canal",Escape TV Inglés
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal",Gardening with Monty Don
@@ -242,6 +252,8 @@ https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal",Rakuten TV Estilo y Vida
 https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8
+#EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1274_Saber_Mas___Freetv_com.png" group-title="Canal", Free TV Saber Mas
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Canal",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Canal",DW Inglés
@@ -287,7 +299,22 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="Canal",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-
+#EXTINF:-1 tvg-id="ClanInternacional.es@SD" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Canal",Clan Internacional Americas
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Canal",Kanade
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Canal",EnerGeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Canal",EnerGeek FAN
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Canal",Memorias TV Toons
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/30e05eb172d04c7bb01c6495f82a4a6d.png" group-title="Canal",Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 tvg-id="MagicK.co" tvg-logo="https://cnegretetv.000webhostapp.com/logos/Magic_Kids_1995_2.png" group-title="Canal",Magic Kids
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+#EXTINF:-1 tvg-id="NickenEspanol.us" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTv-Nick en Español
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 
 #Peliculas#
 
@@ -305,6 +332,22 @@ https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Canal",CineLife Inglés
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCDramaSpain.es" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Canal",BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Rakuten TV Cine España
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Rakuten TV Sci-Fi España 
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:-1 tvg-id="1272" tvg-name="Cine Real - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="Canal", Free tv - Drama
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="1275" tvg-name="Juntos - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1275_Juntos___Freetv_com.png" group-title="Canal", Free Tv - Familia
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="1273" tvg-name="Top Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1273_Top_Cine___Freetv_com.png" group-title="Canal", Free Tv - Acción
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="1280" tvg-name="Tu Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1280_Tu_Cine___Freetv_com.png" group-title="Canal", Free Tv - Estelar
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Canal",Cine Friki Inglés
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 
 # Deportes #
 
@@ -358,67 +401,10 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="Canal",RadioVisione Italia
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
-
-
-######################################################################################
-
-
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Canal",TVE Internacional America
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-#EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1274_Saber_Mas___Freetv_com.png" group-title="Canal", Free TV Saber Mas
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="ClanInternacional.es@SD" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Canal",Clan Internacional Americas
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Canal",EnerGeek
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Canal",EnerGeek FAN
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Canal",Memorias TV Toons
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/30e05eb172d04c7bb01c6495f82a4a6d.png" group-title="Canal",Dreiko TV
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-#EXTINF:-1 tvg-id="MagicK.co" tvg-logo="https://cnegretetv.000webhostapp.com/logos/Magic_Kids_1995_2.png" group-title="Canal",Magic Kids
-https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
-#EXTINF:-1 tvg-id="NickenEspanol.us" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTv-Nick en Español
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-
-#EXTINF:-1 tvg-id="BBCDramaSpain.es" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Canal",BBC Drama
-https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Rakuten TV Cine España
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Rakuten TV Sci-Fi España 
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-
-#EXTINF:-1 tvg-id="1272" tvg-name="Cine Real - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="Canal", Free tv - Drama
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="1275" tvg-name="Juntos - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1275_Juntos___Freetv_com.png" group-title="Canal", Free Tv - Familia
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="1273" tvg-name="Top Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1273_Top_Cine___Freetv_com.png" group-title="Canal", Free Tv - Acción
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="1280" tvg-name="Tu Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1280_Tu_Cine___Freetv_com.png" group-title="Canal", Free Tv - Estelar
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Canal",Cine Friki Inglés
-https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",PlutoTv - Comedy Central en español
-https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 #EXTINF:-1 tvg-id="HTVLive.do" tvg-logo="https://i.imgur.com/0WBsAin.png" group-title="Canal",HTV Live Dominicana
 https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Canal",Kanade
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-
-#EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/512px-Star_TVE_2026.svg.png" group-title="Canal",TVE Star
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-
-#EXTINF:-1 tvg-id="AntenaTV.mx" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="Canal",Antena TV
-https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Canal",Vision Television
-https://cloudvideo.servers10.com:8081/8016/index.m3u8
-
-
-
+######################################################################################
 
 #EXTINF:-1 group-title="Canal",Canal 5 TV Cozumel (1080p)
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
