@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTIF:-1 group-title="Mosaico", Canales Locales
-#EXTIF:-1 group-title="Mosaico", Canales Locales
+#EXTINF:-1 group-title="Mosaico", Canales Locales
+#EXTINF:-1 group-title="Mosaico", Canales Locales
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ybty01t.jpeg" group-title="Canal",Tele Yucatán
