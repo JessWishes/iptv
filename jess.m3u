@@ -21,6 +21,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Canal; Nacional",A más 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="" group-title="Canal",Corazón (720p)
+https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Televisa Telenovelas
@@ -37,7 +39,8 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Canal",Canal Catorce 
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx@SD",Canal del Congreso 45.1
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Canal",Justicia TV 
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
@@ -79,6 +82,8 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Canal",Antena Seis TV
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+#EXTINF:-1 group-title="Canal",Canal 5 TV Cozumel (1080p)
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 
 #USA Español#
 
@@ -212,6 +217,8 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",PlutoTv - Comedy Central en español
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 tvg-id="" group-title="Canal",C4 en Alerta (720p)
+https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjK3IWK.png" group-title="Canal",PRIDEtv 
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
@@ -307,6 +314,9 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Canal",EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="GikTVMX.mx@SD" group-title="Canal",GikTVMX
+#EXTVLCOPT:http-referrer=https://giktv.com
+https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Canal",Memorias TV Toons
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/30e05eb172d04c7bb01c6495f82a4a6d.png" group-title="Canal",Dreiko TV
@@ -348,9 +358,15 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/pl
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Canal",Cine Friki Inglés
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+#EXTINF:-1 tvg-id="" group-title="Canal",Adrenalina Pura TV
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 tvg-id="" group-title="Canal",Canal Claro (720p)
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 
 # Deportes #
 
+#EXTINF:-1 tvg-id="TUDN.mx@SD" group-title="Canal",TUDN
+https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Canal",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",Fox Sports Espanol
@@ -406,120 +422,109 @@ https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
 
 ######################################################################################
 
-#EXTINF:-1 group-title="Canal",Canal 5 TV Cozumel (1080p)
-https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso451.mx@SD",Canal del Congreso 45.1
-https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (1080p)
-https://streaming.alwaysdata.net/tudn.php
-#EXTINF:-1 tvg-id="GikTVMX.mx@SD",GikTVMX (720p)
-#EXTVLCOPT:http-referrer=https://giktv.com
-https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="",Adrenalina Pura TV (720p)
-https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:-1 tvg-id="",C4 en Alerta (720p)
-https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
-#EXTINF:-1 tvg-id="",Canal Claro (720p)
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:-1 tvg-id="",Corazón (720p)
-https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
-#EXTINF:-1 tvg-id="",FIFA+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="Canal",FIFA+
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
-#EXTINF:-1 tvg-id="",Imagen TV+ (720p)
+
+#EXTINF:-1 tvg-id="" group-title="Canal",Imagen TV+ (720p)
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
-#EXTINF:-1 tvg-id="Homeful.ca@US",Homeful (720p)
+
+#EXTINF:-1 tvg-id="Homeful.ca@US" group-title="Canal",Homeful (720p)
 https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
-#EXTINF:-1 tvg-id="",RCN Noticias (720p)
-https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
-#EXTINF:-1 tvg-id="",Tastemade (720p)
+#EXTINF:-1 tvg-id="" group-title="Canal",Tastemade (720p)
 https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
-#EXTINF:-1 tvg-id="",Tastemade Hogar (720p)
+#EXTINF:-1 tvg-id="" group-title="Canal",Tastemade Hogar (720p)
 https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
-#EXTINF:-1 tvg-id="",Tastemade Viajes (720p)
+#EXTINF:-1 tvg-id="" group-title="Canal",Tastemade Viajes (720p)
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (1080p)
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan
-https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
-#EXTINF:-1 tvg-id="Weathernews.jp@SD",Weathernews (720p)
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1 tvg-id="WOWOWLive.jp@SD",WOWOW Live
+
+#EXTINF:-1 tvg-id="" group-title="Canal",RCN Noticias (720p)
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+
+#EXTINF:-1 tvg-id="WOWOWLive.jp@SD" group-title="Canal",WOWOW Japones
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 tvg-id="JOAKDTV.jp@SD",JOAK-DTV (544p)
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Canal",NHK World-Japan Inglés 1
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Canal",NHK World-Japan Inglés 2
+https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+#EXTINF:-1 tvg-id="JOAKDTV.jp@SD" group-title="Canal",JOAK-DTV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-#EXTINF:-1 tvg-id="JOAXDTV.jp@SD",JOAX-DTV (544p)
+#EXTINF:-1 tvg-id="JOAXDTV.jp@SD" group-title="Canal",JOAX-DTV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 tvg-id="JORXDTV.jp@SD",JORX-DTV (544p)
+#EXTINF:-1 tvg-id="JORXDTV.jp@SD" group-title="Canal",JORX-DTV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 tvg-id="JOEXDTV.jp@SD",JOEX-DTV (544p)
+#EXTINF:-1 tvg-id="JOEXDTV.jp@SD" group-title="Canal",JOEX-DTV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 tvg-id="Animax.jp@SD",Animax (576p)
+
+#EXTINF:-1 tvg-id="Animax.jp@SD" group-title="Canal",Animax (576p)
 #EXTVLCOPT:http-referrer=https://utako.moe
 https://nl.utako.moe/Animax/index.m3u8
-#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional (1080p)
+
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD" group-title="Canal",Antena 3 Internacional (1080p)
 http://187.190.55.136:5501/udp/225.1.1.101:5101
-#EXTINF:-1 tvg-id="Atrescine.es@SD",Atrescine (1080p)
+#EXTINF:-1 tvg-id="Atrescine.es@SD" group-title="Canal",Atrescine (1080p)
 http://187.190.55.136:5501/udp/225.1.1.20:5020
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD",TVE Internacional America (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" group-title="Canal",TVE Internacional America (1080p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-#EXTINF:-1 tvg-id="TVEStar.es@SD",TVE Star (576p)
+#EXTINF:-1 tvg-id="TVEStar.es@SD" group-title="Canal",TVE Star (576p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://i.imgur.com/mxwe8hV.png" group-title="Noticias",RT en Español (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://i.imgur.com/mxwe8hV.png" group-title="Canal",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/dCibKgR.png" group-title="Comedy",Comedy Central Latin America (1080p)
+
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/dCibKgR.png" group-title="Canal",Comedy Central Latin America (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales",History Latin America South (480p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 Latin America (480p)
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Canal",History 2 Latin America (480p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales",National Geographic Latin America South (720p)
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Canal",National Geographic Latin America South (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-46_720.m3u8
-#EXTINF:-1 tvg-id="AELatinAmerica.us@South" tvg-logo="https://i.imgur.com/WvvpT0v.png" group-title="Entertainment",A&E Latin America South (480p)
+#EXTINF:-1 tvg-id="AELatinAmerica.us@South" tvg-logo="https://i.imgur.com/WvvpT0v.png" group-title="Canal",A&E Latin America South (480p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Cine",AMC Latin America (1280p)
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Canal",AMC Latin America (1280p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Cine",AXN Latin America South (2160p)
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Canal",AXN Latin America South (2160p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Entretenimiento;Cine;Series",FX Latin America South (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-78_720.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-logo="https://i.imgur.com/WC3JSD5.png" group-title="Cine;Series",Star Channel Latin America South (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
-#EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Entertainment;News",E! Latin America (720p)
+
+#EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Canal",E! Latin America (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",BBC Series
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",BBC Series
 https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/68Hs5uz.png" group-title="Series",CBS en español
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/68Hs5uz.png" group-title="Canal",CBS en español
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cine",Cine Sony (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CinePremiere.us" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Cine",Cine Premiere
+#EXTINF:-1 tvg-id="CinePremiere.us" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Canal",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-#EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine",ENT Channel (720p)
+#EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Canal",ENT Channel (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine",ENT Family (720p)
+#EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Canal",ENT Family (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Azteca Deportes Network (720p)
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Azteca Deportes Network (720p)
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",FOX Deportes
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Canal",FOX Deportes
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" http-referrer="https://foxsports.com.ar/" group-title="Sports",Fox Sports (1080p)
+
+#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" http-referrer="https://foxsports.com.ar/" group-title="Canal",Fox Sports (1080p)
 #EXTVLCOPT:http-referrer=https://foxsports.com.ar/
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",Fox Sports en Espanol (720p)
+
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Canal",Fox Sports en Espanol (720p)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Sports",Deportes TVC (1080p)
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
-#EXTINF:-1 tvg-id="Canal6Nacional.mx" tvg-logo="https://i.imgur.com/JEpnxAr.png" group-title="",Canal 6 Nacional
+
+
+#EXTINF:-1 tvg-id="Canal6Nacional.mx" tvg-logo="https://i.imgur.com/JEpnxAr.png" group-title="Canal",Canal 6 Nacional
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-logo="https://i.imgur.com/xAC6gQO.png" group-title="Legislative",Canal del Congreso 45.1
-https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso452.mx" tvg-logo="https://i.imgur.com/TtVZR5W.png" group-title="Legislative",Canal del Congreso 45.2
-https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso453.mx" tvg-logo="https://i.imgur.com/DS3166S.png" group-title="Legislative",Canal del Congreso 45.3
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://i.imgur.com/UzwlCzP.png" group-title="Culture",Canal Iberoamericano
-https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
-#EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General",Nueve TV
+
+#EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Canal",Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 
