@@ -1,9 +1,7 @@
 #EXTM3U
 # Lista creada para uso personal, sin fines comerciales.
 
-#EXTINF:-1 tvg-logo="" group-title="Mosaico",===CANALES  LOCALES===
-https://
-
+###################################################################################### LOCAL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ybty01t.jpeg" group-title="Canal",Tele Yucatán
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
@@ -11,13 +9,10 @@ https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="Canal",SIPSE TV Cancún
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canal",Teleplay
+#EXTINF:-1 tvg-logo="https://imgur.com/KMUJXb6" group-title="Canal",Teleplay
 https://player.tvstream.mx/livestream/teleplay/livesd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Mosaico",===CANALES  NACIONALES===
-https://
-
-#Nacional#
+###################################################################################### NACIONAL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -31,12 +26,12 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Canal; Nacional",A más 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="" group-title="Canal",Corazón (720p)
+#EXTINF:-1 tvg-logo="https://imgur.com/12Xhm3t" group-title="Canal",Azteca Corazón
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="" group-title="Canal",N+ Foro
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 group-title="Canal", Canal 5
 http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Televisa Telenovelas
