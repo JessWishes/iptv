@@ -31,7 +31,7 @@ https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="" group-title="Canal",N+ Foro
-https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="Canal", Canal 5
 http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Televisa Telenovelas
