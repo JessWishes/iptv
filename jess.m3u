@@ -9,8 +9,10 @@ https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="Canal",SIPSE TV Cancún
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KMUJXb6" group-title="Canal",Teleplay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMUJXb6.png" group-title="Canal",Teleplay
 https://player.tvstream.mx/livestream/teleplay/livesd/chunks.m3u8
+#EXTINF:-1 group-title="Canal",Canal 5 TV Cozumel (1080p)
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 
 ###################################################################################### NACIONAL
 
@@ -26,15 +28,15 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Canal; Nacional",A más 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/12Xhm3t" group-title="Canal",Azteca Corazón
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12Xhm3t.png" group-title="Canal",Azteca Corazón
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="" group-title="Canal",N+ Foro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruv3rhO.png" group-title="Canal",N+ Foro
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
-#EXTINF:-1 group-title="Canal", Canal 5
+#EXTINF:-1 tvg-logo="" group-title="Canal", Canal 5
 http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Televisa Telenovelas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OK3XWkP.png" group-title="Canal",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
@@ -48,40 +50,30 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Canal",Canal Catorce 
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso451.mx@SD",Canal del Congreso 45.1
+#EXTINF:-1 tvg-logo="a" group-title="Canal",Canal del Congreso
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Canal",Justicia TV 
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-
-#Estados#
-
 #EXTINF:-1 tvg-id="Capital21.mx@SD" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Canal",Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="MVSTV.mx@SD" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios Bajío 
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios Ciudad Juárez 
-https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios Guadalajara 
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios Laguna 
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios Monterrey 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios Puebla 
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios Saltillo 
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
+###################################################################################### ESTADOS
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Canal",Mexiquense TV 
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4Tv Guadalajara 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4 TV Guadalajara 
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4.2Tv Guadalajara 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4.2 TV Guadalajara 
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="Canal",Canal 8NTV 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="Canal",Canal 8 NTV Nayarit 
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="Canal",Canal 10 Chiapas 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="Canal",Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JCt1Nbn.png" group-title="Canal",Canal 33 Tijuana 
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
@@ -91,10 +83,8 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Canal",Antena Seis TV
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
-#EXTINF:-1 group-title="Canal",Canal 5 TV Cozumel (1080p)
-https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 
-#USA Español#
+###################################################################################### USA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
@@ -107,27 +97,23 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-e
 #EXTINF:-1 tvg-id="2" tvg-logo="" group-title="Canal",Caso Cerrado
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-# Latam y España#
+###################################################################################### LATAM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Canal",WTV Canal 20 Nicaragua 
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Canal",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Canal",Canal 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Canal",Canal 8 Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Canal",Venevisión Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Canal",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Canal",Señal Perú TV
 https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Canal",Ecuavisa
-https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Canal",Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="Canal",Atacama Chile
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Canal",5TV Argentina
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="Canal",13 Cultura Chile
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Canal",13 Festival Chile 
@@ -138,10 +124,18 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Canal",13 Teleseries Chile
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Canal",Aire Argentina
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="Canal",Alcarrizos TV
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Canal",Ecuavisa
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="Canal",Atacama Chile*
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Canal",Aire Argentina
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="Canal",AméricaTeVé Puerto Rico
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Canal",Antena 21
