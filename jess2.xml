@@ -17,7 +17,7 @@
 		<title>Grupo Sipse Televisión</title>
 		<desc>Televisora del sureste, programación local de la ciudad de Mérida.</desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>Familia</category>
 	</programme>
 	
 	<channel id="sipse2">
@@ -27,7 +27,7 @@
 		<title>Grupo Sipse Televisión</title>
 		<desc>Televisora del sureste, programación local de la ciudad de Cancún.</desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>Fam</category>
 	</programme>
 
 	
@@ -38,7 +38,7 @@
 		<title>Tele Play</title>
 		<desc>Noticias, deportes y entretenimiento en línea desde el estado de Yucatán y el sureste.</desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>Estrenos</category>
 	</programme>
 
 	<channel id="aztecauno">
@@ -48,7 +48,7 @@
 		<title>Azteca Uno</title>
 		<desc>Programación nacional de México en la frecuencia 1.1.</desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>Premier</category>
 	</programme>
 
 	<channel id="aztecaint">
@@ -58,7 +58,7 @@
 		<title>Azteca Internacional</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>Release</category>
 	</programme>
 
 	<channel id="adn40">
