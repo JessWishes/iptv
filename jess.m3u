@@ -1,5 +1,5 @@
 #EXTM3U
-# Lista creada para uso personal, sin fines comerciales.
+# Lista creada para uso personal y aprendizaje, sin fines de lucro o comerciales.
 
 ###################################################################################### LOCAL
 
@@ -14,13 +14,13 @@ https://player.tvstream.mx/livestream/teleplay/livesd/chunks.m3u8
 #EXTINF:-1 group-title="Canal",Canal 5 TV Cozumel
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 
+#EXTINF:-1 group-title="Vacio", 06
+https://
 #EXTINF:-1 group-title="Vacio", 07
 https://
 #EXTINF:-1 group-title="Vacio", 08
 https://
 #EXTINF:-1 group-title="Vacio", 09
-https://
-#EXTINF:-1 group-title="Vacio", 10
 https://
 ###################################################################################### NACIONAL
 
@@ -47,13 +47,12 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ruv3rhO.png" group-title="Canal",N+ Foro
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
-#EXTINF:-1 tvg-logo="" group-title="Canal", Canal 5 *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDZWvvA.png" group-title="Canal", Canal 5 V1
 http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1   group-title="Canal", CANAL 5 *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDZWvvA.png" group-title="Canal", CANAL 5 V2 SD
 http://38.49.128.38:8000/play/a0fl/index.m3u8
-#EXTINF:-1   group-title="Canal", CANAL 5 *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDZWvvA.png" group-title="Canal", CANAL 5 V2 HD
 http://38.49.128.38:8000/play/a0n6/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OK3XWkP.png" group-title="Canal",TLN Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -76,7 +75,19 @@ https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Canal",Justicia TV 
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
+
 ###################################################################################### ESTADOS
+
+#EXTINF:-1 group-title="Vacio", 35
+https://
+#EXTINF:-1 group-title="Vacio", 36
+https://
+#EXTINF:-1 group-title="Vacio", 37
+https://
+#EXTINF:-1 group-title="Vacio", 38
+https://
+#EXTINF:-1 group-title="Vacio", 39
+https://
 
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Canal",Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
@@ -110,6 +121,21 @@ https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 
 ###################################################################################### USA
 
+#EXTINF:-1 group-title="Vacio", 53
+https://
+#EXTINF:-1 group-title="Vacio", 54
+https://
+#EXTINF:-1 group-title="Vacio", 55
+https://
+#EXTINF:-1 group-title="Vacio", 56
+https://
+#EXTINF:-1 group-title="Vacio", 57
+https://
+#EXTINF:-1 group-title="Vacio", 58
+https://
+#EXTINF:-1 group-title="Vacio", 59
+https://
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 2
@@ -122,6 +148,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-e
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 ###################################################################################### LATAM Y CARIBE
+
+#EXTINF:-1 group-title="Vacio", 65
+https://
+#EXTINF:-1 group-title="Vacio", 66
+https://
+#EXTINF:-1 group-title="Vacio", 67
+https://
+#EXTINF:-1 group-title="Vacio", 68
+https://
+#EXTINF:-1 group-title="Vacio", 69
+https://
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Canal",WTV Canal 20 Nicaragua 
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
@@ -182,6 +219,11 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 ###################################################################################### ESPAÑA Y EUROPA
+
+#EXTINF:-1 group-title="Vacio", 98
+https://
+#EXTINF:-1 group-title="Vacio", 99
+https://
 
 #EXTINF:-1 tvg-logo="a" group-title="Canal",Tv Galicia 
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
@@ -293,6 +335,11 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
 ###################################################################################### CULTURA,CIENCIA Y ARTE
 
+#EXTINF:-1 group-title="Vacio", 148
+https://
+#EXTINF:-1 group-title="Vacio", 149
+https://
+
 #EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1274_Saber_Mas___Freetv_com.png" group-title="Canal", Free TV - Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Canal",DW Español
@@ -378,6 +425,19 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 ###################################################################################### PELICULAS
 
+#EXTINF:-1 group-title="Vacio", 184
+https://
+#EXTINF:-1 group-title="Vacio", 185
+https://
+#EXTINF:-1 group-title="Vacio", 186
+https://
+#EXTINF:-1 group-title="Vacio", 187
+https://
+#EXTINF:-1 group-title="Vacio", 188
+https://
+#EXTINF:-1 group-title="Vacio", 189
+https://
+
 #EXTINF:-1 tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="Canal",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://charlietv.000webhostapp.com/logos/de-pelicula-logo_2.png" group-title="Canal",De Pelicula
@@ -431,6 +491,21 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 
 ###################################################################################### Deportes
 
+#EXTINF:-1 group-title="Vacio", 213
+https://
+#EXTINF:-1 group-title="Vacio", 214
+https://
+#EXTINF:-1 group-title="Vacio", 215
+https://
+#EXTINF:-1 group-title="Vacio", 216
+https://
+#EXTINF:-1 group-title="Vacio", 217
+https://
+#EXTINF:-1 group-title="Vacio", 218
+https://
+#EXTINF:-1 group-title="Vacio", 219
+https://
+
 #EXTINF:-1 tvg-id="TUDN.mx@SD" group-title="Canal",TUDN
 https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Canal",ITV Deportes
@@ -448,6 +523,15 @@ https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 
 ###################################################################################### Noticias
 
+#EXTINF:-1 group-title="Vacio", 226
+https://
+#EXTINF:-1 group-title="Vacio", 227
+https://
+#EXTINF:-1 group-title="Vacio", 228
+https://
+#EXTINF:-1 group-title="Vacio", 229
+https://
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbm21St/france24.png" group-title="Canal",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://i.imgur.com/mxwe8hV.png" group-title="Canal",RT en Español 
@@ -462,6 +546,15 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 ###################################################################################### MUSICA
+
+#EXTINF:-1 group-title="Vacio", 235
+https://
+#EXTINF:-1 group-title="Vacio", 236
+https://
+#EXTINF:-1 group-title="Vacio", 237
+https://
+#EXTINF:-1 group-title="Vacio", 238
+https://
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="Canal",PlutoTV - MTV 
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
@@ -1113,133 +1206,43 @@ http://live.adultiptv.net/gay.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Private", file01
 https://archive.org/download/colossal-combo-43-1993/Colossal%20Combo%2043%20%281993%29.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file02
+https://archive.org/download/CopperheadCanyon/Copperhead%20Canyon.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file03
-https://archive.org/download/CopperheadCanyon/Copperhead%20Canyon.mp4
+https://archive.org/download/TheAddison/Addison%20%26%20Devin.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file04
-https://archive.org/download/bijou_1972/Bijou.1972.1080p.BluRay.mp4
+https://dn720303.ca.archive.org/0/items/stroke-video-the-best-of-the-biggest/Stroke%20Video%20-%20The%20Best%20Of%20The%20Biggest.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file05
+https://archive.org/download/christopher-rages-best-of-the-superstars/ChristopherRageSuperstars-003.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file06
+https://archive.org/download/bulletgoldvol2/Bullet%20Gold%20Vol%202.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file07
-https://archive.org/download/TheAddison/Addison%20%26%20Devin.mp4
+https://archive.org/download/do-me-evil-1975/DoMeEvil.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file08
+https://archive.org/download/HunksByPool/Rickys%20Porn/196.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file09
+https://archive.org/download/HunksByPool/Rickys%20Porn/197.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file10
-https://archive.org/download/iambearboy-movie-gif/iAmBearBoy%20Movie%20%26%20Gif.zip/iAmBearBoy%20Cum%20Collage%20%28%20THE%20MOVIE%20%29.mp4
+https://archive.org/download/HunksByPool/Rickys%20Porn/Alpha%20Male%20Fuckers-69.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file11
+https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20BiLatin%20Men.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file12
+https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20Raw%20Papi.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file13
-https://dn720303.ca.archive.org/0/items/stroke-video-the-best-of-the-biggest/Stroke%20Video%20-%20The%20Best%20Of%20The%20Biggest.mp4
+https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porno%20100.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file14
-https://archive.org/download/christopher-rages-best-of-the-superstars/ChristopherRageSuperstars-003.ia.mp4
+https://archive.org/download/HunksByPool/Rickys%20Porn/Hairy%20muscle%20bareback%20fuck.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file15
-https://archive.org/download/bulletgoldvol2/Bullet%20Gold%20Vol%202.mp4
+https://dn720702.ca.archive.org/0/items/gms-254/GMS254.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file16
-https://archive.org/download/do-me-evil-1975/DoMeEvil.ia.mp4
+https://archive.org/download/dial-justice/DIAL%20JUSTICE.mp4
 #EXTINF:-1 tvg-logo="" group-title="Private", file17
-https://archive.org/download/HunksByPool/Rickys%20Porn/01%20%284%29.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file18
-https://archive.org/download/HunksByPool/Rickys%20Porn/196.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file19
-https://archive.org/download/HunksByPool/Rickys%20Porn/197.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file20
-https://archive.org/download/HunksByPool/Rickys%20Porn/199.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file21
-https://archive.org/download/HunksByPool/Rickys%20Porn/200.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file22
-https://archive.org/download/HunksByPool/Rickys%20Porn/Alpha%20Male%20Fuckers-69%281%29.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file23
-https://archive.org/download/HunksByPool/Rickys%20Porn/Alpha%20Male%20Fuckers-69.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file24
-https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20BiLatin%20Men.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file25
-https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20Raw%20Papi.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file26
-https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porno%20100.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file27
-https://archive.org/download/HunksByPool/Rickys%20Porn/Hairy%20muscle%20bareback%20fuck.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file28
-https://archive.org/download/HunksByPool/Rickys%20Porn/Hunks%20by%20pool.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file31
-https://dn720702.ca.archive.org/0/items/gms-254/GMS254.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file33
-https://archive.org/download/dial-justice/DIAL%20JUSTICE.mp4
-#EXTINF:-1 tvg-logo="" group-title="Private", file34
 https://archive.org/download/when-the-boss-is-away/When%20The%20Boss%20Is%20Away.mp4
-#EXTINF:-1 group-title="Private", File 35
+#EXTINF:-1 group-title="Private", File 18
 https://dn720006.ca.archive.org/0/items/one-and-only-dominator-1992/One%20and%20Only%20Dominator%20%281992%29.mp4
-#EXTINF:-1 group-title="Private", File 40
-https://dn721803.ca.archive.org/0/items/TheAddison/Harley%20%26%20Addison.mp4
-#EXTINF:-1 group-title="Private", File 41
-https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Alpha%20Male%20Fuckers-69%281%29.mp4
-#EXTINF:-1 group-title="Private", File 42
-https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20BiLatin%20Men.mp4
-#EXTINF:-1 group-title="Private", File 43
-https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20Raw%20Papi.mp4
-#EXTINF:-1 group-title="Private", File 44
-https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Gay%20Porno%20100.mp4
-#EXTINF:-1 group-title="Private", File 45
-https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Hairy%20muscle%20bareback%20fuck.mp4
-#EXTINF:-1 group-title="Private", File 46
-https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Hot%20Brazilian%20Men%20Tree%20House.mp4
-#EXTINF:-1 group-title="Private", File 47
-https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Hunks%20by%20pool.mp4
-#EXTINF:-1 group-title="Private", File 48
+#EXTINF:-1 group-title="Private", File 19
 https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Latino%20Raw%20Fuck.mp4
-#EXTINF:-1 group-title="Private", File 49
+#EXTINF:-1 group-title="Private", File 20
 https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/aday%20traun%20isaac%20eliad.mp4
-#EXTINF:-1 group-title="Private", File 50
-https://dn720303.ca.archive.org/0/items/stroke-video-the-best-of-the-biggest/Stroke%20Video%20-%20The%20Best%20Of%20The%20Biggest.mp4
-v#EXTINF:-1 group-title="Private", File 51
-https://archive.org/download/christopher-rages-best-of-the-superstars/ChristopherRageSuperstars-003.ia.mp4
-#EXTINF:-1 group-title="Private", File 52
-https://archive.org/download/bulletgoldvol2/Bullet%20Gold%20Vol%202.mp4
-#EXTINF:-1 group-title="Private", File 53
-https://archive.org/download/do-me-evil-1975/DoMeEvil.ia.mp4
-#EXTINF:-1 group-title="Private", File 54
-https://archive.org/download/HunksByPool/Rickys%20Porn/01%20%284%29.mp4
-#EXTINF:-1 group-title="Private", File 55
-https://archive.org/download/HunksByPool/Rickys%20Porn/196.mp4
-#EXTINF:-1 group-title="Private", File 56
-https://archive.org/download/HunksByPool/Rickys%20Porn/197.mp4
-#EXTINF:-1 group-title="Private", File 57
-https://archive.org/download/HunksByPool/Rickys%20Porn/199.mp4
-#EXTINF:-1 group-title="Private", File 58
-https://archive.org/download/HunksByPool/Rickys%20Porn/200.mp4
-#EXTINF:-1 group-title="Private", File 59
-https://archive.org/download/HunksByPool/Rickys%20Porn/Alpha%20Male%20Fuckers-69%281%29.mp4
-#EXTINF:-1 group-title="Private", File 60
-https://archive.org/download/HunksByPool/Rickys%20Porn/Alpha%20Male%20Fuckers-69.mp4
-#EXTINF:-1 group-title="Private", File 61
-https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20BiLatin%20Men.mp4
-#EXTINF:-1 group-title="Private", File 62
-https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20Raw%20Papi.mp4
-#EXTINF:-1 group-title="Private", File 63
-https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porno%20100.mp4
-#EXTINF:-1 group-title="Private", File 64
-https://archive.org/download/HunksByPool/Rickys%20Porn/Hairy%20muscle%20bareback%20fuck.mp4
-#EXTINF:-1 group-title="Private", File 65
-https://archive.org/download/HunksByPool/Rickys%20Porn/Hunks%20by%20pool.mp4
-#EXTINF:-1 group-title="Private", File 66
-https://archive.org/download/HunksByPool/Rickys%20Porn/Latino%20Raw%20Fuck.mp4
-#EXTINF:-1 group-title="Private", File 67
-https://archive.org/download/HunksByPool/Rickys%20Porn/aday%20traun%20isaac%20eliad.mp4
-#EXTINF:-1 group-title="Private", File 68
-https://dn720702.ca.archive.org/0/items/gms-254/GMS254.mp4
-#EXTINF:-1 group-title="Private", File 69
+#EXTINF:-1 group-title="Private", File 21
 https://archive.org/download/redemption-the-abduction-series-part-3/Redemption%20%28The%20Abduction%20Series%20Part%203%29.mp4
-#EXTINF:-1 group-title="Private", File 70
-https://archive.org/download/dial-justice/DIAL%20JUSTICE.mp4
-#EXTINF:-1 group-title="Private", File 71
-https://archive.org/download/when-the-boss-is-away/When%20The%20Boss%20Is%20Away.mp4
-#EXTINF:-1 group-title="Private", File 72
-https://archive.org/download/colossal-combo-43-1993/Colossal%20Combo%2043%20%281993%29.mp4
-#EXTINF:-1 group-title="Private", File 73
-https://archive.org/download/one-and-only-dominator-1992/One%20and%20Only%20Dominator%20%281992%29.mp4
-#EXTINF:-1 group-title="Private", File 74
-https://archive.org/download/CopperheadCanyon/Copperhead%20Canyon.mp4
-#EXTINF:-1 group-title="Private", File 75
-https://archive.org/download/bijou_1972/Bijou.1972.1080p.BluRay.mp4
-#EXTINF:-1 group-title="Private", File 78
-https://archive.org/download/TheAddison/Addison%20%26%20Devin.mp4
-#EXTINF:-1 group-title="Private", File 79
-https://archive.org/download/TheAddison/Harley%20%26%20Addison.mp4
-#EXTINF:-1 group-title="Private", File 80
-https://archive.org/download/untitled-video-made-with-clipchamp-4_202510/Untitled%20video%20-%20Made%20with%20Clipchamp%20%284%29.ia.mp4
-#EXTINF:-1 group-title="Private", File 81
-https://archive.org/download/iambearboy-movie-gif/iAmBearBoy%20Movie%20%26%20Gif.zip/iAmBearBoy%20Cum%20Collage%20%28%20THE%20MOVIE%20%29.mp4
-#EXTINF:-1 group-title="Private", File 82
-https://ia801401.us.archive.org/6/items/1728069313737756701-1/1728069313737756701_1.ia.mp4
