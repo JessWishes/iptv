@@ -5,7 +5,7 @@
 
 ###################################################################################### LOCAL
 
-#EXTINF:-1 tvg-id="teleyucatan.tv" tvg-logo="https://i.imgur.com/Ybty01t.jpeg" group-title="Canal" tvg-name="teleyucatan.tv",Tele Yucatán
+#EXTINF:-1 tvg-id="teleyucatan.tv" tvg-logo="https://i.imgur.com/Ybty01t.jpeg" group-title="Canal",Tele Yucatán
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Canal",SIPSE TV
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
@@ -16,14 +16,6 @@ https://player.tvstream.mx/livestream/teleplay/livesd/chunks.m3u8
 #EXTINF:-1 group-title="Canal",Canal 5 TV Cozumel
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 
-#EXTINF:-1 group-title="Vacio", 06
-https://
-#EXTINF:-1 group-title="Vacio", 07
-https://
-#EXTINF:-1 group-title="Vacio", 08
-https://
-#EXTINF:-1 group-title="Vacio", 09
-https://
 ###################################################################################### NACIONAL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal",Azteca Uno
@@ -80,17 +72,6 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
 ###################################################################################### ESTADOS
 
-#EXTINF:-1 group-title="Vacio", 35
-https://
-#EXTINF:-1 group-title="Vacio", 36
-https://
-#EXTINF:-1 group-title="Vacio", 37
-https://
-#EXTINF:-1 group-title="Vacio", 38
-https://
-#EXTINF:-1 group-title="Vacio", 39
-https://
-
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Canal",Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-id="Capital21.mx@SD" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Canal",Capital 21
@@ -123,21 +104,6 @@ https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 
 ###################################################################################### USA
 
-#EXTINF:-1 group-title="Vacio", 53
-https://
-#EXTINF:-1 group-title="Vacio", 54
-https://
-#EXTINF:-1 group-title="Vacio", 55
-https://
-#EXTINF:-1 group-title="Vacio", 56
-https://
-#EXTINF:-1 group-title="Vacio", 57
-https://
-#EXTINF:-1 group-title="Vacio", 58
-https://
-#EXTINF:-1 group-title="Vacio", 59
-https://
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 2
@@ -150,17 +116,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-e
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 ###################################################################################### LATAM Y CARIBE
-
-#EXTINF:-1 group-title="Vacio", 65
-https://
-#EXTINF:-1 group-title="Vacio", 66
-https://
-#EXTINF:-1 group-title="Vacio", 67
-https://
-#EXTINF:-1 group-title="Vacio", 68
-https://
-#EXTINF:-1 group-title="Vacio", 69
-https://
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Canal",WTV Canal 20 Nicaragua 
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
@@ -221,11 +176,6 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 ###################################################################################### ESPAÑA Y EUROPA
-
-#EXTINF:-1 group-title="Vacio", 98
-https://
-#EXTINF:-1 group-title="Vacio", 99
-https://
 
 #EXTINF:-1 tvg-logo="a" group-title="Canal",Tv Galicia 
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
@@ -337,11 +287,6 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
 ###################################################################################### CULTURA,CIENCIA Y ARTE
 
-#EXTINF:-1 group-title="Vacio", 148
-https://
-#EXTINF:-1 group-title="Vacio", 149
-https://
-
 #EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1274_Saber_Mas___Freetv_com.png" group-title="Canal", Free TV - Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Canal",DW Español
@@ -427,19 +372,6 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 ###################################################################################### PELICULAS
 
-#EXTINF:-1 group-title="Vacio", 184
-https://
-#EXTINF:-1 group-title="Vacio", 185
-https://
-#EXTINF:-1 group-title="Vacio", 186
-https://
-#EXTINF:-1 group-title="Vacio", 187
-https://
-#EXTINF:-1 group-title="Vacio", 188
-https://
-#EXTINF:-1 group-title="Vacio", 189
-https://
-
 #EXTINF:-1 tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="Canal",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://charlietv.000webhostapp.com/logos/de-pelicula-logo_2.png" group-title="Canal",De Pelicula
@@ -493,21 +425,6 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 
 ###################################################################################### Deportes
 
-#EXTINF:-1 group-title="Vacio", 213
-https://
-#EXTINF:-1 group-title="Vacio", 214
-https://
-#EXTINF:-1 group-title="Vacio", 215
-https://
-#EXTINF:-1 group-title="Vacio", 216
-https://
-#EXTINF:-1 group-title="Vacio", 217
-https://
-#EXTINF:-1 group-title="Vacio", 218
-https://
-#EXTINF:-1 group-title="Vacio", 219
-https://
-
 #EXTINF:-1 tvg-id="TUDN.mx@SD" group-title="Canal",TUDN
 https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Canal",ITV Deportes
@@ -525,15 +442,6 @@ https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 
 ###################################################################################### Noticias
 
-#EXTINF:-1 group-title="Vacio", 226
-https://
-#EXTINF:-1 group-title="Vacio", 227
-https://
-#EXTINF:-1 group-title="Vacio", 228
-https://
-#EXTINF:-1 group-title="Vacio", 229
-https://
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbm21St/france24.png" group-title="Canal",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://i.imgur.com/mxwe8hV.png" group-title="Canal",RT en Español 
@@ -548,15 +456,6 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 ###################################################################################### MUSICA
-
-#EXTINF:-1 group-title="Vacio", 235
-https://
-#EXTINF:-1 group-title="Vacio", 236
-https://
-#EXTINF:-1 group-title="Vacio", 237
-https://
-#EXTINF:-1 group-title="Vacio", 238
-https://
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="Canal",PlutoTV - MTV 
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
@@ -1203,8 +1102,7 @@ http://45.5.119.43:4000/play/a027/index.m3u8
 
 
 #################################################################################################
-#EXTINF:-1 tvg-logo="" group-title="Private", PrivateLiveCam
-http://live.adultiptv.net/gay.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Private", file01
 https://archive.org/download/colossal-combo-43-1993/Colossal%20Combo%2043%20%281993%29.mp4
@@ -1248,3 +1146,6 @@ https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Latino%20Raw%2
 https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/aday%20traun%20isaac%20eliad.mp4
 #EXTINF:-1 group-title="Private", File 21
 https://archive.org/download/redemption-the-abduction-series-part-3/Redemption%20%28The%20Abduction%20Series%20Part%203%29.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Private", PrivateLiveCam
+http://live.adultiptv.net/gay.m3u8
