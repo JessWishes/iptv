@@ -116,7 +116,7 @@
 	</channel>
   	<programme channel="imagentv" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Imgaen Televisión</title>
-		<desc></desc>
+		<desc> </desc>
 		<icon src=""/>
 		<category>Games</category>
 	</programme>
