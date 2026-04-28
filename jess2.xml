@@ -3,11 +3,11 @@
 	<channel id="teleyucatan.tv">
 		<display-name>teleyucatan.tv</display-name>
 	</channel>
-  	<programme channel="teleyucatan.tv" start="20260101010000 +0000" stop="20300916235000 +0000">
+  	<programme channel="teleyucatan.tv" start="20250101000000 +0000" stop="20270101000000 +0000">
 		<title>Tele Yucatán</title>
 		<desc>Televisión del Gobierno del estado de Yucatán.</desc>
 		<icon src="https://i.imgur.com/Ybty01t.jpeg"/>
-		<category>Local</category>
+		<category>Family</category>
 	</programme>
 </tv>
 
