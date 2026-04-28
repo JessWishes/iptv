@@ -17,7 +17,7 @@
 		<title>Grupo Sipse Televisión</title>
 		<desc>Televisora del sureste, programación local de la ciudad de Mérida.</desc>
 		<icon src=""/>
-		<category>Kids</category>
+		<category>Family</category>
 	</programme>
 	
 	<channel id="sipse2">
@@ -27,7 +27,7 @@
 		<title>Grupo Sipse Televisión</title>
 		<desc>Televisora del sureste, programación local de la ciudad de Cancún.</desc>
 		<icon src=""/>
-		<category>Sports</category>
+		<category>Family</category>
 	</programme>
 
 	
@@ -38,7 +38,7 @@
 		<title>Tele Play</title>
 		<desc>Noticias, deportes y entretenimiento en línea desde el estado de Yucatán y el sureste.</desc>
 		<icon src=""/>
-		<category>Shoppings</category>
+		<category>Family</category>
 	</programme>
 
 	<channel id="aztecauno">
@@ -48,7 +48,7 @@
 		<title>Azteca Uno</title>
 		<desc>Programación nacional de México en la frecuencia 1.1.</desc>
 		<icon src=""/>
-		<category>Movies</category>
+		<category>Family</category>
 	</programme>
 
 	<channel id="aztecaint">
@@ -58,7 +58,7 @@
 		<title>Azteca Internacional</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Comedy</category>
+		<category>Family</category>
 	</programme>
 
 	<channel id="adn40">
@@ -68,7 +68,7 @@
 		<title>ADN 40</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Travels</category>
+		<category>Family</category>
 	</programme>
 
 	<channel id="aztecadep">
@@ -78,7 +78,7 @@
 		<title>Azteca Deportes</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Drama</category>
+		<category>Family</category>
 	</programme>
 	
 	<channel id="azteca7">
@@ -88,7 +88,7 @@
 		<title>Azteca 7</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Education</category>
+		<category>Family</category>
 	</programme>
 
 	<channel id="amas">
@@ -98,7 +98,7 @@
 		<title>Azteca Más</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Animals</category>
+		<category>Family</category>
 	</programme>
 
 	<channel id="aztecacor">
@@ -108,7 +108,7 @@
 		<title>Azteca Corazón</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>News</category>
+		<category>Family</category>
 	</programme>
 
 	<channel id="imagentv">
@@ -118,7 +118,23 @@
 		<title>Imgaen Televisión</title>
 		<desc> </desc>
 		<icon src=""/>
-		<category>Games</category>
+		<category>Family</category>
+	</programme>
+
+
+
+
+
+
+
+	<channel id="mosaico">
+		<display-name>mosaico</display-name>
+	</channel>
+  	<programme channel="mosaico" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Mosaico Divisor por categoría</title>
+		<desc> Canal sin contenido, unicamente es usado como divisor entre categorias.</desc>
+		<icon src=""/>
+		<category>Shopping</category>
 	</programme>
 	
 </tv>
