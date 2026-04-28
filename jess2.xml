@@ -17,7 +17,7 @@
 		<title>Grupo Sipse Televisión</title>
 		<desc>Televisora del sureste, programación local de la ciudad de Mérida.</desc>
 		<icon src=""/>
-		<category>Familia</category>
+		<category>Kids</category>
 	</programme>
 	
 	<channel id="sipse2">
@@ -27,7 +27,7 @@
 		<title>Grupo Sipse Televisión</title>
 		<desc>Televisora del sureste, programación local de la ciudad de Cancún.</desc>
 		<icon src=""/>
-		<category>Fam</category>
+		<category>Sports</category>
 	</programme>
 
 	
@@ -38,7 +38,7 @@
 		<title>Tele Play</title>
 		<desc>Noticias, deportes y entretenimiento en línea desde el estado de Yucatán y el sureste.</desc>
 		<icon src=""/>
-		<category>Estrenos</category>
+		<category>Shoppings</category>
 	</programme>
 
 	<channel id="aztecauno">
@@ -48,7 +48,7 @@
 		<title>Azteca Uno</title>
 		<desc>Programación nacional de México en la frecuencia 1.1.</desc>
 		<icon src=""/>
-		<category>Premier</category>
+		<category>Movies</category>
 	</programme>
 
 	<channel id="aztecaint">
@@ -58,7 +58,7 @@
 		<title>Azteca Internacional</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Release</category>
+		<category>Comedy</category>
 	</programme>
 
 	<channel id="adn40">
@@ -68,7 +68,7 @@
 		<title>ADN 40</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>Travels</category>
 	</programme>
 
 	<channel id="aztecadep">
@@ -78,7 +78,7 @@
 		<title>Azteca Deportes</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>Drama</category>
 	</programme>
 	
 	<channel id="azteca7">
@@ -88,7 +88,7 @@
 		<title>Azteca 7</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>Education</category>
 	</programme>
 
 	<channel id="amas">
@@ -98,7 +98,7 @@
 		<title>Azteca Más</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>Animals</category>
 	</programme>
 
 	<channel id="aztecacor">
@@ -108,7 +108,7 @@
 		<title>Azteca Corazón</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>News</category>
 	</programme>
 
 	<channel id="imagentv">
@@ -118,7 +118,7 @@
 		<title>Imgaen Televisión</title>
 		<desc></desc>
 		<icon src=""/>
-		<category>Family</category>
+		<category>Games</category>
 	</programme>
 	
 </tv>
