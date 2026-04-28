@@ -1,13 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-	<channel id="teleyucatan.tv">
-		<display-name>teleyucatan.tv</display-name>
+	<channel id="teleyucatan">
+		<display-name>teleyucatan</display-name>
 	</channel>
-  	<programme channel="teleyucatan.tv" start="20250101000000 +0000" stop="20270101000000 +0000">
+  	<programme channel="teleyucatan" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Tele Yucatán</title>
 		<desc>Televisión del Gobierno del estado de Yucatán.</desc>
 		<icon src="https://i.imgur.com/Ybty01t.jpeg"/>
 		<category>Family</category>
 	</programme>
+
+	<channel id="sipse1">
+		<display-name>sipse1</display-name>
+	</channel>
+  	<programme channel="sipse1" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Grupo Sipse Televisión</title>
+		<desc>Televisora del sureste, programación local de la ciudad de Mérida.</desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+	
+	<channel id="sipse2">
+		<display-name>sipse2</display-name>
+	</channel>
+  	<programme channel="sipse2" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Grupo Sipse Televisión</title>
+		<desc>Televisora del sureste, programación local de la ciudad de Cancún.</desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+
+	
+	<channel id="teleplay">
+		<display-name>teleplay</display-name>
+	</channel>
+  	<programme channel="teleplay" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Tele Play</title>
+		<desc>Noticias, deportes y entretenimiento en línea desde el estado de Yucatán y el sureste.</desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+
+	<channel id="aztecauno">
+		<display-name>aztecauno</display-name>
+	</channel>
+  	<programme channel="aztecauno" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Azteca Uno</title>
+		<desc>Programación nacional de México en la frecuencia 1.1.</desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+
+	<channel id="aztecaint">
+		<display-name>azteaint</display-name>
+	</channel>
+  	<programme channel="aztecaint" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Azteca Internacional</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+
+	<channel id="adn40">
+		<display-name>adn40</display-name>
+	</channel>
+  	<programme channel="adn40" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>ADN 40</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+
+	<channel id="aztecadep">
+		<display-name>aztecadep</display-name>
+	</channel>
+  	<programme channel="aztecadep" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Azteca Deportes</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+	
+	<channel id="azteca7">
+		<display-name>azteca7</display-name>
+	</channel>
+  	<programme channel="azteca7" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Azteca 7</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+
+	<channel id="amas">
+		<display-name>amas</display-name>
+	</channel>
+  	<programme channel="amas" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Azteca Más</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+
+	<channel id="aztecacor">
+		<display-name>aztecacor</display-name>
+	</channel>
+  	<programme channel="aztecacor" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Azteca Corazón</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+
+	<channel id="imagentv">
+		<display-name>imagentv</display-name>
+	</channel>
+  	<programme channel="imagentv" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Imgaen Televisión</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Family</category>
+	</programme>
+	
 </tv>
+
 
