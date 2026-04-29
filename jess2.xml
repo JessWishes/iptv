@@ -6,7 +6,6 @@
   	<programme channel="teleyucatan" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Tele Yucatán</title>
 		<desc>Televisión del Gobierno del estado de Yucatán.</desc>
-		<icon src="https://i.imgur.com/Ybty01t.jpeg"/>
 		<category>Family</category>
 	</programme>
 
@@ -16,7 +15,6 @@
   	<programme channel="sipse1" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Grupo Sipse Televisión</title>
 		<desc>Televisora del sureste, programación local de la ciudad de Mérida.</desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 	
@@ -26,18 +24,15 @@
   	<programme channel="sipse2" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Grupo Sipse Televisión</title>
 		<desc>Televisora del sureste, programación local de la ciudad de Cancún.</desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 
-	
 	<channel id="teleplay">
 		<display-name>teleplay</display-name>
 	</channel>
   	<programme channel="teleplay" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Tele Play</title>
 		<desc>Noticias, deportes y entretenimiento en línea desde el estado de Yucatán y el sureste.</desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 
@@ -47,7 +42,6 @@
   	<programme channel="aztecauno" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Azteca Uno</title>
 		<desc>Programación nacional de México en la frecuencia 1.1.</desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 
@@ -57,7 +51,6 @@
   	<programme channel="aztecaint" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Azteca Internacional</title>
 		<desc></desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 
@@ -67,7 +60,6 @@
   	<programme channel="adn40" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>ADN 40</title>
 		<desc></desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 
@@ -77,7 +69,6 @@
   	<programme channel="aztecadep" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Azteca Deportes</title>
 		<desc></desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 	
@@ -87,7 +78,6 @@
   	<programme channel="azteca7" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Azteca 7</title>
 		<desc></desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 
@@ -97,7 +87,6 @@
   	<programme channel="amas" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Azteca Más</title>
 		<desc></desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 
@@ -107,7 +96,6 @@
   	<programme channel="aztecacor" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Azteca Corazón</title>
 		<desc></desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 
@@ -117,7 +105,6 @@
   	<programme channel="imagentv" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Imgaen Televisión</title>
 		<desc> </desc>
-		<icon src=""/>
 		<category>Family</category>
 	</programme>
 
@@ -131,7 +118,7 @@
 		<display-name>mosaico</display-name>
 	</channel>
   	<programme channel="mosaico" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>  </title>
+		<title>  ========== MOSAICO ==========</title>
 		<desc> Canal sin contenido, unicamente es usado como divisor entre categorias.</desc>
 		<icon src="https://i.imgur.com/TTND24i.jpeg"/>
 		<category>Shopping</category>
