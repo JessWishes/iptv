@@ -6,23 +6,11 @@
 
 ###################################################################################### LOCAL
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES LOCALES    
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",LOCALES   
 https://i.imgur.com/TTND24i.jpeg
-
-#EXTINF:-1 group-title="Vacio", 02
-http://
 
 #EXTINF:-1 tvg-id="teleyucatan" tvg-logo="https://i.imgur.com/Ybty01t.jpeg" group-title="Canal; Local",Tele Yucatán
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
-
-#EXTINF:-1 group-title="Vacio", 04
-http://
-#EXTINF:-1 group-title="Vacio", 05
-http://
-#EXTINF:-1 group-title="Vacio", 06
-http://
-#EXTINF:-1 group-title="Vacio", 07
-http://
 
 #EXTINF:-1 tvg-id="sipse1" tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Canal; Local",SIPSE TV
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
@@ -30,28 +18,8 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-id="sipse2" tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="Canal; Local",SIPSE TV Cancún
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
-#EXTINF:-1 group-title="Vacio", 10
-http://
-#EXTINF:-1 group-title="Vacio", 11
-http://
-#EXTINF:-1 group-title="Vacio", 12
-http://
-#EXTINF:-1 group-title="Vacio", 13
-http://
-#EXTINF:-1 group-title="Vacio", 14
-http://
-
 #EXTINF:-1 tvg-id="teleplay" tvg-logo="https://i.imgur.com/KMUJXb6.png" group-title="Canal; Local",Teleplay
 https://player.tvstream.mx/livestream/teleplay/livesd/chunks.m3u8
-
-#EXTINF:-1 group-title="Vacio", 16
-http://
-#EXTINF:-1 group-title="Vacio", 17
-http://
-#EXTINF:-1 group-title="Vacio", 18
-http://
-#EXTINF:-1 group-title="Vacio", 19
-http://
 
 ###################################################################################### NACIONAL
 
@@ -75,33 +43,8 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="aztecacor" tvg-logo="https://i.imgur.com/12Xhm3t.png" group-title="Canal",Azteca Corazón
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
 
-#EXTINF:-1 group-title="Vacio", 19
-http://
-
 #EXTINF:-1 tvg-id="imagentv" group-title="Canal",Imagen TV+
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
-
-#EXTINF:-1 group-title="Vacio", 21
-http://
-#EXTINF:-1 group-title="Vacio", 22
-http://
-#EXTINF:-1 group-title="Vacio", 23
-http://
-#EXTINF:-1 group-title="Vacio", 24
-http://
-#EXTINF:-1 group-title="Vacio", 25
-http://
-#EXTINF:-1 group-title="Vacio", 26
-http://
-#EXTINF:-1 group-title="Vacio", 27
-http://
-#EXTINF:-1 group-title="Vacio", 28
-http://
-#EXTINF:-1 group-title="Vacio", 29
-http://
-#EXTINF:-1 group-title="Vacio", 30
-http://
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -113,17 +56,6 @@ http://45.5.119.43:4000/play/a05o/index.m3u8
 http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OK3XWkP.png" group-title="Canal",TLN Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Vacio", 36
-http://
-#EXTINF:-1 group-title="Vacio", 37
-http://
-#EXTINF:-1 group-title="Vacio", 38
-http://
-#EXTINF:-1 group-title="Vacio", 39
-http://
-#EXTINF:-1 group-title="Vacio", 40
-http://
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
@@ -146,7 +78,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 ###################################################################################### ESTADOS
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES ESTATALES
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ESTADOS
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios Monterrey 
@@ -176,7 +108,7 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
 ###################################################################################### USA
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES DE USA
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",USA
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV
@@ -192,7 +124,7 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 ###################################################################################### LATAM Y CARIBE
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES DE LATAM
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",LATAM
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Canal",WTV Canal 20 Nicaragua
@@ -249,7 +181,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 ###################################################################################### ESPAÑA Y EUROPA
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES DE ESPAÑA
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ESPAÑA
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="a" group-title="Canal",Tv Galicia 
@@ -271,7 +203,7 @@ http://187.190.55.136:5501/udp/225.1.1.20:5020
 
 ###################################################################################### ENTRETENIMIENTO
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES ENTRETENIMIENTO
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ENTRETENIMIENTO
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Canal",Kanal D Drama 
@@ -352,7 +284,7 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
 ###################################################################################### CULTURA,CIENCIA Y ARTE
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES DE CULTURA
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",MUNDO
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Canal",History
@@ -400,7 +332,7 @@ https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.t
 
 ###################################################################################### Animación
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ANIMACIONES
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ANIMACIóN
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZi5qjwSq79cNeiCVY30BVZSyKO63Hlm_zQ&s" group-title="Canal",GogoPlay
@@ -411,8 +343,6 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Canal",EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-
-
 
 #EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Canal",Memorias TV Toons
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
@@ -444,7 +374,7 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 ###################################################################################### PELICULAS
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES DE PELICULAS
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",PELICULAS
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="Canal",MX Nuestro Cine
@@ -487,7 +417,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="Canal",Canal DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Rakuten TV Cine España
 https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Rakuten TV Sci-Fi España 
@@ -500,7 +429,7 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 
 ###################################################################################### Deportes
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES DE DEPORTES
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",DEPORTES
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="TUDN.mx@SD" group-title="Canal",TUDN
@@ -520,7 +449,7 @@ https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 
 ###################################################################################### Noticias
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES DE NOTICIAS
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",NOTICIAS
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbm21St/france24.png" group-title="Canal",France 24 Español
@@ -538,7 +467,7 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 ###################################################################################### MUSICA
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES DE MUSICA
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",MUSICA
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="Canal",PlutoTV - MTV 
@@ -1232,3 +1161,5 @@ https://archive.org/download/redemption-the-abduction-series-part-3/Redemption%2
 
 #EXTINF:-1 tvg-logo="" group-title="Private", PrivateLiveCam
 http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="Vacio", 02
+http://
