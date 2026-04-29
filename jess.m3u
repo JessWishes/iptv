@@ -5,8 +5,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
 
 ###################################################################################### LOCAL
+
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES LOCALES
-https://
+https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="teleyucatan" tvg-logo="https://i.imgur.com/Ybty01t.jpeg" group-title="Canal",Tele Yucatán
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8 
@@ -17,9 +18,19 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-id="teleplay" tvg-logo="https://i.imgur.com/KMUJXb6.png" group-title="Canal",Teleplay
 https://player.tvstream.mx/livestream/teleplay/livesd/chunks.m3u8
 
+#EXTINF:-1 group-title="Vacio", 06
+http://
+#EXTINF:-1 group-title="Vacio", 07
+http://
+#EXTINF:-1 group-title="Vacio", 08
+http://
+#EXTINF:-1 group-title="Vacio", 09
+http://
+
 ###################################################################################### NACIONAL
+
 #EXTINF:-1 tvg-id="mosaico" group-title="Canal",CANALES NACIONALES
-https://
+https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="aztecauno"tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -37,20 +48,57 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="aztecacor" tvg-logo="https://i.imgur.com/12Xhm3t.png" group-title="Canal",Azteca Corazón
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
+
+#EXTINF:-1 group-title="Vacio", 19
+http://
+
 #EXTINF:-1 tvg-id="imagentv" group-title="Canal",Imagen TV+
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
+
+#EXTINF:-1 group-title="Vacio", 21
+http://
+#EXTINF:-1 group-title="Vacio", 22
+http://
+#EXTINF:-1 group-title="Vacio", 23
+http://
+#EXTINF:-1 group-title="Vacio", 24
+http://
+#EXTINF:-1 group-title="Vacio", 25
+http://
+#EXTINF:-1 group-title="Vacio", 26
+http://
+#EXTINF:-1 group-title="Vacio", 27
+http://
+#EXTINF:-1 group-title="Vacio", 28
+http://
+#EXTINF:-1 group-title="Vacio", 29
+http://
+#EXTINF:-1 group-title="Vacio", 30
+http://
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ruv3rhO.png" group-title="Canal",N+ Foro
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDZWvvA.png" group-title="Canal", Canal 5 V1
 http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDZWvvA.png" group-title="Canal", CANAL 5 V2 HD
 http://38.49.128.38:8000/play/a0n6/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OK3XWkP.png" group-title="Canal",TLN Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Vacio", 36
+http://
+#EXTINF:-1 group-title="Vacio", 37
+http://
+#EXTINF:-1 group-title="Vacio", 38
+http://
+#EXTINF:-1 group-title="Vacio", 39
+http://
+#EXTINF:-1 group-title="Vacio", 40
+http://
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Canal",TeleFórmula 
@@ -71,6 +119,9 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 ###################################################################################### ESTADOS
+
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",CANALES ESTATALES
+https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios Monterrey 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
