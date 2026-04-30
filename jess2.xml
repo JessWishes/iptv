@@ -13,7 +13,7 @@
 		<display-name>sipse1</display-name>
 	</channel>
   	<programme channel="sipse1" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Grupo Sipse Televisión</title>
+		<title>Grupo Sipse Televisión Mérida</title>
 		<desc>Televisora del sureste, programación local de la ciudad de Mérida.</desc>
 		<category>Family</category>
 	</programme>
@@ -22,7 +22,7 @@
 		<display-name>sipse2</display-name>
 	</channel>
   	<programme channel="sipse2" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Grupo Sipse Televisión</title>
+		<title>Grupo Sipse Televisión Cancún</title>
 		<desc>Televisora del sureste, programación local de la ciudad de Cancún.</desc>
 		<category>Family</category>
 	</programme>
