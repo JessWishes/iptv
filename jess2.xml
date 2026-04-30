@@ -306,10 +306,10 @@
 		<category>Family</category>
 	</programme>
 
-	<channel id="canal33">
+	<channel id="canal33tijuana">
 		<display-name></display-name>
 	</channel>
-  	<programme channel="canal33" start="20260101000000 +0000" stop="20300101000000 +0000">
+  	<programme channel="canal33tijuana" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Canal 33 Tijuana</title>
 		<desc> </desc>
 		<category>Family</category>
