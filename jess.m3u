@@ -283,6 +283,10 @@ https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Canal",History
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="lovenature" tvg-logo="https://i.imgur.com/6JDSIHF.png" group-title="Canal",Love Nature
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+#EXTINF:-1 tvg-id="lovenatureing" tvg-logo="https://i.imgur.com/6JDSIHF.png" group-title="Canal",Love Nature Inglés
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1274_Saber_Mas___Freetv_com.png" group-title="Canal", Free TV - Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Canal",DW Español
@@ -292,6 +296,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Canal",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="turistiktv" tvg-logo="https://i.imgur.com/jFtTbcN.png" group-title="Canal", Turistik TV
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Homeful.ca@US" group-title="Canal",Homeful Español
 https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
@@ -467,6 +473,8 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Canal",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RBK72UT.png" group-title="Canal",TV One Perú
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Canal",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
@@ -497,29 +505,18 @@ https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 
 ###################################################################################### NO REVISADOS / UNCHECKED
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Love Nature Inglés
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
 #EXTINF:-1 , 01 
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 
-#EXTINF:-1 , tvg-id="" tvg-logo="" group-title="Canal",Welbeing TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Welbeing TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 , 02
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream105/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal", Turistik TV
-https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",TV One Perú
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-
 #EXTINF:-1 , 03
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Love Nature
-https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
 #EXTINF:-1 , 04
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
