@@ -245,8 +245,8 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 group-title="Empty",Canal 105
 https://
 
-#EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 group-title="Empty", Canal 106
+https://
 
 #EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -254,13 +254,13 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canal",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 group-title="Empty",Canal 109
-https://
+#EXTINF:-1 tvg-id="nuevetv" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Canal",Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
-#EXTINF:-1 group-title="Empty",Canal 110
-https://
+#EXTINF:-1 tvg-id="canal10chiapas" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="Canal",Canal 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="oncemx" tvg-id="XEIPNTDT.mx@SD" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Canal",Once Mx
+#EXTINF:-1 tvg-id="oncemx" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Canal",Once Mx
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 
 #EXTINF:-1 tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Canal",Once.3 Mx
@@ -281,23 +281,24 @@ https://
 #EXTINF:-1 group-title="Empty",Canal 117
 https://
 
-#EXTINF:-1 group-title="Empty",Canal 118
-https://
-
-#EXTINF:-1 group-title="Empty",Canal 119
-https://
-
 #EXTINF:-1 tvg-id="amas" tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Canal",A más
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="aztecacor" tvg-logo="https://i.imgur.com/12Xhm3t.png" group-title="Canal",Az Corazón
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
 
-#EXTINF:-1 tvg-id="canal22" tvg-logo="" group-title="Canal",Canal 22
+
+#EXTINF:-1 group-title="Empty",Canal 120
+https://
+
+#EXTINF:-1 tvg-id="capital21" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Canal",Capital 21
+https://video.cdmx.gob.mx/redes/stream.m3u8
+
+#EXTINF:-1 tvg-id="canal22" tvg-logo="https://i.imgur.com/RnU7m5t.png" group-title="Canal",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w1006476711.m3u8
 
-#EXTINF:-1 group-title="Empty",Canal 123
-https://
+#EXTINF:-1 group-title="Canal",Canal 123
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Empty",Canal 124
 https://
@@ -320,14 +321,14 @@ https://
 #EXTINF:-1 tvg-id="telenovelas"tvg-logo="https://i.imgur.com/OK3XWkP.png" group-title="Canal",TeleNovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Empty",Canal 131
-https://
+#EXTINF:-1 tvg-id="mexiquense" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Canal",Mexiquense
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 group-title="Empty",Canal 132
 https://
 
-#EXTINF:-1 group-title="Empty",Canal 133
-https://
+#EXTINF:-1 tvg-id="canal33tijuana" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="Canal",Canal 33 
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
 #EXTINF:-1 group-title="Empty",Canal 134
 https://
@@ -347,11 +348,11 @@ https://
 #EXTINF:-1 group-title="Empty",Canal 139
 https://
 
-#EXTINF:-1 tvg-id="mileniotv" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal",Milenio Tv
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="4tv1" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4.1 TV
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 
-#EXTINF:-1 tvg-id="teleformula" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Canal",TeleFórmula 
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="4tv2" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4.2 TV
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
 #EXTINF:-1 group-title="Empty",Canal 142
 https://
@@ -359,11 +360,11 @@ https://
 #EXTINF:-1 group-title="Empty",Canal 143
 https://
 
-#EXTINF:-1 group-title="Empty",Canal 144
-https://
+#EXTINF:-1 tvg-id="canal44juarez" tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="Canal",Canal 44
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 
-#EXTINF:-1 group-title="Empty",Canal 145
-https://
+#EXTINF:-1 tvg-id="canal44chihuahua" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Canal",Canal 44 
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
 #EXTINF:-1 group-title="Empty",Canal 146
 https://
@@ -407,11 +408,11 @@ https://
 #EXTINF:-1 group-title="Empty",Canal 159
 https://
 
-#EXTINF:-1 group-title="Empty",Canal 160
-https://
+#EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 group-title="Empty",Canal 161
-https://
+#EXTINF:-1 tvg-id="canal6m" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 group-title="Empty",Canal 162
 https://
@@ -440,11 +441,11 @@ https://
 #EXTINF:-1 group-title="Empty",Canal 170
 https://
 
-#EXTINF:-1 group-title="Empty",Canal 171
-https://
+#EXTINF:-1 tvg-id="mileniotv" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal",Milenio Tv
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 group-title="Empty",Canal 172
-https://
+#EXTINF:-1 tvg-id="teleformula" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Canal",TeleFórmula 
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1 group-title="Empty",Canal 173
 https://
@@ -467,8 +468,10 @@ https://
 #EXTINF:-1 group-title="Empty",Canal 179
 https://
 
-#EXTINF:-1 group-title="Empty",Canal 180
-https://
+###################################################################################### ESTADOS
+
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ESTADOS MX
+https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 group-title="Empty",Canal 181
 https://
@@ -497,66 +500,6 @@ https://
 #EXTINF:-1 group-title="Empty",Canal 189
 https://
 
-#EXTINF:-1 group-title="Empty",Canal 190
-https://
-
-#EXTINF:-1 group-title="Empty",Canal 191
-https://
-
-#EXTINF:-1 group-title="Empty",Canal 192
-https://
-
-#EXTINF:-1 group-title="Empty",Canal 193
-https://
-
-#EXTINF:-1 group-title="Empty",Canal 194
-https://
-
-#EXTINF:-1 group-title="Empty",Canal 195
-https://
-
-#EXTINF:-1 group-title="Empty",Canal 196
-https://
-
-#EXTINF:-1 group-title="Empty",Canal 197
-https://
-
-#EXTINF:-1 group-title="Empty",Canal 198
-https://
-
-#EXTINF:-1 group-title="Empty",Canal 199
-https://
-
-###################################################################################### ESTADOS
-
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ESTADOS
-https://i.imgur.com/TTND24i.jpeg
-
-#EXTINF:-1 tvg-id="canal6m" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="nuevetv" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Canal",Nueve TV
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 tvg-id="capital21" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Canal",Capital 21
-https://video.cdmx.gob.mx/redes/stream.m3u8
-#EXTINF:-1 tvg-id="mexiquense" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Canal",Mexiquense
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="amxnoticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Canal",AMX Noticias
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="mvstv" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal",MVS TV
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 tvg-id="4tv1" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4.1 TV
-https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 tvg-id="4tv2" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4.2 TV
-https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 tvg-id="canal10chiapas" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="Canal",Canal 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-id="canal33tijuana" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="Canal",Canal 33 
-https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1 tvg-id="canal44juarez" tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="Canal",Canal 44
-https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
-#EXTINF:-1 tvg-id="canal44chihuahua" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Canal",Canal 44 
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-
 ###################################################################################### USA ESP
 
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",USA ESP
@@ -564,15 +507,29 @@ https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="estrellatv1" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 1
 https://estrellatv-oando.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="estrellatv2" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="estrellatv3" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 3
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="estrellatv4" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 4
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+
+#EXTINF:-1 group-title="Empty",Canal 195
+https://
+
+#EXTINF:-1 group-title="Empty",Canal 196
+https://
+
 #EXTINF:-1 tvg-id="casocerrado" tvg-logo="https://i.imgur.com/8wNNSm5.png" group-title="Canal",Caso Cerrado
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="latinx" tvg-logo="" group-title="Canal",Cine Latinx
+
+#EXTINF:-1 group-title="Empty",Canal 198
+https://
+
+#EXTINF:-1 tvg-id="latinx" tvg-logo="" group-title="Canal",Revry Latinx
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
 
 ###################################################################################### LATAM Y CARIBE
@@ -934,6 +891,11 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Telemundo Noticias
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="amxnoticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Canal",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="mvstv" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal",MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canal",ATV Noticas Perú
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
