@@ -497,92 +497,45 @@ https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 
 ###################################################################################### NO REVISADOS / UNCHECKED
 
-#EXTINF:-1 , CC Ingles
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 , CC Latino
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
-#EXTINF:-1 , lovenature
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Love Nature Inglés
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 , 01
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
 #EXTINF:-1 , 01
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:-1 , 01
-http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
-#EXTINF:-1 , 01
-https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
-#EXTINF:-1 , 01
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK
-#EXTINF:-1 , 01
+
+#EXTINF:-1 , tvg-id="" tvg-logo="" group-title="Canal",Welbeing TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 , 01
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
-#EXTINF:-1 , 01
-http://45.235.0.78/TV5_Monde/index.m3u8
-#EXTINF:-1 , 01
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 , 01
-https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
-#EXTINF:-1 , 01
-https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 , 01
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 , 01
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 , 01
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:-1 , 01
-https://streaming.alwaysdata.net/tudn.php
-#EXTINF:-1 , 01
+
+#EXTINF:-1 , 02
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream105/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal", Turistik TV
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
-#EXTINF:-1 , 01
-https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
-#EXTINF:-1 , 01
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 , 01
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 , 01
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",TV One Perú
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 , 01
-https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhs2a6SBsY0RnvGwCP6rgwKx/m3u8
-#EXTINF:-1 , 01
-https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:-1 , 01
-https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 , 01
+
+#EXTINF:-1 , 03
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-#EXTINF:-1 , 01
-https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8
-#EXTINF:-1 , 01
-https://tvpass.org/live/DisneyChannelEast/hd
-#EXTINF:-1 , 01
-https://tvpass.org/live/DisneyChannelEast/sd
-#EXTINF:-1 , 01
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Love Nature
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-#EXTINF:-1 , 01
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 , 01
-https://dvrfl04.tulix.tv/teleup-pasiones/mpegts
-#EXTINF:-1 , 01
+
+#EXTINF:-1 , 04
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 , 01
+
+#EXTINF:-1 , 05
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 , 01
+
+#EXTINF:-1 , 06
 https://newidco-rakutenviki-3-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 , 01
+
+#EXTINF:-1 , 07
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
-#EXTINF:-1 , 01
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal", Latinx
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
-#EXTINF:-1 , 01
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 , 01
-https://tvpass.org/live/StarzEast/hd
-#EXTINF:-1 , 01
-https://tvpass.org/live/StarzEast/sd
-#EXTINF:-1 , 01
-https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
-#EXTINF:-1 , 01
-https://youtu.be/O9mOtdZ-nSk
+
 
 #################################################################################################
 
