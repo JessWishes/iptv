@@ -103,7 +103,16 @@
 		<display-name>imagentv</display-name>
 	</channel>
   	<programme channel="imagentv" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Imgaen Televisión</title>
+		<title>Imagen Televisión</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="canal6">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="canal6" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal Multimedio 6</title>
 		<desc> </desc>
 		<category>Family</category>
 	</programme>
@@ -126,9 +135,269 @@
 		<category>Family</category>
 	</programme>
 
+	<channel id="nmas">
+		<display-name>nmas</display-name>
+	</channel>
+  	<programme channel="nmas" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Noticias N+ Foro</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="telenovelas">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="telenovelas" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Televisa Telenovelas</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="mileniotv">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="mileniotv" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Milenio Noticias Televisión</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+	
+	<channel id="teleformula">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="teleformula" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Noticas TeleFórmula</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="oncemx">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="oncemx" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal Once de México</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="once3mx">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="once3mx" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal Once.3 de México</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="tvunam">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="tvunam" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>TV UNAM : Televisión Universitaria</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="canalcatorce">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="canalcatorce" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal Catorce de México</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="canalcongreso">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="canalcongreso" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal del Congreso de México</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="justiciatv">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="justiciatv" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Programación legislatva Mexicana</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="canal6m">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="canal6m" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal Multimedios 6 Monterrey</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="nuevetv">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="nuevetv" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Nueve TV México</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+	
+	<channel id="capital21">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="capital21" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Capital 21 Ciudad de México</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="mexiquense">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="mexiquense" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal Mexiquense TV</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="amxnoticias">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="amxnoticias" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>AMX Noticas México</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="mvstv">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="mvstv" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Programación y Noticias MVS Televisión</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="4tv1">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="4tv1" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal 4.1 TV Guanajuato</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="4tv2">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="4tv2" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal 4.2 TV Guanajuato</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="canal10chiapas">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="canal10chiapas" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal 10 Chiapas</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="canal33">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="canal33" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal 33 Tijuana</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="canal44juarez">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="canal44juarez" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal 44 Ciudad Juárez</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="canal44chihuahua">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="canal44chihuahua" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal 44 Chihuahua</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="estrellatv1">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="estrellatv1" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal Estrella Televisión</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="estrellatv2">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="estrellatv2" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal Estrella Televisión 2</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="estrellatv3">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="estrellatv3" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal Estrella Televisión Noticias</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="estrellatv4">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="estrellatv4" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal Estrella Televisión Juegos</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="casocerrado">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="casocerrado" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Programa Caso Cerrado 24/7</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="latinx">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="latinx" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Programación Latina desde EE.UU.</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="wtvcanal20">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="wtvcanal20" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Programación de Nicaragua por Internet</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
 
 
-
+	
 	<channel id="mosaico">
 		<display-name>mosaico</display-name>
 	</channel>
