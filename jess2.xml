@@ -4,7 +4,7 @@
 		<display-name>teleyucatan</display-name>
 	</channel>
   	<programme channel="teleyucatan" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Tele Yucatán</title>
+		<title>Televisión de Yucatán</title>
 		<desc>Televisión del Gobierno del estado de Yucatán.</desc>
 		<category>Family</category>
 	</programme>
@@ -31,7 +31,7 @@
 		<display-name>teleplay</display-name>
 	</channel>
   	<programme channel="teleplay" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Tele Play</title>
+		<title>Transmisión TelePlay</title>
 		<desc>Noticias, deportes y entretenimiento en línea desde el estado de Yucatán y el sureste.</desc>
 		<category>Family</category>
 	</programme>
@@ -40,7 +40,7 @@
 		<display-name>aztecauno</display-name>
 	</channel>
   	<programme channel="aztecauno" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Azteca Uno</title>
+		<title>Azteca Uno México</title>
 		<desc>Programación nacional de México en la frecuencia 1.1.</desc>
 		<category>Family</category>
 	</programme>
@@ -54,21 +54,21 @@
 		<category>Family</category>
 	</programme>
 
-	<channel id="adn40">
-		<display-name>adn40</display-name>
-	</channel>
-  	<programme channel="adn40" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>ADN 40</title>
-		<desc></desc>
-		<category>Family</category>
-	</programme>
-
 	<channel id="aztecadep">
 		<display-name>aztecadep</display-name>
 	</channel>
   	<programme channel="aztecadep" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Azteca Deportes</title>
-		<desc></desc>
+		<title>Azteca Deportes Network</title>
+		<desc>Transmisión de eventos deportivos a través de televisión azteca méxico</desc>
+		<category>Family</category>
+	</programme>
+
+	<channel id="adn40">
+		<display-name>adn40</display-name>
+	</channel>
+  	<programme channel="adn40" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Noticiero ADN 40</title>
+		<desc>Noticas locales y nacionaes de México.</desc>
 		<category>Family</category>
 	</programme>
 	
@@ -108,8 +108,23 @@
 		<category>Family</category>
 	</programme>
 
+	<channel id="lasestrellas">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="lasestrellas" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Las Estrellas Televisa</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
 
-
+	<channel id="nmas">
+		<display-name>nmas</display-name>
+	</channel>
+  	<programme channel="nmas" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Noticias N+ Foro</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
 
 
 
