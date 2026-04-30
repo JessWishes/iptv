@@ -190,6 +190,51 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es@SD" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Canal",Clan Internacional Americas
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
+###################################################################################### Animación
+
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ANIMACIóN
+https://i.imgur.com/TTND24i.jpeg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZi5qjwSq79cNeiCVY30BVZSyKO63Hlm_zQ&s" group-title="Canal",GogoPlay
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Canal",Kanade
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Canal",EnerGeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Canal",EnerGeek FAN
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Canal",Memorias TV Toons
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+#EXTINF:-1 tvg-id="MagicK.co" tvg-logo="https://cnegretetv.000webhostapp.com/logos/Magic_Kids_1995_2.png" group-title="Canal",Magic Kids
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SPbjllljkBcjyV-bG86yEZuIGBEsS3rG6A&s" group-title=Canal",Locomotion TV
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Animax.jp@SD" group-title="Canal",Animax Japón
+#EXTVLCOPT:http-referrer=https://utako.moe
+https://nl.utako.moe/Animax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Canal",Anime Vision ClassicEspaña
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Canal",Anime Vision Classics España
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 tvg-id="NickenEspanol.us" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTv-Nick*
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-id="NickenEspanol.us" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTv-Nick*
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Nicktoons
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/30e05eb172d04c7bb01c6495f82a4a6d.png" group-title="Canal",Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 tvg-id="GikTVMX.mx@SD" group-title="Canal",GikTVMX
+#EXTVLCOPT:http-referrer=https://giktv.com
+https://pistream.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="Canal",Impacto Televisión
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 ###################################################################################### ENTRETENIMIENTO
 
@@ -223,6 +268,8 @@ https://newidco-rakutenviki-3-es.rakuten.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 #EXTINF:-1 tvg-id="" group-title="Canal",C4 en Alerta
 https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Canal Claro
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Canal",CGTN Español 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
@@ -311,6 +358,8 @@ https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
 #EXTINF:-1 tvg-logo=" group-title="Canal",TravelXP España 
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",El Gourmet
+https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Canal",Travel TV Inglés
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
@@ -332,47 +381,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal",Curiosity Now Inglés
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 
-###################################################################################### Animación
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ANIMACIóN
-https://i.imgur.com/TTND24i.jpeg
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZi5qjwSq79cNeiCVY30BVZSyKO63Hlm_zQ&s" group-title="Canal",GogoPlay
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Canal",Kanade
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Canal",EnerGeek
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Canal",EnerGeek FAN
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-
-#EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Canal",Memorias TV Toons
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-#EXTINF:-1 tvg-id="MagicK.co" tvg-logo="https://cnegretetv.000webhostapp.com/logos/Magic_Kids_1995_2.png" group-title="Canal",Magic Kids
-https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SPbjllljkBcjyV-bG86yEZuIGBEsS3rG6A&s" group-title=Canal",Locomotion TV
-https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Animax.jp@SD" group-title="Canal",Animax Japón
-#EXTVLCOPT:http-referrer=https://utako.moe
-https://nl.utako.moe/Animax/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Canal",Anime Vision ClassicEspaña
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Canal",Anime Vision Classics España
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-
-#EXTINF:-1 tvg-id="NickenEspanol.us" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTv-Nick*
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/30e05eb172d04c7bb01c6495f82a4a6d.png" group-title="Canal",Dreiko TV
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-#EXTINF:-1 tvg-id="GikTVMX.mx@SD" group-title="Canal",GikTVMX
-#EXTVLCOPT:http-referrer=https://giktv.com
-https://pistream.ddns.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="Canal",Impacto Televisión
-https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 ###################################################################################### PELICULAS
 
@@ -440,6 +449,8 @@ https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="TUDN.mx@SD" group-title="Canal",TUDN
 https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Claro Sports
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Canal",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Canal",Tubi - Fox Sports
@@ -459,7 +470,8 @@ https://i.imgur.com/TTND24i.jpeg
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://i.imgur.com/mxwe8hV.png" group-title="Canal",RT en Español 
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Euro news
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Telemundo Noticias
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 
@@ -513,31 +525,6 @@ https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 
 ###################################################################################### NO REVISADOS / UNCHECKED
 
-
-
-
-
-
-#EXTINF:-1 , 01
-https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
-#EXTINF:-1 , 02
-https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
-#EXTINF:-1 , 03
-https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
-#EXTINF:-1 , 04
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:-1 , 05
-https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
-#EXTINF:-1 , 06
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 , 07
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 , 08
-https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
-#EXTINF:-1 , 09
-https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
-#EXTINF:-1 , 10
-https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 
 #################################################################################################
 
