@@ -253,17 +253,17 @@ https://
 #EXTINF:-1 tvg-id="capital21" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Canal",Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="canal22" tvg-logo="https://i.imgur.com/RnU7m5t.png" group-title="Canal",Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w1006476711.m3u8
-#EXTINF:-1 tvg-id="canal22" tvg-logo="https://i.imgur.com/RnU7m5t.png" group-title="Canal",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 group-title="Empty",Canal 123
+https://
 #EXTINF:-1 group-title="Empty",Canal 124
 https://
 #EXTINF:-1 group-title="Empty",Canal 125
 https://
-#EXTINF:-1 group-title="Empty",Canal 126
-https://
-#EXTINF:-1 group-title="Empty",Canal 127
-https://
+#EXTINF:-1 tvg-id="mileniotv" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal",Milenio Tv
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="teleformula" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Canal",TeleFórmula 
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 group-title="Empty",Canal 128
 https://
 #EXTINF:-1 group-title="Empty",Canal 129
@@ -280,10 +280,10 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 https://
 #EXTINF:-1 group-title="Empty",Canal 135
 https://
-#EXTINF:-1 group-title="Empty",Canal 136
-https://
-#EXTINF:-1 group-title="Empty",Canal 137
-https://
+#EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="canal6m" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Empty",Canal 138
 https://
 #EXTINF:-1 group-title="Empty",Canal 139
@@ -302,25 +302,26 @@ https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 group-title="Empty",Canal 146
 https://
-#EXTINF:-1 group-title="Empty",Canal 147
-https://
-#EXTINF:-1 group-title="Empty",Canal 148
-https://
-#EXTINF:-1 group-title="Empty",Canal 149
-https://
 #EXTINF:-1 tvg-id="tvunam" tvg-logo="https://i.imgur.com/dNPfcwA.png" group-title="Canal",Tv Unam
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DVR.m3u8
 #EXTINF:-1 tvg-id="canalcongreso" tvg-logo="https://i.imgur.com/GABhezg.png" group-title="Canal",Congreso
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-id="justiciatv" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Canal",Justicia TV 
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+
+###################################################################################### ESTADOS
+
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ESTADOS MX
+https://i.imgur.com/TTND24i.jpeg
+
+#EXTINF:-1 group-title="Empty",Canal 151
+https://
+#EXTINF:-1 group-title="Empty",Canal 152
+https://
 #EXTINF:-1 group-title="Empty",Canal 153
 https://
 #EXTINF:-1 group-title="Empty",Canal 154
-https://
-#EXTINF:-1 group-title="Empty",Canal 155
-https://
-#EXTINF:-1 group-title="Empty",Canal 156
 https://
 #EXTINF:-1 group-title="Empty",Canal 157
 https://
@@ -328,10 +329,6 @@ https://
 https://
 #EXTINF:-1 group-title="Empty",Canal 159
 https://
-#EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="canal6m" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Empty",Canal 162
 https://
 #EXTINF:-1 group-title="Empty",Canal 163
@@ -350,10 +347,6 @@ https://
 https://
 #EXTINF:-1 group-title="Empty",Canal 170
 https://
-#EXTINF:-1 tvg-id="mileniotv" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal",Milenio Tv
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="teleformula" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Canal",TeleFórmula 
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 group-title="Empty",Canal 173
 https://
 #EXTINF:-1 group-title="Empty",Canal 174
@@ -368,12 +361,8 @@ https://
 https://
 #EXTINF:-1 group-title="Empty",Canal 179
 https://
-
-###################################################################################### ESTADOS
-
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ESTADOS MX
-https://i.imgur.com/TTND24i.jpeg
-
+#EXTINF:-1 group-title="Empty",Canal 180
+https://
 #EXTINF:-1 group-title="Empty",Canal 181
 https://
 #EXTINF:-1 group-title="Empty",Canal 182
@@ -855,44 +844,6 @@ https://
 #EXTINF:-1 group-title="Empty",Canal 336
 https://
 #EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 336
-https://
-#EXTINF:-1 group-title="Empty",Canal 399
 https://
 
 ###################################################################################### CULTURA,CIENCIA Y ARTE
