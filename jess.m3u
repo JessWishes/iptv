@@ -983,9 +983,109 @@ https://
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Canal",Al Jazeera Inglés
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 group-title="Empty",Canal 300
+#EXTINF:-1 group-title="Empty",Canal 472
 https://
+#EXTINF:-1 group-title="Empty",Canal 473
+https://
+#EXTINF:-1 group-title="Empty",Canal 473
+https://
+#EXTINF:-1 group-title="Empty",Canal 475
+https://
+#EXTINF:-1 group-title="Empty",Canal 476
+https://
+#EXTINF:-1 group-title="Empty",Canal 477
+https://
+#EXTINF:-1 group-title="Empty",Canal 478
+https://
+#EXTINF:-1 group-title="Empty",Canal 479
+https://
+#EXTINF:-1 group-title="Empty",Canal 480
+https://
+#EXTINF:-1 group-title="Empty",Canal 481
+https://
+#EXTINF:-1 group-title="Empty",Canal 482
+https://
+#EXTINF:-1 group-title="Empty",Canal 483
+https://
+#EXTINF:-1 group-title="Empty",Canal 484
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 485
+https://
+#EXTINF:-1 group-title="Empty",Canal 499
+https://
+
+
+###################################################################################### MUSICA
+
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",MUSICA
+https://i.imgur.com/TTND24i.jpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="Canal",PlutoTV - MTV 
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Canal",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Canal",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RBK72UT.png" group-title="Canal",TV One Perú
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GikTVMX.mx@SD" group-title="Canal",GikTVMX
+#EXTVLCOPT:http-referrer=https://giktv.com
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="Canal", Retro Plus
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Canal",Conecta TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Canal",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal",88 Stereo Español
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV Colombia
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Canal",Qello Concerts
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
+#EXTINF:-1 tvg-logo="" group-title="Canal",Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Canal",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="Canal",YOU & ME Radio
+https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0d9OjHQ.jpg" group-title="Canal", Radio Company TV Italia 
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.oxygenmusic.com.au/assets/website_logo.png" group-title="Canal",Oxygen Music Australia
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Now-90s-00s.png" group-title="Canal",NOW 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="Canal",RadioVisione Italia
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 
 ###################################################################################### LATAM Y CARIBE
 
@@ -1069,43 +1169,6 @@ https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Canal",BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
-###################################################################################### INTERNACIONAL
-
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",INTERNACIONAL
-https://i.imgur.com/TTND24i.jpeg
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Canal",Arirang TV Korea 01
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Canal",Arirang TV KOREA 02
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Canal",EBS 1 Korea
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Canal",EBS 2 Korea
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Canal",EBS-e Korea
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Canal",EBS kids Korea
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Canal",EBS-i Korea
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Canal",EBS+2 Korea
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Canal",NHK World-Japan Inglés 1
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Canal",NHK World-Japan Inglés 2
-https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
-#EXTINF:-1 tvg-id="JOAKDTV.jp@SD" group-title="Canal",JOAK-DTV Japón
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-#EXTINF:-1 tvg-id="JOAXDTV.jp@SD" group-title="Canal",JOAX-DTV Japón
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 tvg-id="JORXDTV.jp@SD" group-title="Canal",JORX-DTV Japón
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 tvg-id="JOEXDTV.jp@SD" group-title="Canal",JOEX-DTV Japón
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canal", Shop Channel Japón
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-
-
 ###################################################################################### MUSICA
 
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",MUSICA
@@ -1151,6 +1214,45 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="Canal",RadioVisione Italia
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+
+###################################################################################### INTERNACIONAL
+
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",INTERNACIONAL
+https://i.imgur.com/TTND24i.jpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Canal",Arirang TV Korea 01
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Canal",Arirang TV KOREA 02
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Canal",EBS 1 Korea
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Canal",EBS 2 Korea
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Canal",EBS-e Korea
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Canal",EBS kids Korea
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Canal",EBS-i Korea
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Canal",EBS+2 Korea
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Canal",NHK World-Japan Inglés 1
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Canal",NHK World-Japan Inglés 2
+https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+#EXTINF:-1 tvg-id="JOAKDTV.jp@SD" group-title="Canal",JOAK-DTV Japón
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 tvg-id="JOAXDTV.jp@SD" group-title="Canal",JOAX-DTV Japón
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 tvg-id="JORXDTV.jp@SD" group-title="Canal",JORX-DTV Japón
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 tvg-id="JOEXDTV.jp@SD" group-title="Canal",JOEX-DTV Japón
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canal", Shop Channel Japón
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+
+
 
 ###################################################################################### NO REVISADOS / UNCHECKED
 
