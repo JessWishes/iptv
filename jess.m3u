@@ -677,37 +677,33 @@ https://
 https://
 #EXTINF:-1 group-title="Empty",Canal 324
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 325
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 326
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 327
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 328
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 329
 https://
-#EXTINF:-1 group-title="Empty",Canal 449
+#EXTINF:-1 group-title="Empty",Canal 330
 https://
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="Canal",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Canal",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 452
+#EXTINF:-1 group-title="Empty",Canal 333
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 334
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 335
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 336
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 337
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
-https://
-#EXTINF:-1 group-title="Empty",Canal 403
-https://
-#EXTINF:-1 group-title="Empty",Canal 459
+#EXTINF:-1 group-title="Empty",Canal 338
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Canal",CGTN Documentary Inglés
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
@@ -729,65 +725,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal",Curiosity Now Inglés
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 470
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
+#EXTINF:-1 group-title="Empty",Canal 349
 https://
 
 ###################################################################################### PELICULAS
@@ -813,7 +751,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ScesUbHV-aMYDjL6TsdyJZRPRYckjFty_A&s" group-title="Canal",OPINION SUR CINE
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
-#EXTINF:-1 group-title="Empty",Canal 510
+#EXTINF:-1 group-title="Empty",Canal 260
 https://
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Pluto Tv Cine
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
