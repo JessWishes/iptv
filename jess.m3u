@@ -531,7 +531,7 @@ https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Canal",Kanal D Drama 
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal", Viki Rakuten Español
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal", Viki Rakuten
 https://newidco-rakutenviki-3-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal",Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
@@ -617,9 +617,9 @@ https://
 https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/48s32ikifVY3rPWssd2KtXfCVdiCEraecjBiFzyEffLnh2R6wdbNJ7fm0THbRgn8hQBvV5_JcA=s160-c-k-c0x00ffffff-no-rj" group-title="Canal",5-Minutes Craft
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Canal",Ridiculous TV Inglés
+#EXTINF:-1 tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Canal",Ridiculous TV
 https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Canal",Always Funny Inglés
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Canal",Always Funny
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Empty",Canal 299
 https://
@@ -637,35 +637,11 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 https://
 #EXTINF:-1 group-title="Empty",Canal 304
 https://
-#EXTINF:-1 group-title="Empty",Canal 305
-https://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Canal",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 group-title="Empty",Canal 306
 https://
 #EXTINF:-1 group-title="Empty",Canal 307
-https://
-#EXTINF:-1 group-title="Empty",Canal 308
-https://
-#EXTINF:-1 group-title="Empty",Canal 309
-https://
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Canal",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 group-title="Empty",Canal 411
-https://
-#EXTINF:-1 group-title="Empty",Canal 412
-https://
-#EXTINF:-1 group-title="Empty",Canal 413
-https://
-#EXTINF:-1 group-title="Empty",Canal 414
-https://
-#EXTINF:-1 group-title="Empty",Canal 415
-https://
-#EXTINF:-1 group-title="Empty",Canal 416
-https://
-#EXTINF:-1 group-title="Empty",Canal 417
-https://
-#EXTINF:-1 group-title="Empty",Canal 418
-https://
-#EXTINF:-1 group-title="Empty",Canal 419
 https://
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",El Gourmet
 https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
@@ -675,45 +651,31 @@ https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
 https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
 #EXTINF:-1 tvg-id="" group-title="Canal",Tastemade Hogar
 https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
-#EXTINF:-1 group-title="Empty",Canal 424
+#EXTINF:-1 group-title="Empty",Canal 312
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 313
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 314
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 315
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
-https://
-#EXTINF:-1 group-title="Empty",Canal 429
+#EXTINF:-1 group-title="Empty",Canal 316
 https://
 #EXTINF:-1 tvg-id="" group-title="Canal",Tastemade Viajes
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
-#EXTINF:-1 tvg-logo=" group-title="Canal",TravelXP España 
+#EXTINF:-1 tvg-logo="" group-title="Canal",TravelXP España
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="turistiktv" tvg-logo="https://i.imgur.com/jFtTbcN.png" group-title="Canal", Turistik TV
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 433
-https://
-#EXTINF:-1 group-title="Empty",Canal 403
-https://
-#EXTINF:-1 group-title="Empty",Canal 403
-https://
-#EXTINF:-1 group-title="Empty",Canal 403
-https://
-#EXTINF:-1 group-title="Empty",Canal 403
-https://
-#EXTINF:-1 group-title="Empty",Canal 403
-https://
-#EXTINF:-1 group-title="Empty",Canal 439
+#EXTINF:-1 group-title="Empty",Canal 320
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Canal",Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="Empty",Canal 441
+#EXTINF:-1 group-title="Empty",Canal 322
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 323
 https://
-#EXTINF:-1 group-title="Empty",Canal 403
+#EXTINF:-1 group-title="Empty",Canal 324
 https://
 #EXTINF:-1 group-title="Empty",Canal 403
 https://
