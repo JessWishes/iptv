@@ -4,8 +4,6 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
 
-###################################################################################### LOCAL
-
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",LOCALES   
 https://i.imgur.com/TTND24i.jpeg
 #EXTINF:-1 group-title="Empty",Canal 02
@@ -207,7 +205,7 @@ https://
 
 ###################################################################################### NACIONAL
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",NACIONALES
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",NACIONAL
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="aztecauno"tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal",Azteca Uno
@@ -282,16 +280,13 @@ https://
 https://
 #EXTINF:-1 group-title="Empty",Canal 136
 https://
-
+#EXTINF:-1 group-title="Empty",Canal 137
+https://
 #EXTINF:-1 group-title="Empty",Canal 138
 https://
 #EXTINF:-1 group-title="Empty",Canal 139
 https://
-#EXTINF:-1 group-title="Empty",Canal 142
-https://
-#EXTINF:-1 group-title="Empty",Canal 143
-https://
-#EXTINF:-1 group-title="Empty",Canal 146
+#EXTINF:-1 group-title="Empty",Canal 140
 https://
 #EXTINF:-1 tvg-id="tvunam" tvg-logo="https://i.imgur.com/dNPfcwA.png" group-title="Canal",Tv Unam
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DVR.m3u8
@@ -299,7 +294,18 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DV
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-id="justiciatv" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Canal",Justicia TV 
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-
+#EXTINF:-1 group-title="Empty",Canal 144
+https://
+#EXTINF:-1 group-title="Empty",Canal 145
+https://
+#EXTINF:-1 group-title="Empty",Canal 146
+https://
+#EXTINF:-1 group-title="Empty",Canal 147
+https://
+#EXTINF:-1 group-title="Empty",Canal 148
+https://
+#EXTINF:-1 group-title="Empty",Canal 149
+https://
 
 ###################################################################################### ESTADOS
 
@@ -310,20 +316,19 @@ https://i.imgur.com/TTND24i.jpeg
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 tvg-id="4tv2" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4.2 TV
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8#EXTINF:-1 group-title="Empty",Canal 153
-https://
-#EXTINF:-1 group-title="Empty",Canal 154
+#EXTINF:-1 group-title="Empty",Canal 153
 https://
 #EXTINF:-1 tvg-id="canal6m" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="Empty",Canal 157
+#EXTINF:-1 group-title="Empty",Canal 154
 https://
-#EXTINF:-1 group-title="Empty",Canal 158
+#EXTINF:-1 group-title="Empty",Canal 155
 https://
-#EXTINF:-1 group-title="Empty",Canal 159
+#EXTINF:-1 group-title="Empty",Canal 156
 https://
 #EXTINF:-1 tvg-id="canal10chiapas" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="Canal",Canal 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 162
+#EXTINF:-1 group-title="Empty",Canal 158
 https://
 #EXTINF:-1 tvg-id="canal33tijuana" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="Canal",Canal 33 
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
@@ -331,8 +336,7 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-id="canal44chihuahua" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Canal",Canal 44 
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-https://
-#EXTINF:-1 group-title="Empty",Canal 166
+#EXTINF:-1 group-title="Empty",Canal 163
 https://
 #EXTINF:-1 group-title="Empty",Canal 167
 https://
