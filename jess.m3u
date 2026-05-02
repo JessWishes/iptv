@@ -1209,7 +1209,11 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 
 ###################################################################################### NO REVISADOS / UNCHECKED
-
+#EXTINF:-1 , 01
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 , 02
+http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+#EXTINF:-1 , 03
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
