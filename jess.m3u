@@ -1064,9 +1064,18 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 
 ###################################################################################### NO REVISADOS / UNCHECKED
-
-
-
+#EXTINF:-1 , 01
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1736945143.m3u8
+#EXTINF:-1 , 02
+https://stream-252390.castr.net/6900191ab6167d6d573a18ae/live_5b7e7bb0b6bf11f09ec4b3e7eb0c4d2a/tracks-v3/index.fmp4.m3u8
+#EXTINF:-1 , 03
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 , 04
+https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/chunklist_w1353912657_vo.m3u8
+#EXTINF:-1 , 05
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w845366597.m3u8
+#EXTINF:-1 , 06
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(kPshVkEyl8xLYgt7vULUOa7eUplquYLvBLhEbLn7v0WYFieVNR6FTyGWLoWE9NB8o4iJd5Rm7WWixz9R5z7J66S4QU5xhmMdlCvg93jSbAk1JsvD5IHp-y55v76nr2CE)/cloud/3/x90qe0k/d/live-480.m3u8
 
 
 
