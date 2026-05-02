@@ -4,10 +4,11 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",LOCALES   
-https://i.imgur.com/TTND24i.jpeg
 #EXTINF:-1 group-title="Empty",Canal 02
 https://
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",LOCALES   
+https://i.imgur.com/TTND24i.jpeg
+
 #EXTINF:-1 group-title="Empty",Canal 03
 https://
 #EXTINF:-1 tvg-id="teleyucatan" tvg-logo="https://i.imgur.com/Ybty01t.jpeg" group-title="Canal; Local",Tele Yucatán
