@@ -4,11 +4,12 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
 
-#EXTINF:-1 group-title="Empty",Canal 02
-https://
+
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",LOCALES   
 https://i.imgur.com/TTND24i.jpeg
 
+#EXTINF:-1 group-title="Empty",Canal 02
+https://
 #EXTINF:-1 group-title="Empty",Canal 03
 https://
 #EXTINF:-1 tvg-id="teleyucatan" tvg-logo="https://i.imgur.com/Ybty01t.jpeg" group-title="Canal; Local",Tele Yucatán
@@ -335,8 +336,8 @@ https://
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="mvstv" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 group-title="Empty",Canal 162
-https://
+##EXTINF:-1 , MVS Noticas
+https://stream-252390.castr.net/6900191ab6167d6d573a18ae/live_5b7e7bb0b6bf11f09ec4b3e7eb0c4d2a/tracks-v3/index.fmp4.m3u8
 #EXTINF:-1 group-title="Empty",Canal 163
 https://
 #EXTINF:-1 group-title="Empty",Canal 164
@@ -1065,23 +1066,53 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 
 ###################################################################################### NO REVISADOS / UNCHECKED
-#EXTINF:-1 , 01
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1736945143.m3u8
-#EXTINF:-1 , 02
-https://stream-252390.castr.net/6900191ab6167d6d573a18ae/live_5b7e7bb0b6bf11f09ec4b3e7eb0c4d2a/tracks-v3/index.fmp4.m3u8
-#EXTINF:-1 , 03
-https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1 , 04
-https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/chunklist_w1353912657_vo.m3u8
-#EXTINF:-1 , 05
-https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w845366597.m3u8
-#EXTINF:-1 , 06
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(kPshVkEyl8xLYgt7vULUOa7eUplquYLvBLhEbLn7v0WYFieVNR6FTyGWLoWE9NB8o4iJd5Rm7WWixz9R5z7J66S4QU5xhmMdlCvg93jSbAk1JsvD5IHp-y55v76nr2CE)/cloud/3/x90qe0k/d/live-480.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Private", file01
+https://archive.org/download/colossal-combo-43-1993/Colossal%20Combo%2043%20%281993%29.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file02
+https://archive.org/download/CopperheadCanyon/Copperhead%20Canyon.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file03
+https://archive.org/download/TheAddison/Addison%20%26%20Devin.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file04
+https://dn720303.ca.archive.org/0/items/stroke-video-the-best-of-the-biggest/Stroke%20Video%20-%20The%20Best%20Of%20The%20Biggest.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file05
+https://archive.org/download/christopher-rages-best-of-the-superstars/ChristopherRageSuperstars-003.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file06
+https://archive.org/download/bulletgoldvol2/Bullet%20Gold%20Vol%202.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file07
+https://archive.org/download/do-me-evil-1975/DoMeEvil.ia.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file08
+https://archive.org/download/HunksByPool/Rickys%20Porn/196.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file09
+https://archive.org/download/HunksByPool/Rickys%20Porn/197.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file10
+https://archive.org/download/HunksByPool/Rickys%20Porn/Alpha%20Male%20Fuckers-69.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file11
+https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20BiLatin%20Men.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file12
+https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20Raw%20Papi.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file13
+https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porno%20100.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file14
+https://archive.org/download/HunksByPool/Rickys%20Porn/Hairy%20muscle%20bareback%20fuck.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file15
+https://dn720702.ca.archive.org/0/items/gms-254/GMS254.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file16
+https://archive.org/download/dial-justice/DIAL%20JUSTICE.mp4
+#EXTINF:-1 tvg-logo="" group-title="Private", file17
+https://archive.org/download/when-the-boss-is-away/When%20The%20Boss%20Is%20Away.mp4
+#EXTINF:-1 group-title="Private", File 18
+https://dn720006.ca.archive.org/0/items/one-and-only-dominator-1992/One%20and%20Only%20Dominator%20%281992%29.mp4
+#EXTINF:-1 group-title="Private", File 19
+https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Latino%20Raw%20Fuck.mp4
+#EXTINF:-1 group-title="Private", File 20
+https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/aday%20traun%20isaac%20eliad.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Private", PrivateLiveCam
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us",AdultIPTV.net Gay (720p)
+https://cdn.adultiptv.net/gay.m3u8
 
 
 #################################################################################################
 
-
-#EXTINF:-1 tvg-logo="" group-title="Private", x
-#http://live.adultiptv.net/
