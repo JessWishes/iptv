@@ -268,18 +268,18 @@ https://
 https://
 #EXTINF:-1 tvg-id="telenovelas"tvg-logo="https://i.imgur.com/OK3XWkP.png" group-title="Canal",TeleNovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="mexiquense" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Canal",Mexiquense
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="Empty",Canal 131
+https://
 #EXTINF:-1 group-title="Empty",Canal 132
 https://
 #EXTINF:-1 group-title="Empty",Canal 133
 https://
-#EXTINF:-1 group-title="Empty",Canal 134
-https://
+#EXTINF:-1 tvg-id="mexiquense" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Canal",Mexiquense
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 group-title="Empty",Canal 135
 https://
-#EXTINF:-1 group-title="Empty",Canal 136
-https://
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Canal",Telemax
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="Empty",Canal 137
 https://
 #EXTINF:-1 group-title="Empty",Canal 138
@@ -646,8 +646,8 @@ https://
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 group-title="Empty",Canal 306
 https://
-#EXTINF:-1 group-title="Empty",Canal 307
-https://
+#EXTINF:-1 group-title="canal", Mi casa
+https://jmp2.uk/stvp-ES4400002LI
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",El Gourmet
 https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
 #EXTINF:-1 tvg-id="Homeful.ca@US" group-title="Canal",Homeful Español
@@ -929,15 +929,17 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 group-title="Empty",Canal 544
 https://
-#EXTINF:-1 group-title="Empty",Canal 545
-https://
-#EXTINF:-1 group-title="Empty",Canal 546
-https://
+#EXTINF:-1 group-title="canal" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
+https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="canal" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",Music ON TV
+https://nl.utako.moe/musicon/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Now-90s-00s.png" group-title="Canal",NOW 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="Canal",RadioVisione Italia
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 549
+#EXTINF:-1 group-title="Empty",Canal 448
+https://
+#EXTINF:-1 group-title="Empty",Canal 449
 https://
 
 ###################################################################################### LATAM Y CARIBE
@@ -1063,24 +1065,8 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 ###################################################################################### NO REVISADOS / UNCHECKED
 
-#EXTINF:-1 tvg-id="XEWHTDT.mx@SD" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Undefined",Telemax (XEWH-TDT) (1080p)
-https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 , Mi casa
-https://jmp2.uk/stvp-ES4400002LI
-#EXTINF:-1 , Mi casa
-https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/197e1878-78fe-48b1-b9c1-3d83869f5b98/5.m3u8
 
-#EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
-https://nl.utako.moe/suntv/index.m3u8
-
-#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
-https://nl.utako.moe/Animax/index.m3u8
-
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
-https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",Music ON TV
-https://nl.utako.moe/musicon/index.m3u8
 
 
 
