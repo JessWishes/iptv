@@ -296,7 +296,7 @@ https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8#EXTINF:-1
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DVR.m3u8
 #EXTINF:-1 tvg-id="canalcongreso" tvg-logo="https://i.imgur.com/GABhezg.png" group-title="Canal",Congreso
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
-#EXTINF:-1 tvg-id="justiciatv" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Canal",Pluralidad TV 
+#EXTINF:-1 tvg-id="justiciatv" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Canal",Plural TV 
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 group-title="Empty",Canal 146
 https://
@@ -389,7 +389,7 @@ https://
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 group-title="Empty",Canal 186
 https://
-#EXTINF:-1 tvg-id="" group-title="Canal",PlutoTV - FIFA+
+#EXTINF:-1 tvg-id="" group-title="Canal",PlutoTV FIFA+
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 #EXTINF:-1 group-title="Empty",Canal 188
 https://
@@ -646,7 +646,7 @@ https://
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 group-title="Empty",Canal 306
 https://
-#EXTINF:-1 group-title="canal", Mi casa
+#EXTINF:-1 group-title="Canal", Mi casa
 https://jmp2.uk/stvp-ES4400002LI
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",El Gourmet
 https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
@@ -929,9 +929,9 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 group-title="Empty",Canal 544
 https://
-#EXTINF:-1 group-title="canal" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
+#EXTINF:-1 group-title="Canal" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
 https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="canal" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",Music ON TV
+#EXTINF:-1 group-title="Canal" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Now-90s-00s.png" group-title="Canal",NOW 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
