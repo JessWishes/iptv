@@ -334,8 +334,8 @@ https://
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="mvstv" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 tvg-id="mvstv" tvg-logo="" group-title="Canal", MVS Noticas
-https://stream-252390.castr.net/6900191ab6167d6d573a18ae/live_5b7e7bb0b6bf11f09ec4b3e7eb0c4d2a/tracks-v3/index.fmp4.m3u8
+#EXTINF:-1 group-title="Empty",Canal 162
+https://
 #EXTINF:-1 group-title="Empty",Canal 163
 https://
 #EXTINF:-1 group-title="Empty",Canal 164
@@ -376,19 +376,19 @@ https://
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",DEPORTES
 https://i.imgur.com/TTND24i.jpeg
 
-#EXTINF:-1 tvg-id="tudn" group-title="Canal",TUDN
+#EXTINF:-1 tvg-id="tudn" tvg-logo="https://i.imgur.com/8Z6kvM7.png" group-title="Canal",TUDN
 https://streaming.alwaysdata.net/tudn.php
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Claro Sports
+#EXTINF:-1 tvg-id="clarosports" tvg-logo="https://i.imgur.com/f2Nv9Pm.png" group-title="Canal",Claro Sports
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Canal",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Empty",Canal 184
 https://
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Canal",Tubi FoxSports
+#EXTINF:-1 tvg.id="" tvg-logo="https://i.imgur.com/LeaC5N9.png" group-title="Canal",Tubi FoxSports
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 group-title="Empty",Canal 186
 https://
-#EXTINF:-1 tvg-id="" group-title="Canal",PlutoTV FIFA+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MQ5bb7j.png" group-title="Canal",PlutoTV FIFA+
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 #EXTINF:-1 group-title="Empty",Canal 188
 https://
