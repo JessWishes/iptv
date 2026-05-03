@@ -323,9 +323,9 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="rtespanol" tvg-logo="https://i.imgur.com/mxwe8hV.png" group-title="Canal",RT en Español 
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Euro news
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/6iaWWUY.png" group-title="Canal",Euro news
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Telemundo N
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NjLl2bn.png" group-title="Canal",Telemundo N
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 group-title="Empty",Canal 159
@@ -334,7 +334,7 @@ https://
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="mvstv" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-##EXTINF:-1 tvg-id="mvstv" tvg-logo="" group-title="Canal", MVS Noticas
+#EXTINF:-1 tvg-id="mvstv" tvg-logo="" group-title="Canal", MVS Noticas
 https://stream-252390.castr.net/6900191ab6167d6d573a18ae/live_5b7e7bb0b6bf11f09ec4b3e7eb0c4d2a/tracks-v3/index.fmp4.m3u8
 #EXTINF:-1 group-title="Empty",Canal 163
 https://
@@ -408,7 +408,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estr
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-id="estrellatv4" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 4
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
-#EXTINF:-1 group-title="Canal", Telemundo Puerto Rico
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NjLl2bn.png" group-title="Canal", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Empty",Canal 196
 https://
