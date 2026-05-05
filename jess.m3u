@@ -542,8 +542,6 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:-1 group-title="Empty",Canal 254
 https://
-#EXTINF:-1 group-title="Empty",Canal 255
-https://
 #EXTINF:-1 group-title="Canal",Mi casa
 https://jmp2.uk/stvp-ES4400002LI
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",El Gourmet
@@ -570,7 +568,7 @@ https://
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Canal",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 274
+#EXTINF:-1 group-title="Empty",Canal 269
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Canal",Arirang TV Korea 01
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -636,26 +634,10 @@ https://s.emisoras.tv:8081/dtv/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 group-title="Canal",360 RFTV Costo Rica
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
-#EXTINF:-1 group-title="Empty",Canal 589
-https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Canal",Cine Friki
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Canal",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 384
-https://
-#EXTINF:-1 group-title="Empty",Canal 385
-https://
-#EXTINF:-1 group-title="Empty",Canal 
-https://
-#EXTINF:-1 group-title="Empty",Canal 
-https://
-#EXTINF:-1 group-title="Empty",Canal 
-https://
-#EXTINF:-1 group-title="Empty",Canal 534
-https://
-#EXTINF:-1 group-title="Empty",Canal 298
-https://
 #EXTINF:-1 group-title="Empty",Canal 299
 https://
 
@@ -795,8 +777,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",INTERNACIONAL
 https://i.imgur.com/TTND24i.jpeg
-
-
 
 
 
