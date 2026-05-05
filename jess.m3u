@@ -481,52 +481,32 @@ https://newidco-rakutenviki-3-es.rakuten.wurl.tv/playlist.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 #EXTINF:-1 tvg-logo="x" group-title="Canal",Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="Empty",Canal 227
-https://
-#EXTINF:-1 group-title="Empty",Canal 228
-https://
-#EXTINF:-1 group-title="Empty",Canal 229
-https://
 #EXTINF:-1 tvg-logo="a" group-title="Canal",Cops en Español
 https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="a" group-title="Canal",Crímenes Reales
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Canal",C4 en Alerta
 https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
-#EXTINF:-1 group-title="Empty",Canal 233
-https://
-#EXTINF:-1 group-title="Empty",Canal 234
-https://
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="Canal",Ciudad Magica
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="Canal",MI TV
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Canal",Antena Seis Costa Rica
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
-#EXTINF:-1 group-title="Empty",Canal 238
-https://
-#EXTINF:-1 group-title="Empty",Canal 239
-https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Canal",CGTN Español 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 241
-https://
-#EXTINF:-1 group-title="Empty",Canal 242
-https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjK3IWK.png" group-title="Canal",PRIDEtv 
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 group-title="Empty",Canal 244
-https://
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/48s32ikifVY3rPWssd2KtXfCVdiCEraecjBiFzyEffLnh2R6wdbNJ7fm0THbRgn8hQBvV5_JcA=s160-c-k-c0x00ffffff-no-rj" group-title="Canal",Ideas en 5 minutos
 https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/48s32ikifVY3rPWssd2KtXfCVdiCEraecjBiFzyEffLnh2R6wdbNJ7fm0THbRgn8hQBvV5_JcA=s160-c-k-c0x00ffffff-no-rj" group-title="Canal",5-Minutes Craft
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 247
-https://
-#EXTINF:-1 group-title="Empty",Canal 248
-https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Canal",Always Funny
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Empty",Canal 238
+https://
+#EXTINF:-1 group-title="Empty",Canal 239
+https://
 
 ###################################################################################### MUNDO
 
@@ -542,14 +522,6 @@ https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:-1 group-title="Empty",Canal 254
 https://
 #EXTINF:-1 group-title="Empty",Canal 255
-https://
-#EXTINF:-1 group-title="Empty",Canal 256
-https://
-#EXTINF:-1 group-title="Empty",Canal 257
-https://
-#EXTINF:-1 group-title="Empty",Canal 258
-https://
-#EXTINF:-1 group-title="Empty",Canal 259
 https://
 #EXTINF:-1 group-title="Canal",Mi casa
 https://jmp2.uk/stvp-ES4400002LI
@@ -575,21 +547,11 @@ https://
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 group-title="Empty",Canal 271
 https://
-#EXTINF:-1 group-title="Empty",Canal 272
-https://
-#EXTINF:-1 group-title="Empty",Canal 273
-https://
-#EXTINF:-1 group-title="Empty",Canal 274
-https://
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="Canal",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Canal",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 277
-https://
-#EXTINF:-1 group-title="Empty",Canal 278
-https://
-#EXTINF:-1 group-title="Empty",Canal 279
+#EXTINF:-1 group-title="Empty",Canal 274
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Canal",CGTN Documentary Inglés
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
@@ -611,7 +573,6 @@ https://outsidetv-firetv.amagi.tv/playlist.m3u8
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 #EXTINF:-1 group-title="Empty",Canal 289
 https://
-
 ###################################################################################### PELICULAS
 
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",PELICULAS
