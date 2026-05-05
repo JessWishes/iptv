@@ -362,14 +362,15 @@ https://streaming.alwaysdata.net/tudn.php
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Canal",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="Empty",Canal 174
-https://
 #EXTINF:-1 tvg.id="" tvg-logo="https://i.imgur.com/LeaC5N9.png" group-title="Canal",Tubi FoxSports
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 176
-https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MQ5bb7j.png" group-title="Canal",PlutoTV FIFA+
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
+
+#EXTINF:-1 group-title="Empty",Canal 176
+https://
+#EXTINF:-1 group-title="Empty",Canal 177
+https://
 #EXTINF:-1 group-title="Empty",Canal 178
 https://
 #EXTINF:-1 group-title="Empty",Canal 179
@@ -507,6 +508,26 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 https://
 #EXTINF:-1 group-title="Empty",Canal 239
 https://
+#EXTINF:-1 group-title="Empty",Canal 240
+https://
+#EXTINF:-1 group-title="Empty",Canal 241
+https://
+#EXTINF:-1 group-title="Empty",Canal 242
+https://
+#EXTINF:-1 group-title="Empty",Canal 243
+https://
+#EXTINF:-1 group-title="Empty",Canal 244
+https://
+#EXTINF:-1 group-title="Empty",Canal 245
+https://
+#EXTINF:-1 group-title="Empty",Canal 246
+https://
+#EXTINF:-1 group-title="Empty",Canal 247
+https://
+#EXTINF:-1 group-title="Empty",Canal 248
+https://
+#EXTINF:-1 group-title="Empty",Canal 249
+https://
 
 ###################################################################################### MUNDO
 
@@ -541,8 +562,6 @@ https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 group-title="Empty",Canal 268
 https://
-#EXTINF:-1 group-title="Empty",Canal 269
-https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Canal",Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 group-title="Empty",Canal 271
@@ -553,6 +572,10 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Empty",Canal 274
 https://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Canal",Arirang TV Korea 01
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Canal",NHK World-Japan Inglés 1
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Canal",CGTN Documentary Inglés
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Canal",Bon appétit Inglés
@@ -571,8 +594,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal",Curiosity Now Inglés
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 289
-https://
+
 ###################################################################################### PELICULAS
 
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",PELICULAS
@@ -596,7 +618,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ScesUbHV-aMYDjL6TsdyJZRPRYckjFty_A&s" group-title="Canal",OPINION SUR CINE
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
-#EXTINF:-1 group-title="Empty",Canal 260
+#EXTINF:-1 group-title="Empty",Canal 280
 https://
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Pluto Tv Cine
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
@@ -604,18 +626,6 @@ https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-logo"a" group-title="Canal",PlutoTV - Adrenalina Pura
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:-1 group-title="Empty",Canal 514
-https://
-#EXTINF:-1 group-title="Empty",Canal 510
-https://
-#EXTINF:-1 group-title="Empty",Canal 510
-https://
-#EXTINF:-1 group-title="Empty",Canal 510
-https://
-#EXTINF:-1 group-title="Empty",Canal 510
-https://
-#EXTINF:-1 group-title="Empty",Canal 519
-https://
 #EXTINF:-1 tvg-id="wtvcanal20" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Canal",WTV 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="Canal",Gia Tv
@@ -626,15 +636,7 @@ https://s.emisoras.tv:8081/dtv/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 group-title="Canal",360 RFTV Costo Rica
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
-#EXTINF:-1 group-title="Empty",Canal 510
-https://
-#EXTINF:-1 group-title="Empty",Canal 510
-https://
-#EXTINF:-1 group-title="Empty",Canal 510
-https://
-#EXTINF:-1 group-title="Empty",Canal 510
-https://
-#EXTINF:-1 group-title="Empty",Canal 529
+#EXTINF:-1 group-title="Empty",Canal 589
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Canal",Cine Friki
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
@@ -652,25 +654,9 @@ https://
 https://
 #EXTINF:-1 group-title="Empty",Canal 534
 https://
-#EXTINF:-1 group-title="Empty",Canal 390
+#EXTINF:-1 group-title="Empty",Canal 298
 https://
-#EXTINF:-1 group-title="Empty",Canal 391
-https://
-#EXTINF:-1 group-title="Empty",Canal 392
-https://
-#EXTINF:-1 group-title="Empty",Canal 393
-https://
-#EXTINF:-1 group-title="Empty",Canal 394
-https://
-#EXTINF:-1 group-title="Empty",Canal 395
-https://
-#EXTINF:-1 group-title="Empty",Canal 396
-https://
-#EXTINF:-1 group-title="Empty",Canal 397
-https://
-#EXTINF:-1 group-title="Empty",Canal 398
-https://
-#EXTINF:-1 group-title="Empty",Canal 399
+#EXTINF:-1 group-title="Empty",Canal 299
 https://
 
 ###################################################################################### MUSICA
@@ -684,17 +670,9 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Canal",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 group-title="Empty",Canal 504
+#EXTINF:-1 group-title="Empty",Canal 304
 https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 509
+#EXTINF:-1 group-title="Empty",Canal 305
 https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RBK72UT.png" group-title="Canal",TV One Perú
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -709,33 +687,17 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Canal",Colosal TV Costa Rica
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 499
+#EXTINF:-1 group-title="Empty",Canal 312
 https://
-#EXTINF:-1 group-title="Empty",Canal 499
+#EXTINF:-1 group-title="Empty",Canal 313
 https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 519
+#EXTINF:-1 group-title="Empty",Canal 314
 https://
 #EXTINF:-1 tvg-logo="" group-title="Canal",88 Stereo Español
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="1020" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png" group-title="Canal", Caracola TV Colombia
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Empty",Canal 522
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 529
+#EXTINF:-1 group-title="Empty",Canal 317
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Canal",Qello Concerts
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
@@ -743,19 +705,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Canal",Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Empty",Canal 533
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 499
-https://
-#EXTINF:-1 group-title="Empty",Canal 539
+#EXTINF:-1 group-title="Empty",Canal 321
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="Canal",YOU & ME Radio
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
@@ -765,7 +715,7 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.oxygenmusic.com.au/assets/website_logo.png" group-title="Canal",Oxygen Music Australia
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 group-title="Empty",Canal 544
+#EXTINF:-1 group-title="Empty",Canal 326
 https://
 #EXTINF:-1 group-title="Canal" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV Japón
 https://nl.utako.moe/mtv/index.m3u8
@@ -773,10 +723,6 @@ https://nl.utako.moe/mtv/index.m3u8
 https://nl.utako.moe/musicon/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Now-90s-00s.png" group-title="Canal",NOW 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 448
-https://
-#EXTINF:-1 group-title="Empty",Canal 449
-https://
 
 ###################################################################################### LATAM Y CARIBE
 
@@ -850,32 +796,11 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",INTERNACIONAL
 https://i.imgur.com/TTND24i.jpeg
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Canal",Arirang TV Korea 01
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Canal",Arirang TV KOREA 02
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Canal",NHK World-Japan Inglés 1
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Canal",NHK World-Japan Inglés 2
-https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
-#EXTINF:-1 tvg-id="JOAKDTV.jp@SD" group-title="Canal",JOAK-DTV Japón
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-#EXTINF:-1 tvg-id="JOAXDTV.jp@SD" group-title="Canal",JOAX-DTV Japón
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 tvg-id="JORXDTV.jp@SD" group-title="Canal",JORX-DTV Japón
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 tvg-id="JOEXDTV.jp@SD" group-title="Canal",JOEX-DTV Japón
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canal", Shop Channel Japón
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+
 
 
 ###################################################################################### NO REVISADOS / UNCHECKED
 
 
-
-
-
-
 #################################################################################################
-
