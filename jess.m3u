@@ -1,11 +1,11 @@
 #EXTM3U 
 # Lista creada para uso personal y para aprendizaje, sin fines de lucro o comerciales.
-
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
 
-# VOD 1-99
-#EXTINF:-1 group-title="Empty",Canal 01
-https://
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/mbMtHZk.png" group-title="Canal",VOD
+https://i.imgur.com/TTND24i.jpeg
+
+# VOD 2-99
 #EXTINF:-1 group-title="Empty",Canal 02
 https://
 #EXTINF:-1 group-title="Empty",Canal 03
@@ -240,56 +240,24 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 #EXTINF:-1 tvg-id="aztecacor" tvg-logo="https://i.imgur.com/12Xhm3t.png" group-title="Canal",Az Corazón
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
-#EXTINF:-1 group-title="Empty",Canal 117
-https://
+#EXTINF:-1 tvg-id="telenovelas"tvg-logo="https://i.imgur.com/OK3XWkP.png" group-title="Canal",TeleNovelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="sipse1" tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Canal; Local",Sipse TV
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-id="sipse2" tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="Canal; Local",Sipse TV
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:-1 group-title="Empty",Canal 120
-https://
+#EXTINF:-1 tvg-id="mvstv" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal",MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="capital21" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Canal",Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="canal22" tvg-logo="https://i.imgur.com/RnU7m5t.png" group-title="Canal",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 123
-https://
-#EXTINF:-1 group-title="Empty",Canal 124
-https://
-#EXTINF:-1 tvg-id="mvstv" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal",MVS TV
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 group-title="Empty",Canal 126
-https://
-#EXTINF:-1 group-title="Empty",Canal 127
-https://
-#EXTINF:-1 group-title="Empty",Canal 128
-https://
-#EXTINF:-1 group-title="Empty",Canal 129
-https://
-#EXTINF:-1 tvg-id="telenovelas"tvg-logo="https://i.imgur.com/OK3XWkP.png" group-title="Canal",TeleNovelas
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 131
-https://
-#EXTINF:-1 group-title="Empty",Canal 132
-https://
-#EXTINF:-1 group-title="Empty",Canal 133
-https://
 #EXTINF:-1 tvg-id="mexiquense" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Canal",Mexiquense
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 135
-https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Canal",Telemax
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="expresatv" tvg-logo="" group-title="Canal",Expresatv
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 138
-https://
-#EXTINF:-1 group-title="Empty",Canal 139
-https://
-#EXTINF:-1 group-title="Empty",Canal 140
-https://
-#EXTINF:-1 tvg-id="4tv1" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4.1 TV
-https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 tvg-id="4tv2" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal",4.2 TV
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8#EXTINF:-1
 #EXTINF:-1 tvg-id="tvunam" tvg-logo="https://i.imgur.com/dNPfcwA.png" group-title="Canal",Tv Unam
@@ -298,15 +266,10 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DV
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-id="justiciatv" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Canal",Plural TV 
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 146
-https://
-#EXTINF:-1 group-title="Empty",Canal 147
-https://
-#EXTINF:-1 group-title="Empty",Canal 148
-https://
 #EXTINF:-1 tvg-id="canal6m" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal",Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
+#EXTINF:-1 group-title="Empty",Canal 131
+https://
 ###################################################################################### Noticias
 
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",NOTICIAS
