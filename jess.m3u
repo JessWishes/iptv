@@ -749,6 +749,65 @@ https://
 
 
 ###################################################################################### NO REVISADOS / UNCHECKED
-
+#EXTINF:-1 ,01
+https://live.enhdtv.com:8081/8150/index.m3u8
+#EXTINF:-1 ,03
+https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8
+#EXTINF:-1 ,04
+#EXTINF:https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8-1 ,04
+#EXTINF:-1 ,05
+https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi
+#EXTINF:-1 ,06
+https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
+#EXTINF:-1 ,07
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
+#EXTINF:-1 ,08
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 ,10
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+#EXTINF:-1 ,11
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1 ,12
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 ,13
+https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 ,15
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 ,17
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
+#EXTINF:-1 ,18
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:-1 ,19
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 ,20
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 ,21
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 ,22
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 ,23
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+#EXTINF:-1 ,24
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 ,25
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+#EXTINF:-1 ,26
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 ,27
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 ,29
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 ,30
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 ,31
+https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,32
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 ,33
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 ,34
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 ,35
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 #################################################################################################
