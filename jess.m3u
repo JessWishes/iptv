@@ -2,7 +2,7 @@
 # Lista creada para uso personal y para aprendizaje, sin fines de lucro o comerciales.
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/mbMtHZk.png" group-title="Canal",VOD
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",VOD
 https://i.imgur.com/TTND24i.jpeg
 
 # VOD 2-99
@@ -270,6 +270,91 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Empty",Canal 131
 https://
+#EXTINF:-1 group-title="Empty",Canal 132
+https://
+#EXTINF:-1 group-title="Empty",Canal 133
+https://
+#EXTINF:-1 group-title="Empty",Canal 134
+https://
+#EXTINF:-1 group-title="Empty",Canal 135
+https://
+#EXTINF:-1 group-title="Empty",Canal 136
+https://
+#EXTINF:-1 group-title="Empty",Canal 137
+https://
+#EXTINF:-1 group-title="Empty",Canal 138
+https://
+#EXTINF:-1 group-title="Empty",Canal 139
+https://
+
+###################################################################################### USA ESP
+
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",USA ESP
+https://i.imgur.com/TTND24i.jpeg
+
+#EXTINF:-1 tvg-id="estrellatv1" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 1
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="estrellatv2" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="estrellatv3" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 3
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="estrellatv4" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 4
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NjLl2bn.png" group-title="Canal", Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="casocerrado" tvg-logo="https://i.imgur.com/8wNNSm5.png" group-title="Canal",Caso Cerrado
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="latinx" tvg-logo="https://i.imgur.com/9DZT8sG.png" group-title="Canal",Revry Latinx
+https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Empty",Canal 148
+https://
+#EXTINF:-1 group-title="Empty",Canal 149
+https://
+
+###################################################################################### Animación
+
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ANIMACIóN
+https://i.imgur.com/TTND24i.jpeg
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTV Nick
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-id="nickclassic" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTV Nick2
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTV NickToons
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Canal",EnerGeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Canal",EnerGeek FAN
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/30e05eb172d04c7bb01c6495f82a4a6d.png" group-title="Canal",Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Canal",Memorias TV Toons
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SPbjllljkBcjyV-bG86yEZuIGBEsS3rG6A&s" group-title=Canal",Locomotion TV
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MagicK.co" tvg-logo="https://cnegretetv.000webhostapp.com/logos/Magic_Kids_1995_2.png" group-title="Canal",Magic Kids
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Canal",Anime Vision ClassicEspaña
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Canal",Anime Vision Classics España
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 group-title="Empty",Canal 162
+https://
+#EXTINF:-1 group-title="Empty",Canal 163
+https://
+#EXTINF:-1 group-title="Empty",Canal 164
+https://
+#EXTINF:-1 group-title="Empty",Canal 165
+https://
+#EXTINF:-1 group-title="Empty",Canal 166
+https://
+#EXTINF:-1 group-title="Empty",Canal 167
+https://
+#EXTINF:-1 group-title="Empty",Canal 168
+https://
+#EXTINF:-1 group-title="Empty",Canal 169
+https://
+
 ###################################################################################### Noticias
 
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",NOTICIAS
@@ -311,14 +396,13 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MQ5bb7j.png" group-title="Canal",PlutoTV FIFA+
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
-
-#EXTINF:-1 group-title="Empty",Canal 166
+#EXTINF:-1 group-title="Empty",Canal 186
 https://
-#EXTINF:-1 group-title="Empty",Canal 167
+#EXTINF:-1 group-title="Empty",Canal 187
 https://
-#EXTINF:-1 group-title="Empty",Canal 168
+#EXTINF:-1 group-title="Empty",Canal 188
 https://
-#EXTINF:-1 group-title="Empty",Canal 169
+#EXTINF:-1 group-title="Empty",Canal 189
 https://
 
 ###################################################################################### LATAM Y CARIBE
@@ -369,73 +453,7 @@ https://
 #EXTINF:-1 group-title="Empty",Canal 189
 https://
 
-###################################################################################### USA ESP
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",USA ESP
-https://i.imgur.com/TTND24i.jpeg
-
-#EXTINF:-1 tvg-id="estrellatv1" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 1
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="estrellatv2" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 2
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="estrellatv3" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 3
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="estrellatv4" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal",Estrella TV 4
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NjLl2bn.png" group-title="Canal", Telemundo Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="Empty",Canal 196
-https://
-#EXTINF:-1 tvg-id="casocerrado" tvg-logo="https://i.imgur.com/8wNNSm5.png" group-title="Canal",Caso Cerrado
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="Empty",Canal 198
-https://
-#EXTINF:-1 tvg-id="latinx" tvg-logo="https://i.imgur.com/9DZT8sG.png" group-title="Canal",Revry Latinx
-https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
-
-###################################################################################### Animación
-
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",ANIMACIóN
-https://i.imgur.com/TTND24i.jpeg
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTV Nick
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="nickclassic" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTV Nick
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal",PlutoTV Nick
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 group-title="Empty",Canal 204
-https://
-#EXTINF:-1 group-title="Empty",Canal 205
-https://
-#EXTINF:-1 group-title="Empty",Canal 207
-https://
-#EXTINF:-1 group-title="Empty",Canal 207
-https://
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Canal",EnerGeek
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Canal",EnerGeek FAN
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/30e05eb172d04c7bb01c6495f82a4a6d.png" group-title="Canal",Dreiko TV
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-#EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Canal",Memorias TV Toons
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-#EXTINF:-1 group-title="Empty",Canal 212
-https://
-#EXTINF:-1 group-title="Empty",Canal 213
-https://
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SPbjllljkBcjyV-bG86yEZuIGBEsS3rG6A&s" group-title=Canal",Locomotion TV
-https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="MagicK.co" tvg-logo="https://cnegretetv.000webhostapp.com/logos/Magic_Kids_1995_2.png" group-title="Canal",Magic Kids
-https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Canal",Anime Vision ClassicEspaña
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Canal",Anime Vision Classics España
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 group-title="Empty",Canal 219
-https://
-#EXTINF:-1 group-title="Empty",Canal 219
-https://
 ###################################################################################### ENTRETENIMIENTO
 
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",SERIES
