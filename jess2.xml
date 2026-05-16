@@ -321,15 +321,6 @@
 		<category>Family</category>
 	</programme>
 
-	<channel id="4tv1">
-		<display-name></display-name>
-	</channel>
-  	<programme channel="4tv1" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Canal 4.1 TV Guanajuato</title>
-		<desc> </desc>
-		<category>Family</category>
-	</programme>
-
 	<channel id="4tv2">
 		<display-name></display-name>
 	</channel>
@@ -339,39 +330,39 @@
 		<category>Family</category>
 	</programme>
 
-	<channel id="canal10chiapas">
+	<channel id="canal5">
 		<display-name></display-name>
 	</channel>
-  	<programme channel="canal10chiapas" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Canal 10 Chiapas</title>
-		<desc> </desc>
+  	<programme channel="canal5" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal 5</title>
+		<desc> Canal 5. Programación local.</desc>
 		<category>Family</category>
 	</programme>
 
-	<channel id="canal33tijuana">
+	<channel id="canal22">
 		<display-name></display-name>
 	</channel>
-  	<programme channel="canal33tijuana" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Canal 33 Tijuana</title>
-		<desc> </desc>
+  	<programme channel="canal22" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal 22 Cultural</title>
+		<desc>Programación educativa y cultural desde México.</desc>
 		<category>Family</category>
 	</programme>
 
-	<channel id="canal44juarez">
+	<channel id="telemax">
 		<display-name></display-name>
 	</channel>
-  	<programme channel="canal44juarez" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Canal 44 Ciudad Juárez</title>
-		<desc> </desc>
+  	<programme channel="telemax" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Programación Telemax</title>
+		<desc>Programación local de la Ciudad de México.</desc>
 		<category>Family</category>
 	</programme>
 
-	<channel id="canal44chihuahua">
+	<channel id="expresatv">
 		<display-name></display-name>
 	</channel>
-  	<programme channel="canal44chihuahua" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Canal 44 Chihuahua</title>
-		<desc> </desc>
+  	<programme channel="expresatv" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Programacion pública</title>
+		<desc>Transmisión desde el centro de México por internet.</desc>
 		<category>Family</category>
 	</programme>
 
@@ -435,13 +426,31 @@
   	<programme channel="wtvcanal20" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Programación de Nicaragua por Internet</title>
 		<desc> </desc>
+		<category>Movies</category>
+	</programme>
+
+	<channel id="telemundopr">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="telemundopr" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Telemundo Puerto Rico</title>
+		<desc>Programación local desde Puerto Rico.</desc>
 		<category>Family</category>
 	</programme>
 
-
 	
 
+# Canales eliminados
 	
+	<channel id="4tv1">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="4tv1" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Canal 4.1 TV Guanajuato</title>
+		<desc> </desc>
+		<category>Family</category>
+	</programme>
+		
 </tv>
 
 
