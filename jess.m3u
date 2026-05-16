@@ -273,7 +273,7 @@ https://video.cdmx.gob.mx/redes/stream.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="mexiquense" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Canal; Nacionales",Mexiquense
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="tvunam" tvg-logo="https://i.imgur.com/dNPfcwA.png" group-title="Canal; Nacional",Tv Unam
+#EXTINF:-1 tvg-id="tvunam" tvg-logo="https://i.imgur.com/dNPfcwA.png" group-title="Canal; Nacionales",Tv Unam
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DVR.m3u8
 #EXTINF:-1 tvg-id="canalcongreso" tvg-logo="https://i.imgur.com/GABhezg.png" group-title="Canal; Nacionales",Congreso
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
@@ -496,8 +496,21 @@ https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Canal",W
 https://live.enhdtv.com:8081/8150/index.m3u8
-
-#EXTINF:-1 group-title="Empty",Canal 219
+#EXTINF:-1 group-title="Empty",Canal 222
+https://
+#EXTINF:-1 group-title="Empty",Canal 223
+https://
+#EXTINF:-1 group-title="Empty",Canal 224
+https://
+#EXTINF:-1 group-title="Empty",Canal 225
+https://
+#EXTINF:-1 group-title="Empty",Canal 226
+https://
+#EXTINF:-1 group-title="Empty",Canal 227
+https://
+#EXTINF:-1 group-title="Empty",Canal 228
+https://
+#EXTINF:-1 group-title="Empty",Canal 229
 https://
 
 ###################################################################################### MUNDO
@@ -801,15 +814,10 @@ https://live.gideo.video/americateve2/master.m3u8
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 group-title="Canal",Megamegia Argentina
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Canal",Mega Argentina
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 
 ###################################################################################### NO REVISADOS / UNCHECKED
-
-#EXTINF:-1 group-title="Canal",04
-#EXTINF:https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
-#EXTINF:-1 group-title="Canal",Plutotv enchufe
-https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-
 
 #################################################################################################
