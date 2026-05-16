@@ -9,7 +9,7 @@
 # Education =
 # Animals = 
 # News =
-# Games =
+# Games = INTERNACIONAL
 # Art =
 # Entertrainment = SERIES
 # Life Style = 
@@ -309,7 +309,7 @@
   	<programme channel="amxnoticias" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>AMX Noticas México</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>News</category>
 	</programme>
 
 	<channel id="mvstv">
@@ -318,7 +318,7 @@
   	<programme channel="mvstv" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Programación y Noticias MVS Televisión</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>News</category>
 	</programme>
 
 	<channel id="4tv2">
@@ -372,7 +372,7 @@
   	<programme channel="estrellatv1" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Canal Estrella Televisión</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>Games</category>
 	</programme>
 
 	<channel id="estrellatv2">
@@ -381,7 +381,7 @@
   	<programme channel="estrellatv2" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Canal Estrella Televisión 2</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>Games</category>
 	</programme>
 
 	<channel id="estrellatv3">
@@ -390,7 +390,7 @@
   	<programme channel="estrellatv3" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Canal Estrella Televisión Noticias</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>Games</category>
 	</programme>
 
 	<channel id="estrellatv4">
@@ -399,7 +399,7 @@
   	<programme channel="estrellatv4" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Canal Estrella Televisión Juegos</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>Games</category>
 	</programme>
 
 	<channel id="casocerrado">
@@ -408,7 +408,7 @@
   	<programme channel="casocerrado" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Programa Caso Cerrado 24/7</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>Games</category>
 	</programme>
 
 	<channel id="latinx">
@@ -417,7 +417,7 @@
   	<programme channel="latinx" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Programación Latina desde EE.UU.</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>Games</category>
 	</programme>
 
 	<channel id="wtvcanal20">
@@ -435,7 +435,7 @@
   	<programme channel="telemundopr" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Telemundo Puerto Rico</title>
 		<desc>Programación local desde Puerto Rico.</desc>
-		<category>Family</category>
+		<category>Games</category>
 	</programme>
 
 	
