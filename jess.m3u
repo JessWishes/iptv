@@ -4,8 +4,6 @@
 
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",VOD
 https://i.imgur.com/TTND24i.jpeg
-
-
 # VOD 2-99
 #EXTINF:-1 group-title="Empty",Canal 02
 https://
@@ -333,7 +331,7 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SPbjllljkBcjyV-bG86yEZuIGBEsS3rG6A&s" group-title=Canal",Locomotion TV
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="MagicK.co" tvg-logo="https://cnegretetv.000webhostapp.com/logos/Magic_Kids_1995_2.png" group-title="Canal",Magic Kids
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://cnegretetv.000webhostapp.com/logos/Magic_Kids_1995_2.png" group-title="Canal",Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Canal",Anime Vision ClassicEspaña
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
