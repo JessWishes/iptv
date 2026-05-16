@@ -1,22 +1,3 @@
-# Categorias :
-# Shooping = MOSAICOS
-# Comedy = VCIO/PREDEFINIDO
-# Family = LOCALES/NACIONALES
-# Sports = DEPORTES
-# Movies = PELICULAS
-# Travel = 
-# Drama = 
-# Education =
-# Animals = 
-# News =
-# Games = INTERNACIONAL
-# Art =
-# Entertrainment = SERIES
-# Life Style = 
-# Music = MUSICA
-# Premiere ???
-# Science = MUNDO
-
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
 	
@@ -438,10 +419,6 @@
 		<category>Games</category>
 	</programme>
 
-	
-
-# Canales eliminados
-	
 	<channel id="4tv1">
 		<display-name></display-name>
 	</channel>
