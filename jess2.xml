@@ -92,7 +92,7 @@
   	<programme channel="adn40" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Noticiero ADN 40</title>
 		<desc>Noticas locales y nacionaes de México.</desc>
-		<category>Family</category>
+		<category>News</category>
 	</programme>
 	
 	<channel id="azteca7">
@@ -119,7 +119,7 @@
   	<programme channel="aztecacor" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Azteca Corazón</title>
 		<desc></desc>
-		<category>Family</category>
+		<category>Entertaiment</category>
 	</programme>
 
 	<channel id="imagentv">
@@ -155,16 +155,16 @@
   	<programme channel="nmas" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Noticias N+ Foro</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>News</category>
 	</programme>
 
-	<channel id="nmas">
-		<display-name>nmas</display-name>
+	<channel id="dwespañol">
+		<display-name></display-name>
 	</channel>
-  	<programme channel="nmas" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Noticias N+ Foro</title>
+  	<programme channel="dwespañol" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>DW en Español</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>News</category>
 	</programme>
 
 	<channel id="telenovelas">
@@ -173,7 +173,7 @@
   	<programme channel="telenovelas" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Televisa Telenovelas</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>Entertaiment</category>
 	</programme>
 
 	<channel id="mileniotv">
@@ -182,7 +182,7 @@
   	<programme channel="mileniotv" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Milenio Noticias Televisión</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>News</category>
 	</programme>
 	
 	<channel id="teleformula">
@@ -191,7 +191,7 @@
   	<programme channel="teleformula" start="20260101000000 +0000" stop="20300101000000 +0000">
 		<title>Noticas TeleFórmula</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>News</category>
 	</programme>
 
 	<channel id="oncemx">
@@ -419,15 +419,43 @@
 		<category>Games</category>
 	</programme>
 
-	<channel id="4tv1">
+	<channel id="rtespañol">
 		<display-name></display-name>
 	</channel>
-  	<programme channel="4tv1" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>Canal 4.1 TV Guanajuato</title>
+  	<programme channel="rtespañol" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>RT en Español</title>
 		<desc> </desc>
-		<category>Family</category>
+		<category>News</category>
 	</programme>
-		
+
+	<channel id="france24">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="france24" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Noticas Frances 24</title>
+		<desc> </desc>
+		<category>News</category>
+	</programme>
+
+    <channel id="euronews">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="euronews" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Noticiero Euronews en Español</title>
+		<desc> </desc>
+		<category>News</category>
+	</programme>
+
+	<channel id="telemundon">
+		<display-name></display-name>
+	</channel>
+  	<programme channel="telemundon" start="20260101000000 +0000" stop="20300101000000 +0000">
+		<title>Noticas por Telemundo</title>
+		<desc> </desc>
+		<category>News</category>
+	</programme>
+
+	
 </tv>
 
 
