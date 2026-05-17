@@ -572,17 +572,15 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Canal; Internacional; Latam",13 Internacional Chile
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Empty",Canal 275
+#EXTINF:-1 group-title="Empty",Canal 266
 https://
-#EXTINF:-1 group-title="Empty",Canal 276
+#EXTINF:-1 group-title="Empty",Canal 267
 https://
-#EXTINF:-1 group-title="Empty",Canal 277
+#EXTINF:-1 group-title="Empty",Canal 268
 https://
-#EXTINF:-1 group-title="Empty",Canal 278
+#EXTINF:-1 group-title="Empty",Canal 269
 https://
-#EXTINF:-1 group-title="Empty",Canal 279
-https://
-###################################################################################### 280 - ESPAÑA Y EUROPA
+###################################################################################### 270 - ESPAÑA Y EUROPA
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional; España",ESPAÑA
 https://i.imgur.com/TTND24i.jpeg
 
@@ -600,9 +598,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 group-title="Canal; Internacional; España",Hola Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 group-title="Empty",Canal 288
+#EXTINF:-1 group-title="Empty",Canal 278
 https://
-#EXTINF:-1 group-title="Empty",Canal 289
+#EXTINF:-1 group-title="Empty",Canal 279
 https://
 ###################################################################################### 290 - ASIA
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional; Asia",ASIA
@@ -620,15 +618,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="Canal; Internacional; Asia",Canal Local Japones 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 group-title="Empty",Canal 296
+#EXTINF:-1 group-title="Empty",Canal 287
 https://
-#EXTINF:-1 group-title="Empty",Canal 297
+#EXTINF:-1 group-title="Empty",Canal 288
 https://
-#EXTINF:-1 group-title="Empty",Canal 298
+#EXTINF:-1 group-title="Empty",Canal 289
 https://
-#EXTINF:-1 group-title="Empty",Canal 299
-https://
-###################################################################################### 300 Otros
+###################################################################################### 290 Otros
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Otros", OTROS
 https://i.imgur.com/mbMtHZk.png
 
