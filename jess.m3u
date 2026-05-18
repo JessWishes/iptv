@@ -1,22 +1,3 @@
-# Categorias :
-# Shooping = MOSAICOS
-# Comedy = VACIO/PREDEFINIDO
-# Family = LOCALES/NACIONALES
-# News = NOTICIAS
-# Art = ANIMACIONES
-# Entertrainment = SERIES
-# Travel = MUNDO
-# Movies = PELICULAS
-# Sports = DEPORTES
-# Music = MUSICA
-# Games = INTERNACIONAL
-# Drama = 
-# Education =
-# Animals = 
-# Life Style = 
-# Premiere ???
-# Science =
-
 # Lista creada para uso personal y para aprendizaje, sin fines de lucro o comerciales.
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
@@ -271,10 +252,7 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Mexico" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective International (720p)
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 118
-https://
-#EXTINF:-1 group-title="Empty",Canal 119
-https://
+
 ###################################################################################### 120 - MUNDO
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Mundo",MUNDO
 https://i.imgur.com/TTND24i.jpeg
@@ -343,10 +321,6 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Canal; Mundo",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 153
-https://
-#EXTINF:-1 group-title="Empty",Canal 154
-https://
 #EXTINF:-1 group-title="Empty",Canal 155
 https://
 #EXTINF:-1 group-title="Empty",Canal 156
@@ -423,10 +397,6 @@ https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
 https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 #EXTINF:-1 ,Cine Hispano
 https://telco.apk-media.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
-#EXTINF:-1 group-title="Empty",Canal 192
-https://
-#EXTINF:-1 group-title="Empty",Canal 193
-https://
 #EXTINF:-1 group-title="Empty",Canal 194
 https://
 #EXTINF:-1 group-title="Empty",Canal 195
@@ -508,6 +478,16 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal",Magic Tv Music
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 group-title="Empty",Canal 235
+https://
+#EXTINF:-1 group-title="Empty",Canal 235
+https://
+#EXTINF:-1 group-title="Empty",Canal 235
+https://
+#EXTINF:-1 group-title="Empty",Canal 235
+https://
+#EXTINF:-1 group-title="Empty",Canal 235
+https://
 
 ###################################################################################### 240 USA ESP
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; USA",USA ESP
