@@ -1,18 +1,37 @@
+# Categorias :
+# Shooping = MOSAICOS
+# Comedy = VACIO/PREDEFINIDO
+# Family = LOCALES/NACIONALES
+# News = NOTICIAS
+# Art = ANIMACIONES
+# Entertrainment = SERIES
+# Travel = MUNDO
+# Movies = PELICULAS
+# Sports = DEPORTES
+# Music = MUSICA
+# Games = INTERNACIONAL
+# Drama = 
+# Education =
+# Animals = 
+# Life Style = 
+# Premiere ???
+# Science =
+
 # Lista creada para uso personal y para aprendizaje, sin fines de lucro o comerciales.
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
 
 ###################################################################################### NACIONAL
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Nacionales" tvg-chno="000",NACIONAL
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Nacionales" tvg-chno="CH 0000",NACIONAL
 https://i.imgur.com/mbMtHZk.png
 
-#EXTINF:-1 tvg-id="aztecauno"tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal; Nacionales" tvg-chno="001",Azteca Uno
+#EXTINF:-1 tvg-id="aztecauno"tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal; Nacionales" tvg-chno="CH 0001",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal; Nacionales" tvg-chno="002",Las Estrellas 
+#EXTINF:-1 tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal; Nacionales" tvg-chno="CH 0002",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales",Imagen TV+
+#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales" tvg-chno="CH 0003",Imagen TV+
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales",Canal 5
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="CH 0005",Canal 5
 http://185.56.109.253/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal; Nacionales",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -62,7 +81,7 @@ https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
 ###################################################################################### 30 - Noticias
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Noticias",NOTICIAS
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Noticias" tvg-chno="CH 00700",NOTICIAS
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="nmas" tvg-logo="https://i.imgur.com/ruv3rhO.png" group-title="Canal; Noticias",N+ Foro
@@ -93,7 +112,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 ###################################################################################### 50 - Animación
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Animaciones",ANIMACIÓN
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Animaciones" tvg-chno="CH 0300",ANIMACIÓN
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="nick" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal; Animaciones",Nick
@@ -140,7 +159,7 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
 ###################################################################################### 80 - Deportes
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Deportes",DEPORTES
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Deportes" tvg-chno="CH 0500",DEPORTES
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="tudn" tvg-logo="https://i.imgur.com/8Z6kvM7.png" group-title="Canal; Deportes",TUDN
@@ -159,7 +178,7 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 
 ###################################################################################### 90 - SERIES
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Series" chno="090",SERIES
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Series" tvg-chno="CH 0200",SERIES
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="aztecacor" tvg-logo="https://i.imgur.com/12Xhm3t.png" group-title="Canal; Series",Az Corazón
@@ -222,7 +241,7 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
 
 ###################################################################################### 120 - MUNDO
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Mundo",MUNDO
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Mundo" tvg-chno="CH 0400",MUNDO
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Canal; Mundo",History
@@ -291,7 +310,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 ###################################################################################### 160 - PELICULAS
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",PELICULAS
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal" tvg-chno="CH 0600",PELICULAS
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="Canal",MX Nuestro Cine
@@ -358,7 +377,7 @@ https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 https://telco.apk-media.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
 
 ###################################################################################### 200 - MUSICA
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Musica",MUSICA
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Musica" tvg-chno="CH 00700",MUSICA
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="Canal; Musica",PlutoTV - MTV 
@@ -428,7 +447,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
 ###################################################################################### 240 USA ESP
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional",USA ESP
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional" tvg-chno="CH 0800",USA ESP
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="estrellatv1" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Internacional",Estrella TV 1
@@ -447,7 +466,7 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
 
 ###################################################################################### 250 - LATAM Y CARIBE
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional",LATAM
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional" tvg-chno="CH 0900",LATAM
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Canal; Internacional",Venevisión Internacional
@@ -482,7 +501,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
 
 ###################################################################################### 260 - ESPAÑA Y EUROPA
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional",ESPAÑA
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional" tvg-chno="CH 1000",ESPAÑA
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="a" group-title="Canal; Internacional",Tv Galicia
@@ -501,7 +520,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
 ###################################################################################### 270 - ASIA
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional",ASIA
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional" tvg-chno="CH 1100",ASIA
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Canal; Internacional",Arirang TV Korea 01
@@ -521,6 +540,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canal; Internacional", Shop Channel Japón
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
-###################################################################################### 280 Otros
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional",OTROS
+###################################################################################### 28 Otros
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional" tvg-chno="CH 1200",OTROS
 https://i.imgur.com/TTND24i.jpeg
