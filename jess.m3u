@@ -3,12 +3,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
 
 ###################################################################################### NACIONAL
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Nacionales",NACIONAL
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Nacionales" tvg-chno="0",NACIONAL
 https://i.imgur.com/mbMtHZk.png
 
-#EXTINF:-1 tvg-id="aztecauno"tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal; Nacionales",Azteca Uno
+#EXTINF:-1 tvg-id="aztecauno"tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal; Nacionales" tvg-chno="001",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal; Nacionales",Las Estrellas 
+#EXTINF:-1 tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal; Nacionales" chno="002",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales",Imagen TV+
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
@@ -60,8 +60,7 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DV
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-id="justiciatv" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Canal; Nacionales",Plural TV 
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 29
-https://
+
 ###################################################################################### 30 - Noticias
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Noticias",NOTICIAS
 https://i.imgur.com/TTND24i.jpeg
@@ -92,18 +91,7 @@ https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" tvg-chno="6" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="Empty",Canal 44
-https://
-#EXTINF:-1 group-title="Empty",Canal 45
-https://
-#EXTINF:-1 group-title="Empty",Canal 46
-https://
-#EXTINF:-1 group-title="Empty",Canal 47
-https://
-#EXTINF:-1 group-title="Empty",Canal 48
-https://
-#EXTINF:-1 group-title="Empty",Canal 49
-https://
+
 ###################################################################################### 50 - Animación
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Animaciones",ANIMACIÓN
 https://i.imgur.com/TTND24i.jpeg
@@ -150,22 +138,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-id="animevision2" tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Canal; Animaciones",Anime Vision Classics España
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 group-title="Empty",Canal 72
-https:/
-#EXTINF:-1 group-title="Empty",Canal 73
-https://
-#EXTINF:-1 group-title="Empty",Canal 74
-https://
-#EXTINF:-1 group-title="Empty",Canal 75
-https://
-#EXTINF:-1 group-title="Empty",Canal 76
-https://
-#EXTINF:-1 group-title="Empty",Canal 77
-https://
-#EXTINF:-1 group-title="Empty",Canal 78
-https://
-#EXTINF:-1 group-title="Empty",Canal 79
-https://
+
 ###################################################################################### 80 - Deportes
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Deportes",DEPORTES
 https://i.imgur.com/TTND24i.jpeg
@@ -184,12 +157,9 @@ https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="aztecadep" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales",Azteca DN
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
-#EXTINF:-1 group-title="Empty",Canal 88
-https://
-#EXTINF:-1 group-title="Empty",Canal 89
-https://
-###################################################################################### 90 - ENTRETENIMIENTO
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Series",SERIES
+
+###################################################################################### 90 - SERIES
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Series" chno="090",SERIES
 https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="aztecacor" tvg-logo="https://i.imgur.com/12Xhm3t.png" group-title="Canal; Series",Az Corazón
@@ -319,16 +289,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Canal; Mundo",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Empty",Canal 155
-https://
-#EXTINF:-1 group-title="Empty",Canal 156
-https://
-#EXTINF:-1 group-title="Empty",Canal 157
-https://
-#EXTINF:-1 group-title="Empty",Canal 158
-https://
-#EXTINF:-1 group-title="Empty",Canal 159
-https://
+
 ###################################################################################### 160 - PELICULAS
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal",PELICULAS
 https://i.imgur.com/TTND24i.jpeg
@@ -395,18 +356,7 @@ https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
 https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 #EXTINF:-1 ,Cine Hispano
 https://telco.apk-media.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
-#EXTINF:-1 group-title="Empty",Canal 194
-https://
-#EXTINF:-1 group-title="Empty",Canal 195
-https://
-#EXTINF:-1 group-title="Empty",Canal 196
-https://
-#EXTINF:-1 group-title="Empty",Canal 197
-https://
-#EXTINF:-1 group-title="Empty",Canal 198
-https://
-#EXTINF:-1 group-title="Empty",Canal 199
-https://
+
 ###################################################################################### 200 - MUSICA
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Musica",MUSICA
 https://i.imgur.com/TTND24i.jpeg
@@ -476,16 +426,6 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Musica",Magic Tv Music
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:-1 group-title="Empty",Canal 235
-https://
-#EXTINF:-1 group-title="Empty",Canal 235
-https://
-#EXTINF:-1 group-title="Empty",Canal 235
-https://
-#EXTINF:-1 group-title="Empty",Canal 235
-https://
-#EXTINF:-1 group-title="Empty",Canal 235
-https://
 
 ###################################################################################### 240 USA ESP
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional",USA ESP
@@ -506,10 +446,6 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="latinx" tvg-logo="https://i.imgur.com/9DZT8sG.png" group-title="Canal; Internacional",Revry Latinx
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Empty",Canal 248
-https://
-#EXTINF:-1 group-title="Empty",Canal 249
-https://
 ###################################################################################### 250 - LATAM Y CARIBE
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional",LATAM
 https://i.imgur.com/TTND24i.jpeg
@@ -544,14 +480,7 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Canal; Internacional",13 Internacional Chile
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Empty",Canal 256
-https://
-#EXTINF:-1 group-title="Empty",Canal 257
-https://
-#EXTINF:-1 group-title="Empty",Canal 258
-https://
-#EXTINF:-1 group-title="Empty",Canal 259
-https://
+
 ###################################################################################### 260 - ESPAÑA Y EUROPA
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional",ESPAÑA
 https://i.imgur.com/TTND24i.jpeg
@@ -570,10 +499,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 group-title="Canal; Internacional",Hola Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 group-title="Empty",Canal 268
-https://
-#EXTINF:-1 group-title="Empty",Canal 269
-https://
+
 ###################################################################################### 270 - ASIA
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional",ASIA
 https://i.imgur.com/TTND24i.jpeg
@@ -596,110 +522,5 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 ###################################################################################### 280 Otros
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Otros",OTROS
-https://i.imgur.com/mbMtHZk.png
-
-#EXTINF:-1 tvg-name="NHKç·åˆ (æ±äº¬)" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp" tvg-chno="D011" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",NHKç·åˆ (æ±äº¬)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="NHK Eãƒ†ãƒ¬ï¼ˆæ±äº¬ï¼‰" tvg-logo="https://i.imgur.com/WxtftlO.png" tvg-id="JOABDTV.jp" tvg-chno="D021" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",NHK Eãƒ†ãƒ¬ï¼ˆæ±äº¬ï¼‰
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="æ—¥æœ¬ãƒ†ãƒ¬ãƒ“" tvg-logo="https://i.imgur.com/ecbM7QS.png" tvg-id="JOAXDTV.jp" tvg-chno="D041" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",æ—¥æœ¬ãƒ†ãƒ¬ãƒ“
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ãƒ†ãƒ¬ãƒ“æœæ—¥" tvg-logo="https://i.imgur.com/5XnMfcR.png" tvg-id="JOEXDTV.jp" tvg-chno="D051" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ãƒ†ãƒ¬ãƒ“æœæ—¥
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="TBSãƒ†ãƒ¬ãƒ“" tvg-logo="https://i.imgur.com/jIZ9TlO.png" tvg-id="JORXDTV.jp" tvg-chno="D061" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",TBSãƒ†ãƒ¬ãƒ“
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ãƒ†ãƒ¬ãƒ“æ±äº¬" tvg-logo="https://i.imgur.com/U8jBxEi.png" tvg-id="JOTXDTV.jp" tvg-chno="D071" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ãƒ†ãƒ¬ãƒ“æ±äº¬
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ãƒ•ã‚¸ãƒ†ãƒ¬ãƒ“" tvg-logo="https://i.imgur.com/epJYc7P.png" tvg-id="JOCXDTV.jp" tvg-chno="D081" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ãƒ•ã‚¸ãƒ†ãƒ¬ãƒ“
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://i.imgur.com/t0uZcSR.png" tvg-id="NHKBS.jp" tvg-chno="BS101" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",NHK BS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="NHK BSP4K" tvg-logo="https://i.imgur.com/uvPpFo5.png" tvg-id="NHKBSP4K.jp" tvg-chno="BS4K101" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",NHK BSP4K
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="BSæ—¥ãƒ†ãƒ¬" tvg-logo="https://i.imgur.com/26ATUNc.png" tvg-id="BSNipponTV.jp" tvg-chno="BS141" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",BSæ—¥ãƒ†ãƒ¬
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="BSæœæ—¥" tvg-logo="https://i.imgur.com/Cl68ZMA.png" tvg-id="BSAsahi.jp" tvg-chno="BS151" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",BSæœæ—¥
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/BSt9UG2.png" tvg-id="BSTBS.jp" tvg-chno="BS161" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",BS-TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="BSãƒ†ãƒ¬æ±" tvg-logo="https://i.imgur.com/LsQlNcz.png" tvg-id="BSTVTokyo.jp" tvg-chno="BS171" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",BSãƒ†ãƒ¬æ±
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="BSãƒ•ã‚¸" tvg-logo="https://i.imgur.com/N4xeDxJ.png" tvg-id="BSFuji.jp" tvg-chno="BS181" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",BSãƒ•ã‚¸
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="WOWOWãƒ—ãƒ©ã‚¤ãƒ " tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png" tvg-id="WOWOWPrime.jp" tvg-chno="BS191" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",WOWOWãƒ—ãƒ©ã‚¤ãƒ 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="WOWOWãƒ©ã‚¤ãƒ–" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png" tvg-id="WOWOWLive.jp" tvg-chno="BS192" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",WOWOWãƒ©ã‚¤ãƒ–
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="WOWOWã‚·ãƒãƒž" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png" tvg-id="WOWOWCinema.jp" tvg-chno="BS193" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",WOWOWã‚·ãƒãƒž
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="BS10" tvg-logo="https://i.imgur.com/KPZiuHl.png" tvg-id="jcom_120_110_4" tvg-chno="BS200" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",BS10
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS263&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="BS10ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«" tvg-logo="https://i.imgur.com/SN0ED0U.png" tvg-id="jcom_120_200_4" tvg-chno="BS201" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",BS10ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ã‚¢ãƒ‹ãƒžãƒƒã‚¯ã‚¹" tvg-logo="https://i.imgur.com/jO0qUvj.png" tvg-id="AnimaxAsia.sg@Japan" tvg-chno="BS236" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ã‚¢ãƒ‹ãƒžãƒƒã‚¯ã‚¹
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="J SPORTS 1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg" tvg-id="JSPORTS1.jp" tvg-chno="BS242" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",J SPORTS 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="J SPORTS 2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg" tvg-id="JSPORTS2.jp" tvg-chno="BS243" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",J SPORTS 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="J SPORTS 3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg" tvg-id="JSPORTS3.jp" tvg-chno="BS244" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",J SPORTS 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="J SPORTS 4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg" tvg-id="JSPORTS4.jp" tvg-chno="BS245" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",J SPORTS 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="é‡£ã‚Šãƒ“ã‚¸ãƒ§ãƒ³" tvg-logo="https://i.imgur.com/Yc7JvSK.png" tvg-id="FishingVision.jp" tvg-chno="BS251" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",é‡£ã‚Šãƒ“ã‚¸ãƒ§ãƒ³
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="æ—¥æœ¬æ˜ ç”»å°‚é–€ãƒãƒ£ãƒ³ãƒãƒ«" tvg-logo="https://i.imgur.com/HdC3Hdc.png" tvg-id="NihonEigaSenmonChannel.jp" tvg-chno="BS255" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",æ—¥æœ¬æ˜ ç”»å°‚é–€ãƒãƒ£ãƒ³ãƒãƒ«
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ã‚·ãƒ§ãƒƒãƒ—ãƒãƒ£ãƒ³ãƒãƒ«" tvg-logo="https://i.imgur.com/CCMAF7W.png" tvg-id="ShopChannel.jp" tvg-chno="CS055" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ã‚·ãƒ§ãƒƒãƒ—ãƒãƒ£ãƒ³ãƒãƒ«
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/FznYA39.png" tvg-id="QVC.jp" tvg-chno="CS161" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",QVC
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-name="æ±æ˜ ãƒãƒ£ãƒ³ãƒãƒ«" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" tvg-id="ToeiChannel.jp" tvg-chno="CS218" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",æ±æ˜ ãƒãƒ£ãƒ³ãƒãƒ«
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ãƒãƒ£ãƒ³ãƒãƒ«NECO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" tvg-id="ChannelNECO.jp" tvg-chno="CS223" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ãƒãƒ£ãƒ³ãƒãƒ«NECO
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ãƒ ãƒ¼ãƒ“ãƒ¼ãƒ—ãƒ©ã‚¹" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" tvg-id="MoviePlus.jp" tvg-chno="CS240" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ãƒ ãƒ¼ãƒ“ãƒ¼ãƒ—ãƒ©ã‚¹
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="GAORA" tvg-logo="https://i.imgur.com/Myh0PWD.png" tvg-id="GAORASPORTS.jp" tvg-chno="CS254" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",GAORA
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="æ—¥ãƒ†ãƒ¬ã‚¸ãƒ¼ã‚¿ã‚¹" tvg-logo="https://i.imgur.com/xq1VG0E.png" tvg-id="NitteleGPlus.jp" tvg-chno="CS257" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",æ—¥ãƒ†ãƒ¬ã‚¸ãƒ¼ã‚¿ã‚¹
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ã‚´ãƒ«ãƒ•ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯" tvg-logo="https://i.imgur.com/EVd8Vvp.png" tvg-id="GolfNetwork.jp" tvg-chno="CS262" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ã‚´ãƒ«ãƒ•ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="æ™‚ä»£åŠ‡å°‚é–€ãƒãƒ£ãƒ³ãƒãƒ«" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" tvg-id="JidaigekiSenmonChannel.jp" tvg-chno="CS292" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",æ™‚ä»£åŠ‡å°‚é–€ãƒãƒ£ãƒ³ãƒãƒ«
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ãƒ•ã‚¡ãƒŸãƒªãƒ¼åŠ‡å ´" tvg-logo="https://i.postimg.cc/k5fXKzj3/o023302751417597653027.jpg" tvg-id="FamilyGekijyo.jp" tvg-chno="CS293" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ãƒ•ã‚¡ãƒŸãƒªãƒ¼åŠ‡å ´
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ãƒ›ãƒ¼ãƒ ãƒ‰ãƒ©ãƒžãƒãƒ£ãƒ³ãƒãƒ«" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" tvg-id="HomeDramaChannel.jp" tvg-chno="CS294" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ãƒ›ãƒ¼ãƒ ãƒ‰ãƒ©ãƒžãƒãƒ£ãƒ³ãƒãƒ«
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ãƒãƒ£ãƒ³ãƒãƒ«éŠ€æ²³" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png" tvg-id="ChannelGinga.jp" tvg-chno="CS305" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ãƒãƒ£ãƒ³ãƒãƒ«éŠ€æ²³
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ã‚¹ãƒ¼ãƒ‘ãƒ¼ï¼ãƒ‰ãƒ©ãƒžTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png" tvg-id="SuperDramaTV.jp" tvg-chno="CS310" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ã‚¹ãƒ¼ãƒ‘ãƒ¼ï¼ãƒ‰ãƒ©ãƒžTV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ãƒãƒ£ãƒ³ãƒãƒ«" tvg-logo="https://i.imgur.com/K0YyPwC.png" tvg-id="AXN.jp" tvg-chno="CS311" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ãƒãƒ£ãƒ³ãƒãƒ«
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="Dlife" tvg-logo="https://i.imgur.com/6gJZHPv.png" tvg-id="FOX.jp" tvg-chno="CS312" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",Dlife
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="LaLa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png" tvg-id="LaLaTV.jp" tvg-chno="CS314" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",LaLa TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="Mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png" tvg-id="MnetJapan.jp" tvg-chno="CS318" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",Mnet
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="Music ON TV!ï¼ˆã‚¨ãƒ ã‚ªãƒ³ï¼‰" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" tvg-id="MUSICONTV.jp" tvg-chno="CS325" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",Music ON TV!ï¼ˆã‚¨ãƒ ã‚ªãƒ³ï¼‰
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="æ­Œè¬¡ãƒãƒƒãƒ—ã‚¹ãƒãƒ£ãƒ³ãƒãƒ«" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kayo-pops-jp.png" tvg-id="KayoPops.jp" tvg-chno="CS329" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",æ­Œè¬¡ãƒãƒƒãƒ—ã‚¹ãƒãƒ£ãƒ³ãƒãƒ«
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ã‚­ãƒƒã‚ºã‚¹ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" tvg-id="KidsStation.jp" tvg-chno="CS330" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ã‚­ãƒƒã‚ºã‚¹ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="æ—¥ãƒ†ãƒ¬NEWS24" tvg-logo="https://i.imgur.com/jtSYegn.png" tvg-id="NTVNEWS24.jp" tvg-chno="CS349" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",æ—¥ãƒ†ãƒ¬NEWS24
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="å›²ç¢ãƒ»å°†æ£‹ãƒãƒ£ãƒ³ãƒãƒ«" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/igoshogi.png" tvg-id="IgoShogiChannel.jp" tvg-chno="CS363" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",å›²ç¢ãƒ»å°†æ£‹ãƒãƒ£ãƒ³ãƒãƒ«
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="GSTV" tvg-logo="https://i.imgur.com/ECnVG5I.png" tvg-id="GSTV.jp" tvg-chno="ã‚¹ã‚«ãƒ‘ãƒ¼ï¼ãƒ—ãƒ¬ãƒŸã‚¢ãƒ 527" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",GSTV
-https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
-#EXTINF:-1 tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-id="NHKWorldJapan.jp" tvg-chno="JCOM307" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",NHK WORLD JAPAN
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 tvg-name="ã‚¦ã‚§ã‚¶ãƒ¼ãƒ‹ãƒ¥ãƒ¼ã‚¹LiVE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" tvg-id="rch_45" tvg-chno="CH 106" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",ã‚¦ã‚§ã‚¶ãƒ¼ãƒ‹ãƒ¥ãƒ¼ã‚¹LiVE
-https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-#EXTINF:-1 tvg-name="TOKYO MX ãƒãƒ£ãƒ³ãƒãƒ«" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" tvg-chno="CH 108" tvg-country="JP" group-title="æ—¥æœ¬ / Japan",TOKYO MX ãƒãƒ£ãƒ³ãƒãƒ«
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional",OTROS
+https://i.imgur.com/TTND24i.jpeg
