@@ -10,10 +10,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
 
 ###################################################################################### NACIONAL
-#EXTINF:-1,SERIES
-#EXTVLCOPT:network-caching=1000
-https://i.imgur.com/TTND24i.jpeg
-
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Nacionales" tvg-chno="001",NACIONAL
 https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess3.m3u8
 
