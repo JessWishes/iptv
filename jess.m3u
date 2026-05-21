@@ -11,7 +11,8 @@
 
 ###################################################################################### NACIONAL
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Nacionales" tvg-chno="001",NACIONAL
-https://i.imgur.com/mbMtHZk.png
+https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess3.m3u8
+# https://i.imgur.com/mbMtHZk.png
 
 #EXTINF:-1 tvg-id="aztecauno"tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal; Nacionales" tvg-chno="002",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -57,6 +58,9 @@ https://video.cdmx.gob.mx/redes/stream.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="4tv1" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal; Nacionales" tvg-chno="041",4.1 TV
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 group-title="Canal",4tvMX
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
 #EXTINF:-1 tvg-id="4tv2" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal; Nacionales" tvg-chno="042",4.2 TV
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Nacionales" tvg-chno="095",Presumiendo México
@@ -67,7 +71,8 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DV
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-id="justiciatv" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Canal; Nacionales" tvg-chno="098",Plural TV 
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-
+#EXTINF:-1 group-title="Canal",TV migrante
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 ###################################################################################### 100 - SERIES
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Series" tvg-chno="100",SERIES
 https://i.imgur.com/TTND24i.jpeg
@@ -365,6 +370,8 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 #EXTINF:-1 tvg-id="fifamas" tvg-logo="https://i.imgur.com/MQ5bb7j.png" group-title="Canal; Deportes" tvg-chno="732",FIFA+
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-i="" tvg-logo="" group-title="Canal" tvg-chno="733", Claro Sports
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 
 ###################################################################################### 800 - MUSICA
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Musica" tvg-chno="800",MUSICA
