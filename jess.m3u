@@ -13,15 +13,13 @@
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Nacionales" tvg-chno="001",NACIONAL
 https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess3.m3u8
 
-#EXTINF:-1 tvg-id="aztecauno"tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal; Nacionales" tvg-chno="002",Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal; Nacionales" tvg-chno="003",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales" tvg-chno="004",Imagen TV+
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="005",Canal 5
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="005",Canal 5 SD
 http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="005",Canal 5
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="005",Canal 5 HD
 http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal; Nacionales" tvg-chno="006",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -55,6 +53,10 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="canal22" tvg-logo="https://i.imgur.com/RnU7m5t.png" group-title="Canal; Nacionales" tvg-chno="022",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aztecacor" tvg-logo="https://i.imgur.com/12Xhm3t.png" group-title="Canal; Series" tvg-chno="025",Az Corazón
+https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
+#EXTINF:-1 tvg-id="telenovelas"tvg-logo="https://i.imgur.com/OK3XWkP.png" group-title="Canal; Series" tvg-chno="027",TeleNovelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="mexiquense" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Canal; Nacionales" tvg-chno="034",Mexiquense
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="4tv1" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Canal; Nacionales" tvg-chno="041",4.1 TV
@@ -76,89 +78,98 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Series" tvg-chno="100",SERIES
 https://i.imgur.com/TTND24i.jpeg
 
-#EXTINF:-1 tvg-id="aztecacor" tvg-logo="https://i.imgur.com/12Xhm3t.png" group-title="Canal; Series" tvg-chno="101",Az Corazón
-https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
-#EXTINF:-1 tvg-id="telenovelas"tvg-logo="https://i.imgur.com/OK3XWkP.png" group-title="Canal; Series" tvg-chno="102",TeleNovelas
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="kanalddrama" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Canal; Series" tvg-chno="103",Kanal D Drama 
-https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="telemundoaccion" tvg-logo="https://i.imgur.com/NjLl2bn.png" group-title="Canal; Series" tvg-chno="104",Telemundo Accion
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/IuRKNdw.png" group-title="Canal; Series" tvg-chno="105",Sony Novelas
-https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/DXYjim0.png" group-title="Canal; Series" tvg-chno="106",Todo Novela
-https://448a93b8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9kb05vdmVsYXNfSExT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="canalclaro" tvg-logo="https://i.imgur.com/mTnBV0V.png" group-title="Canal; Series" tvg-chno="111",Canal Claro
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:-1 tvg-id="cbs" tvg-logo="https://i.imgur.com/68Hs5uz.png" group-title="Canal; Series" tvg-chno="112",CBS
-https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
-#EXTINF:-1 tvg-id="mundoseries" tvg-logo="https://i.imgur.com/r8fiwjG.png" group-title="Canal; Series" tvg-chno="121",Mundo Series
+#EXTINF:-1 tvg-id="mundoseries" tvg-logo="https://i.imgur.com/r8fiwjG.png" group-title="Canal; Series" tvg-chno="101",Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
+#EXTINF:-1 tvg-chno="102",Rakuten tv
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="131",Sony Competencias
-https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8
-#EXTINF:-1 tvg-id="copsespañol" tvg-logo="a" group-title="Canal; Series" tvg-chno="132",Cops en Español
-https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="crimenesreales" tvg-logo="a" group-title="Canal; Series" tvg-chno="133",Crímenes Reales
-https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="c4alerta" group-title="Canal; Series" tvg-chno="134",C4 en Alerta
-https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Peliculas" tvg-chno="103",Neotv
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="GikTVMX.mx@SD" group-title="Canal; Musica" tvg-chno="141",GikTVMX
+#EXTINF:-1 tvg-id="GikTVMX.mx@SD" group-title="Canal; Musica" tvg-chno="104",GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ciudadmagica" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="Canal; Series" tvg-chno="142",Ciudad Magica
+#EXTINF:-1 tvg-id="ciudadmagica" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="Canal; Series" tvg-chno="105",Ciudad Magica
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-id="mitv" tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="Canal; Series" tvg-chno="143",MI TV
+#EXTINF:-1 tvg-id="mitv" tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="Canal; Series" tvg-chno="106",MI TV
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
-#EXTINF:-1 tvg-id="antenaseis" tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Canal; Series" tvg-chno="144",Antena Seis
+#EXTINF:-1 tvg-id="antenaseis" tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Canal; Series" tvg-chno="107",Antena Seis
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
-#EXTINF:-1 tvg-id="vacio" group-title="Canal; Series" tvg-chno="145",Wise TV
+#EXTINF:-1 tvg-id="vacio" group-title="Canal; Series" tvg-chno="108",Wise TV
 https://live.enhdtv.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-logo="a" group-title="Canal; Peliculas" tvg-chno="146",TV Nosara Costa Rica
+#EXTINF:-1 tvg-logo="a" group-title="Canal; Peliculas" tvg-chno="109",TV Nosara Costa Rica
 https://latamvdo.com:3870/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="vacio" group-title="Canal" tvg-chno="147",Memorias Series
+#EXTINF:-1 tvg-id="vacio" group-title="Canal" tvg-chno="110",Memorias Series
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
-#EXTINF:-1 tvg-id="vacio" group-title="Canal" tvg-chno="148",Garagetv
+#EXTINF:-1 tvg-id="vacio" group-title="Canal" tvg-chno="111",Garagetv
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="pridetv" tvg-logo="https://i.imgur.com/AjK3IWK.png" group-title="Canal; Series" tvg-chno="149",PRIDEtv 
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 
-#EXTINF:-1 tvg-id="ideasen5minutos" tvg-logo="https://yt3.googleusercontent.com/48s32ikifVY3rPWssd2KtXfCVdiCEraecjBiFzyEffLnh2R6wdbNJ7fm0THbRgn8hQBvV5_JcA=s160-c-k-c0x00ffffff-no-rj" group-title="Canal; Series" tvg-chno="151",Ideas en 5 minutos
-https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ideasen5minutos" tvg-logo="https://yt3.googleusercontent.com/48s32ikifVY3rPWssd2KtXfCVdiCEraecjBiFzyEffLnh2R6wdbNJ7fm0THbRgn8hQBvV5_JcA=s160-c-k-c0x00ffffff-no-rj" group-title="Canal; Series" tvg-chno="152",5-Minutes Craft
-https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="alwaysfunny" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Canal; Series" tvg-chno="153",Always Funny
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="154",Fail Army
-https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Canal; Series" tvg-chno="155",The Pet Collective International (720p)
-https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="163",10 Costa Rica
-https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
-#EXTINF:-1 tvg-chno="164",Super Cinco
-http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="161",Latina
+#EXTINF:-1 tvg-id=" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Canal; Series" tvg-chno="112",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="162",Latina Classics
+#EXTINF:-1 tvg-id=" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Canal; Series" tvg-chno="113",Latina Clásico
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="estrellatv1" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Internacional" tvg-chno="190",Estrella TV 1
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="estrellatv2" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Internacional" tvg-chno="191",Estrella TV 2
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="estrellatv4" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Internacional" tvg-chno="193",Estrella TV 4
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="telemundopr" tvg-logo="https://i.imgur.com/NjLl2bn.png" group-title="Canal; Internacional" tvg-chno="196", Telemundo PR
+#EXTINF:-1 tvg-id="telemundoaccion" tvg-logo="https://i.imgur.com/NjLl2bn.png" group-title="Canal; Series" tvg-chno="114",Telemundo Accion
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="telemundopr" tvg-logo="https://i.imgur.com/NjLl2bn.png" group-title="Canal; Internacional" tvg-chno="115", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="casocerrado" tvg-logo="https://i.imgur.com/8wNNSm5.png" group-title="Canal; Internacional" tvg-chno="198",Caso Cerrado
+
+#EXTINF:-1 tvg-id="kanalddrama" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Canal; Series" tvg-chno="121",Kanal D Drama
+https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/IuRKNdw.png" group-title="Canal; Series" tvg-chno="122",Sony Novelas
+https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/DXYjim0.png" group-title="Canal; Series" tvg-chno="123",Todo Novela
+https://448a93b8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9kb05vdmVsYXNfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canalclaro" tvg-logo="https://i.imgur.com/mTnBV0V.png" group-title="Canal; Series" tvg-chno="130",Canal Claro
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+#EXTINF:-1 tvg-id="cbs" tvg-logo="https://i.imgur.com/68Hs5uz.png" group-title="Canal; Series" tvg-chno="131",CBS
+https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
+
+#EXTINF:-1 tvg-id="estrellatv1" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Internacional" tvg-chno="141",Estrella TV 1
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="estrellatv2" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Internacional" tvg-chno="142",Estrella TV 2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="estrellatv4" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Internacional" tvg-chno="143",Estrella TV 4
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="145",Sony Competencias
+https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8
+#EXTINF:-1 tvg-id="copsespañol" tvg-logo="a" group-title="Canal; Series" tvg-chno="146",Cops en Español
+https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="crimenesreales" tvg-logo="a" group-title="Canal; Series" tvg-chno="147",Crímenes Reales
+https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c4alerta" group-title="Canal; Series" tvg-chno="148",C4 en Alerta
+https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
+#EXTINF:-1 tvg-id="casocerrado" tvg-logo="https://i.imgur.com/8wNNSm5.png" group-title="Canal; Internacional" tvg-chno="149",Caso Cerrado
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="latinx" tvg-logo="https://i.imgur.com/9DZT8sG.png" group-title="Canal; Internacional" tvg-chno="199",Revry Latinx
+
+#EXTINF:-1 tvg-chno="150",10 Costa Rica
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+#EXTINF:-1 tvg-chno="151",Super Cinco
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pridetv" tvg-logo="https://i.imgur.com/AjK3IWK.png" group-title="Canal; Series" tvg-chno="160",PRIDEtv 
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="latinx" tvg-logo="https://i.imgur.com/9DZT8sG.png" group-title="Canal; Internacional" tvg-chno="169",Revry Latinx
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ideasen5minutos" tvg-logo="https://yt3.googleusercontent.com/48s32ikifVY3rPWssd2KtXfCVdiCEraecjBiFzyEffLnh2R6wdbNJ7fm0THbRgn8hQBvV5_JcA=s160-c-k-c0x00ffffff-no-rj" group-title="Canal; Series" tvg-chno="171",Ideas en 5 minutos
+https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ideasen5minutos" tvg-logo="https://yt3.googleusercontent.com/48s32ikifVY3rPWssd2KtXfCVdiCEraecjBiFzyEffLnh2R6wdbNJ7fm0THbRgn8hQBvV5_JcA=s160-c-k-c0x00ffffff-no-rj" group-title="Canal; Series" tvg-chno="172",5-Minutes Craft
+https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="alwaysfunny" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Canal; Series" tvg-chno="173",Always Funny
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="174",Fail Army
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Canal; Series" tvg-chno="175",The Pet Collective International (720p)
+https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Canal; Series" tvg-chno="180",Vision tv
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 group-title="Canal; Series" tvg-chno="183",SAS tv
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
 ###################################################################################### 200 - Animación
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Animaciones" tvg-chno="200",ANIMACIÓN
@@ -172,6 +183,12 @@ https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/By7u70X.png" group-title="Canal; Animaciones" tvg-chno="204",CN City
 https://envivo.cncity.live/hls/envivo.m3u8
+
+#EXTINF:-1 group-title="Canal; Animaciones" tvg-chno="206",DJr USA
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 group-title="Canal; Animaciones" tvg-chno="207",D Junior
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/FpTDkdU.png" group-title="Canal; Animaciones" tvg-chno="211",Simpson 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/FpTDkdU.png" group-title="Canal; Animaciones" tvg-chno="212",Simpson Classic 24/7
@@ -228,6 +245,9 @@ https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:-1 tvg-id="vacio" group-title="Canal" tvg-chno="409",Crimen e historia
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="Canal; Internacional" tvg-chno="410",13 Cultura Chile
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Canal; Mundo; Series" tvg-chno="431",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
@@ -270,6 +290,8 @@ https://stream.aprende.gob.mx/live/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Canal; Mundo" tvg-chno="475",Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg" group-title="Canal" tvg-chno="476",TAKARAZUKA SKY STAGE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="Canal; Mundo" tvg-chno="481",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
@@ -335,8 +357,6 @@ https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-logo"a" group-title="Canal; Peliculas" tvg-chno="525",Adrenalina Pura
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Peliculas" tvg-chno="530",Neotv
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ScesUbHV-aMYDjL6TsdyJZRPRYckjFty_A&s" group-title="Canal; Peliculas" tvg-chno="531",OPINION SUR CINE
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 
@@ -366,17 +386,17 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 tvg-chno="544",Canal Tv Digial
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Canal; Peliculas" tvg-chno="590",Cine Friki
+#EXTINF:-1 group-title="Canal; Peliculas" tvg-chno="590",A3 Cine
+http://187.190.55.136:5501/udp/225.1.1.20:5020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Canal; Peliculas" tvg-chno="592",Cine Friki
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Canal; Peliculas" tvg-chno="591",MyTime Movie Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Canal; Peliculas" tvg-chno="594",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 ###################################################################################### 600 - Noticias
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Noticias" tvg-chno="600",NOTICIAS
 https://i.imgur.com/TTND24i.jpeg
 
-#EXTINF:-1 tvg-id="nmas" tvg-logo="https://i.imgur.com/ruv3rhO.png" group-title="Canal; Noticias" tvg-chno="601",N+ Foro
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canal; Noticias" tvg-chno="602",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="mileniotv" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal; Noticias" tvg-chno="603",Milenio Tv
@@ -387,8 +407,7 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="amxnoticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Canal; Noticias" tvg-chno="612",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="france24" tvg-logo="https://i.imgur.com/dzKSdAi.png" group-title="Canal; Noticias" tvg-chno="613",France 24
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
 #EXTINF:-1 tvg-id="dwespañol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Canal; Noticias" tvg-chno="614",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="rtespañol" tvg-logo="https://i.imgur.com/mxwe8hV.png" group-title="Canal; Noticias" tvg-chno="615",RT en Español 
@@ -399,13 +418,18 @@ https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="cnnla" tvg-logo="https://i.imgur.com/yL4KBtQ.png" group-title="Canal; Noticias" tvg-chno="618",CNN LA
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="estrellatv3" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Internacional" tvg-chno="619",Estrella TV 3
+#EXTINF:-1 tvg-id="estrellatv3" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Internacional" tvg-chno="619",Estrella
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-chno="623",RCG Coahuila
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Canal; Internacional" tvg-chno=633",RCN Noticias
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+
 #EXTINF:-1 tvg-id="rtve" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="Canal; Noticias" tvg-chno="690" ,RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Canal; Internacional" tvg-chno="692",24 Horas España
+https://ztnr.rtve.es/ztnr/4952053.m3u8
 
 ###################################################################################### 700 - Deportes
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Deportes" tvg-chno="700",DEPORTES
@@ -445,8 +469,11 @@ https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LoboTV.mx@SD" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Canal; Musica" tvg-chno="813",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Canal; Internacional" tvg-chno="818",13 Festival Chile 
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RBK72UT.png" group-title="Canal; Musica" tvg-chno="819",TV One Perú
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="Canal; Musica" tvg-chno="820",YOU & ME Radio
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
@@ -507,8 +534,7 @@ https://i.imgur.com/TTND24i.jpeg
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Canal; Internacional" tvg-chno="932",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Canal; Internacional" tvg-chno="933",RCN Noticias
-https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Canal; Internacional" tvg-chno="934",Ecuavisa
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Canal; Internacional" tvg-chno="935",Señal Perú TV
@@ -519,14 +545,9 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="Canal; Internacional" tvg-chno="938",AméricaTeVé Puerto Rico
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="Canal; Internacional" tvg-chno="941",13 Cultura Chile
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Canal; Internacional" tvg-chno="942",13 Festival Chile 
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="Canal; Internacional" tvg-chno="943",13 Pop Chile
 https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Canal; Internacional" tvg-chno="944",13 Go Chile
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="Canal; Internacional" tvg-chno="945",13 Realities Chile
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Canal; Internacional" tvg-chno="946",13 Teleseries Chile
@@ -540,8 +561,7 @@ https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-logo="a" group-title="Canal; Internacional" tvg-chno="961",Tv Galicia
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Canal; Internacional" tvg-chno="962",24 Horas España
-https://ztnr.rtve.es/ztnr/4952053.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Canal; Internacional" tvg-chno="963",TVE Internacional America
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/512px-Star_TVE_2026.svg.png" group-title="Canal; Internacional" tvg-chno="964",TVE Star V1
@@ -595,9 +615,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 tvg-id="History.jp@SD" tvg-chno="999",History Channel Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp@SD" tvg-chno="999",TAKARAZUKA SKY STAGE (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-
 #EXTINF:-1 tvg-id="JOBHDTV.jp@SD" tvg-chno="999",TV Osaka (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 
@@ -614,32 +631,19 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Otros" tvg-chno="1000",OTROS
 https://i.imgur.com/TTND24i.jpeg
 
-#EXTINF:-1 tvg-chno="1003",6
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-#EXTINF:-1 tvg-chno="1003",5
-https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
-
-#EXTINF:-1 tvg-chno="1003",7
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-
-#EXTINF:-1 tvg-chno="1003",9
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-
-#EXTINF:-1 tvg-chno="1003",10
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-chno="1003",11
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-
-#EXTINF:-1 tvg-chno="1003",12
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-http://187.190.55.136:5501/udp/225.1.1.20:5020
 ###################################################################################### 2000 SIN SEÑAL
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Otros" tvg-chno="2000",SIN SEÑAL
 https://i.imgur.com/TTND24i.jpeg
 
+#EXTINF:-1 tvg-id="aztecauno"tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Canal; Nacionales" tvg-chno="2002",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="2005",Canal 5
 http://185.56.109.253/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="2007",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="nmas" tvg-logo="https://i.imgur.com/ruv3rhO.png" group-title="Canal; Noticias" tvg-chno="2601",N+ Foro
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Canal; Internacional" tvg-chno="2944",13 Go Chile
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="france24" tvg-logo="https://i.imgur.com/dzKSdAi.png" group-title="Canal; Noticias" tvg-chno="2613",France 24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
