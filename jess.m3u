@@ -104,9 +104,9 @@ https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 #EXTINF:-1 tvg-id="vacio" group-title="Canal" tvg-chno="111",Garagetv
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Canal; Series" tvg-chno="112",Latina
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Canal; Series" tvg-chno="112",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Canal; Series" tvg-chno="113",Latina Clásico
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Canal; Series" tvg-chno="113",Latina Clásico
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="telemundoaccion" tvg-logo="https://i.imgur.com/NjLl2bn.png" group-title="Canal; Series" tvg-chno="114",Telemundo Accion
