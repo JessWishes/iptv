@@ -19,8 +19,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
 #EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="005",Canal 5 SD
 http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="005",Canal 5 HD
-http://38.49.128.38:8000/play/a0n6/index.m3u8
+
 #EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canal; Nacionales" tvg-chno="006",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="007",Azteca 7
@@ -559,6 +558,8 @@ https://i.imgur.com/TTND24i.jpeg
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="2005",Canal 5
 http://185.56.109.253/Canal5/playlist.m3u8
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="005",Canal 5 HD
+http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="2007",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="nmas" tvg-logo="https://i.imgur.com/ruv3rhO.png" group-title="Canal; Noticias" tvg-chno="2601",N+ Foro
