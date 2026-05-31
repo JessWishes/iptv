@@ -128,6 +128,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estr
 #EXTINF:-1 tvg-id="estrellatv4" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Internacional" tvg-chno="143",Estrella TV 4
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Series" tvg-chno="145",Coreanas
+https://jmp2.uk/stvp-ES1700003C6
 #EXTINF:-1 tvg-id="copsespañol" tvg-logo="a" group-title="Canal; Series" tvg-chno="146",Cops en Español
 https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="crimenesreales" tvg-logo="a" group-title="Canal; Series" tvg-chno="147",Crímenes Reales
@@ -218,13 +220,26 @@ https://i.imgur.com/TTND24i.jpeg
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-id="lovenature" tvg-logo="https://i.imgur.com/6JDSIHF.png" group-title="Canal; Mundo" tvg-chno="405",Love Nature
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Mundo" tvg-chno="405",Naturaleza Salvaje
+https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Mundo" tvg-chno="406",Love the Planet
+https://jmp2.uk/stvp-ESBC4700002TD
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Mundo" tvg-chno="407",Go USA
+https://jmp2.uk/stvp-ESBC27000040I
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Mundo" tvg-chno="408",Curiosity Animales
+https://jmp2.uk/stvp-US2200001IY
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="Canal; Internacional" tvg-chno="410",13 Cultura Chile
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Canal; Mundo; Series" tvg-chno="411",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Mundo; Series" tvg-chno="412",Curiosity Explora
+https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Mundo; Series" tvg-chno="412",Curiosity Explora2
+https://jmp2.uk/stvp-US22000020U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Mundo; Series" tvg-chno="413",Curiosity Motores
+https://jmp2.uk/stvp-US2200003ZN
 
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/U0lGbxu.png" group-title="Canal; Mundo" tvg-chno="415",Xphere Aventuras
 https://stmv3.voxtvhd.com.br/aventurastv/aventurastv/playlist.m3u8
@@ -266,7 +281,8 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Mundo" tvg-chno="490",Curiosity Now Inglés
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Mundo" tvg-chno="492",Jaime Oliver
+https://jmp2.uk/rok-8fd0bc4f08285a12abb872f0b2e320d4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Canal; Mundo" tvg-chno="493",Bon appétit Inglés
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Mundo" tvg-chno="494",Travel TV Inglés
@@ -294,7 +310,8 @@ https://cloudvideo.servers10.com:8081/8108/index.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="Canal; Peliculas" tvg-chno="504",CINEINDIE
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
-
+#EXTINF:-1 group-title="Canal; Peliculas" tvg-chno="505",Filmex
+https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
 #EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Canal; Peliculas" tvg-chno="506",ENT Channel Español
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Canal; Peliculas" tvg-chno="507",ENT Family Español
@@ -360,6 +377,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="teleformula" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Canal; Noticias" tvg-chno="604",TeleFórmula 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Noticias" tvg-chno="605",AZ Noticias
+https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
 #EXTINF:-1 tvg-id="mvstv" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal; Noticias" tvg-chno="611",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="amxnoticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Canal; Noticias" tvg-chno="612",AMX Noticias
@@ -370,7 +389,10 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="rtespañol" tvg-logo="https://i.imgur.com/mxwe8hV.png" group-title="Canal; Noticias" tvg-chno="615",RT en Español 
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/6iaWWUY.png" group-title="Canal; Noticias" tvg-chno="616",Euro news
+https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/6iaWWUY.png" group-title="Canal; Noticias" tvg-chno="616",Euro news2
+https://jmp2.uk/stvp-ES260000968
 #EXTINF:-1 tvg-id="telemundon" tvg-logo="https://i.imgur.com/NjLl2bn.png" group-title="Canal; Noticias" tvg-chno="617",Telemundo N
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="cnnla" tvg-logo="https://i.imgur.com/yL4KBtQ.png" group-title="Canal; Noticias" tvg-chno="618",CNN LA
@@ -396,7 +418,7 @@ https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="tudn" tvg-logo="https://i.imgur.com/8Z6kvM7.png" group-title="Canal; Deportes" tvg-chno="701",TUDN
 https://streaming.alwaysdata.net/tudn.php
-#EXTINF:-1 tvg-id="aztecadep" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales" tvg-chno="702",Azteca DN
+#EXTINF:-1 tvg-id="aztecadep" tvg-logo="https://i.imgur.com/9ACGHPt.pn" group-title="Canal; Nacionales" tvg-chno="702",Azteca DN
 https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
 #EXTINF:-1 tvg-id="itvdeportes" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Canal; Deportes" tvg-chno="703",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
@@ -407,6 +429,8 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 
 #EXTINF:-1 tvg.id="tubifoxsports" tvg-logo="https://i.imgur.com/LeaC5N9.png" group-title="Canal; Deportes" tvg-chno="730",Canela Deportes
 https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
+#EXTINF:-1 tvg-id="fifamas" tvg-logo="https://i.imgur.com/MQ5bb7j.png" group-title="Canal; Deportes" tvg-chno="732",FIFA+
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
 ###################################################################################### 800 - MUSICA
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Musica" tvg-chno="800",MUSICA
@@ -470,6 +494,23 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 tvg-id="mtvjp" group-title="Canal; Musica" tvg-chno="861",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
+#EXTINF:60 group-title="Canal; Musica" tvg-chno="890",Trace Urban
+https://jmp2.uk/stvp-ESBA3300043M0
+#EXTINF:60 group-title="Canal; Musica" tvg-chno="891",XITE LIVE
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:54 group-title="Canal; Musica" tvg-chno="892",XITE 8OS FLASHBACK
+https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
+#EXTINF:54 group-title="Canal; Musica" tvg-chno="893",XITE 90S THROWBACK
+https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
+#EXTINF:54 group-title="Canal; Musica" tvg-chno="894",XITE CELEBRIDADES
+https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
+#EXTINF:54 group-title="Canal; Musica" tvg-chno="895",XITE NUEVO LATINO
+https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
+#EXTINF:54 group-title="Canal; Musica"tvg-chno="896",XITE SIEMPRE LATINO
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
+#EXTINF:54 group-title="Canal; Musica" tvg-chno="897",XITE JUST CHILL
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+
 ###################################################################################### 930 - LATAM Y CARIBE
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional" tvg-chno="930",LATAM
 https://i.imgur.com/TTND24i.jpeg
@@ -478,6 +519,8 @@ https://i.imgur.com/TTND24i.jpeg
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Canal; Internacional" tvg-chno="932",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal; Internacional" tvg-chno="933",Caracol Mix
+https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Canal; Internacional" tvg-chno="934",Ecuavisa
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Canal; Internacional" tvg-chno="935",Señal Perú TV
@@ -604,53 +647,28 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-id="BayresTV.ar@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="General" tvg-chno="1000",Bayres TV (720p)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BravoTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="General" tvg-chno="1000",Bravo TV
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
-
 #EXTINF:-1 tvg-id="Canal2deUshuaia.ar@SD" tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" group-title="General" tvg-chno="1000",Canal 2 de Ushuaia (1080p)
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalPulpoTV.ar@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Entertainment" tvg-chno="1000",Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-
-#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Kids" tvg-chno="1000",El Chavo TV (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-
 #EXTINF:-1 tvg-id="XHUNESTDT.mx@SD" tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Education" tvg-chno="1000",Señal España (XHUNES-TDT) (720p)
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-
-#EXTINF:-1 tvg-id="13Humor.cl@SD" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Comedy" tvg-chno="1000",13 Humor (1080p)
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-
 #EXTINF:-1 tvg-id="LaRed.cl@SD" tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="General" tvg-chno="1000",La Red (720p) [Not 24/7]
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-id="TVN.cl@SD" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="General" tvg-chno="1000",TVN (1080p)
 http://217.26.190.76:8888/play/a0m6/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalCHD.co@SD" tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="General" tvg-chno="1000",Canal CHD
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="General" tvg-chno="1000",Canal Más Televisión (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-
 #EXTINF:-1 tvg-id="UniTV.ve@SD" tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="General" tvg-chno="1000",UniTV (720p)
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ValeTV.ve@SD" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="General" tvg-chno="1000",Vale TV (480p) [Not 24/7]
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe@SD" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General" tvg-chno="1000",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Movies;Music" tvg-chno="1000",Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:-1 tvg-id="Bolivision.bo@SD" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="General" tvg-chno="1000",Bolivisión LPZ (720p)
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" tvg-chno="1000",Fox Sports 1 (1280p)
-https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 
 ###################################################################################### 2000 SIN SEÑAL
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal" tvg-chno="2000",SIN SEÑAL
@@ -660,140 +678,9 @@ https://i.imgur.com/TTND24i.jpeg
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales" tvg-chno="2004",Imagen TV+
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="2005",Canal 5
-http://185.56.109.253/Canal5/playlist.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="2005",Canal 5 HD
-http://38.49.128.38:8000/play/a0n6/index.m3u8
-#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="2007",Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="nmas" tvg-logo="https://i.imgur.com/ruv3rhO.png" group-title="Canal; Noticias" tvg-chno="2601",N+ Foro
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
-#EXTINF:-1 tvg-id="canalclaro" tvg-logo="https://i.imgur.com/mTnBV0V.png" group-title="Canal; Series" tvg-chno="2130",Canal Claro
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:-1 tvg-id="cbs" tvg-logo="https://i.imgur.com/68Hs5uz.png" group-title="Canal; Series" tvg-chno="2131",CBS
-https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="2145",Sony Competencias
-https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8
-#EXTINF:-1 tvg-id="c4alerta" group-title="Canal; Series" tvg-chno="2148",C4 en Alerta
-https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
-#EXTINF:-1 tvg-id="nick" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal; Animaciones" tvg-chno="2201",Nick
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="nick" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal; Animaciones" tvg-chno="2202",Nick 2
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 tvg-id="nick" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Canal; Animaciones" tvg-chno="2203",NickToons
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 tvg-id="vacio" group-title="Canal; Mundo" tvg-chno="2406",Nature Time
-https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7JdZ46G.png" group-title="Canal; Mundo" tvg-chno="2441",Plato del día
-https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
-#EXTINF:-1 tvg-id="" group-title="Canal; Mundo; Mundo" tvg-chno="2442",Tastemade Español
-https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Canal; Mundo" tvg-chno="2443",Tastemade Hogar
-https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
-#EXTINF:-1 tvg-id="" group-title="Canal; Mundo" tvg-chno="2444",Tastemade Viajes
-https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/zU0gqoX.png" group-title="Canal; Mundo" tvg-chno="2445",Homeful Español
-https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
-#EXTINF:-1 tvg-id="CinePremiere.us" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Canal; Peliculas" tvg-chno="2505",Cine Premiere
-https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Peliculas" tvg-chno="2523",Pluto Tv Cine
-https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-#EXTINF:-1 tvg-logo"a" group-title="Canal; Peliculas" tvg-chno="2525",Adrenalina Pura
-https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/6iaWWUY.png" group-title="Canal; Noticias" tvg-chno="2616",Euro news
-https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
-#EXTINF:-1 tvg-id="fifamas" tvg-logo="https://i.imgur.com/MQ5bb7j.png" group-title="Canal; Deportes" tvg-chno="2732",FIFA+
-https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="clarosports" tvg-logo="https://i.imgur.com/f2Nv9Pm.png" group-title="Canal; Deportes" tvg-chno="2711",Claro Sports
-https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Musica" tvg-chno="2805",MTV Biggest Pop
-https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Musica" tvg-chno="2806",MTV Spankin' new
-https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-
 ############################################################################################################################################################
-
-
-#EXTINF:-1 tvg-chno="3000",Canal ViX
-
-#EXTINF:-1  tvg-chno="3000",Cine de Oro
-https://jmp2.uk/stvp-USBD2700005KL
-#EXTINF:108  tvg-chno="3000",Cine Retro
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/stvp-USBD2500022U5
-#EXTINF:59 tvg-chno="3000",Cine Romantico
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/stvp-USBA3800001E0
-#EXTINF:60 tvg-chno="3000",Crunchyroll
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/stvp-US2000018YI
-#EXTINF:60 tvg-chno="3000",Curiosity Animales
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/stvp-US2200001IY
-#EXTINF:60 tvg-chno="3000",Curiosity Explora
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/stvp-US22000020U
-#EXTINF:60 tvg-chno="3000",Curiosity Motores
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/stvp-US2200003ZN
-#EXTINF:60 tvg-chno="3000",CNN Headlines International
-https://jmp2.uk/stvp-ESBD190000137
-#EXTINF:60 tvg-chno="3000",Cool Summer Channel
-https://jmp2.uk/stvp-ES2500001F9
-#EXTINF:60 tvg-chno="3000",Coreano by CJ ENM
-https://jmp2.uk/stvp-ES1700003C6
-#EXTINF:64 tvg-chno="3000",Euronews EN DIRECTO
-https://jmp2.uk/stvp-ES260000968
-#EXTINF:60 tvg-chno="3000",GoUSA TV
-https://jmp2.uk/stvp-ESBC27000040I
-#EXTINF:60 tvg-chno="3000",Love the Planet
-https://jmp2.uk/stvp-ESBC4700002TD
-#EXTINF:60 tvg-chno="3000",Motorvision
-https://jmp2.uk/stvp-ESBD3200001EG
-#EXTINF:60 tvg-chno="3000",Trace Urban
-https://jmp2.uk/stvp-ESBA3300043M0
-#EXTINF:24 tvg-chno="3000",FOX SPORTS
-#EXTVLCOPT:network-caching=1000
-https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/tracks-v1a1/mono.m3u8
-#EXTINF:60 tvg-chno="3000",XITE LIVE
-#EXTVLCOPT:network-caching=1000
-https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
-#EXTINF:54 tvg-chno="3000",XITE 8OS FLASHBACK
-#EXTVLCOPT:network-caching=1000
-https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
-#EXTINF:54 tvg-chno="3000",XITE 90S THROWBACK
-#EXTVLCOPT:network-caching=1000
-https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
-#EXTINF:54 tvg-chno="3000",XITE CELEBRIDADES
-#EXTVLCOPT:network-caching=1000
-https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
-#EXTINF:54 tvg-chno="3000",XITE NUEVO LATINO
-#EXTVLCOPT:network-caching=1000
-https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
-#EXTINF:54 tvg-chno="3000",XITE SIEMPRE LATINO
-#EXTVLCOPT:network-caching=1000
-https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
-#EXTINF:54 tvg-chno="3000",XITE JUST CHILL
-#EXTVLCOPT:network-caching=1000
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-#EXTINF:56 tvg-chno="3000",Curiosity Explora
-https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
-#EXTINF:60 tvg-chno="3000",Love Nature Spanish
-https://jmp2.uk/rok-03a419fc4dff59b39b176d9f76b09e38.m3u8
-#EXTINF:60 tvg-chno="3000",Canela.TV Clásicos
-https://jmp2.uk/rok-42ee7ce6165d5342be3e509f0afe5048.m3u8
-#EXTINF:56 tvg-chno="3000",Caracol Mix
-https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8
-#EXTINF:60 tvg-chno="3000",FILMEX Comedia
-https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
-#EXTINF:60 tvg-chno="3000",Jamie Oliver
-https://jmp2.uk/rok-8fd0bc4f08285a12abb872f0b2e320d4.m3u8
-#EXTINF:60 tvg-chno="3000",Naturaleza Salvaje
-https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
-#EXTINF:60 tvg-chno="3000",Azteca Noticias
-https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
-#EXTINF:60 tvg-chno="3000",Euronews Español
-https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8
 
 
