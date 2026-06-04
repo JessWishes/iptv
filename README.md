@@ -9,9 +9,9 @@ Nada se ha hecho con fines de lucro o comerciales.
 Está lista es de uso personal, así que se podrán dar cambios e incluso eliminación del contenido.
 
 ## Objetivo ##
-El objetivo principal de esta lista es recopilar enlaces a transmisiones gratuitas para ser transmitidas a través de reproductores de enlaces externos o de televisión por protocolo.
+El objetivo principal de esta lista es recopilar enlaces a transmisiones gratuitas para ser vistas a través de reproductores de enlaces externos o de televisión por protocolo.
 
-Teniendo como referencia programación Mexicana, Latinoamerica y caribe, España y en otros idiomas; en ese orden.
+Teniendo como referencia programación Mexicana, Latinoamerica, Caribe, España y en otros idiomas; en ese orden.
 
 ## Lista de canales ##
 La selección de programación se basa en disponibilidad y criterio personal.
