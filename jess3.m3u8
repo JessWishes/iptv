@@ -1,61 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Vacio" tvg-chno="9000",OTROS
-https://i.imgur.com/TTND24i.jpeg
-
-#EXTINF:-1 group-title="Vacio" tvg-chno="9001", file01
-https://archive.org/download/colossal-combo-43-1993/Colossal%20Combo%2043%20%281993%29.mp4
-#EXTINF:-1 group-title="vacio", file02
-https://archive.org/download/CopperheadCanyon/Copperhead%20Canyon.mp4
-#EXTINF:-1 group-title="vacio", file03
-https://archive.org/download/TheAddison/Addison%20%26%20Devin.mp4
-#EXTINF:-1 group-title="vacio", file04
-https://dn720303.ca.archive.org/0/items/stroke-video-the-best-of-the-biggest/Stroke%20Video%20-%20The%20Best%20Of%20The%20Biggest.mp4
-#EXTINF:-1 group-title="vacio", file05
-https://archive.org/download/christopher-rages-best-of-the-superstars/ChristopherRageSuperstars-003.ia.mp4
-#EXTINF:-1 group-title="vacio", file06
-https://archive.org/download/bulletgoldvol2/Bullet%20Gold%20Vol%202.mp4
-#EXTINF:-1 group-title="vacio", file07
-https://archive.org/download/do-me-evil-1975/DoMeEvil.ia.mp4
-#EXTINF:-1 group-title="vacio", file08
-https://archive.org/download/HunksByPool/Rickys%20Porn/196.mp4
-#EXTINF:-1 group-title="vacio", file09
-https://archive.org/download/HunksByPool/Rickys%20Porn/197.mp4
-#EXTINF:-1 group-title="vacio", file10
-https://archive.org/download/HunksByPool/Rickys%20Porn/Alpha%20Male%20Fuckers-69.mp4
-#EXTINF:-1 group-title="vacio", file11
-https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20BiLatin%20Men.mp4
-#EXTINF:-1 group-title="vacio", file12
-https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porn%20-%20Raw%20Papi.mp4
-#EXTINF:-1 group-title="vacio", file13
-https://archive.org/download/HunksByPool/Rickys%20Porn/Gay%20Porno%20100.mp4
-#EXTINF:-1 group-title="vacio", file14
-https://archive.org/download/HunksByPool/Rickys%20Porn/Hairy%20muscle%20bareback%20fuck.mp4
-#EXTINF:-1 group-title="vacio", file15
-https://dn720702.ca.archive.org/0/items/gms-254/GMS254.mp4
-#EXTINF:-1 group-title="vacio", file16
-https://archive.org/download/dial-justice/DIAL%20JUSTICE.mp4
-#EXTINF:-1 group-title="vacio", file17
-https://archive.org/download/when-the-boss-is-away/When%20The%20Boss%20Is%20Away.mp4
-#EXTINF:-1 group-title="vacio", File 18
-https://dn720006.ca.archive.org/0/items/one-and-only-dominator-1992/One%20and%20Only%20Dominator%20%281992%29.mp4
-#EXTINF:-1 group-title="vacio", File 19
-https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/Latino%20Raw%20Fuck.mp4
-#EXTINF:-1 group-title="vacio", File 20
-https://dn720200.ca.archive.org/0/items/HunksByPool/Rickys%20Porn/aday%20traun%20isaac%20eliad.mp4
-
-#EXTINF:-1 group-title="Vacio" tvg-chno="9002",ST01
-http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 group-title="Vacio" tvg-chno="9003",ST02
-https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-#EXTINF:-1 group-title="Vacio" tvg-chno="9004",ST03
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 group-title="Vacio" tvg-chno="9005",ST04
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="Vacio" tvg-chno="9006",ST05
-http://live.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="Vacio" tvg-chno="9007",ST06
-https://cdn.adultiptv.net/gay.m3u8
-
-
-
+#EXT-X-TARGETDURATION:-1
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-1, testAx
+https://i.imgur.com/mbMtHZk.png
+#EXT-X-ENDLIST
