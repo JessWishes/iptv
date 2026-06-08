@@ -475,9 +475,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-es
 #EXTINF:-1 tvg-id="" group-title="Canal; Internacional" tvg-chno="634",RCN Noticias
 https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8
 
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Canal; Noticias" tvg-chno="640",Multivisión
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-
 #EXTINF:-1 tvg-id="rtve" tvg-logo="" group-title="Canal; Noticias" tvg-chno="680" ,Univisión
 https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
 
@@ -497,6 +494,8 @@ https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 #EXTINF:-1 tvg-id="itvdeportes" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Canal; Deportes" tvg-chno="703",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Canal; Noticias" tvg-chno="704",Multivisión
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
 #EXTINF:-1 tvg-id="clarosports" tvg-logo="https://i.imgur.com/f2Nv9Pm.png" group-title="Canal; Deportes" tvg-chno="710",Claro Sports
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
@@ -593,10 +592,7 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="Canal; Animaciones" tvg-chno="894",TALTALTV ANIME City Pop
 https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
-#EXTINF:-1 tvg-id="mtvjp" group-title="Canal; Musica" tvg-chno="896",MTV Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg" group-title="Canal; Musica" tvg-chno="898",Music Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+
 
 ###################################################################################### 900 - INTERNACIONAL
 
@@ -637,7 +633,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-id="vacio" group-title="Canal; Internacional" tvg-chno="924",Hola Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 tvg-chno="925",Antena 3
+#EXTINF:-1 group-title="Canal" tvg-chno="925",Antena 3
 http://187.190.55.136:5501/udp/225.1.1.101:5101
 
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Internacional" tvg-chno="930",ASIA
@@ -651,7 +647,6 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 #EXTINF:-1 tvg-id="vacio" group-title="Canal; Internacional" tvg-chno="934",NHK World-Japan 3
 https://nhk.lls.pbs.org/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-chno="950",Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canal; Internacional" tvg-chno="999",Shop Channel Japón
@@ -667,3 +662,8 @@ https://i.imgur.com/TTND24i.jpeg
 #==================================================================# 2000 SIN SEÑAL
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal" tvg-chno="2000",SIN SEÑAL
 https://i.imgur.com/TTND24i.jpeg
+
+#EXTINF:-1 tvg-id="mtvjp" group-title="Canal; Musica" tvg-chno="2896",MTV Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg" group-title="Canal; Musica" tvg-chno="2898",Music Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
