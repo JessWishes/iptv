@@ -659,6 +659,11 @@ https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="1001",01
 
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="1002",01
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="1003",01
+https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
+
 #==================================================================# 2000 SIN SEÑAL
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal" tvg-chno="2000",SIN SEÑAL
 https://i.imgur.com/TTND24i.jpeg
