@@ -354,7 +354,7 @@ http://181.119.93.83:8000/play/a1jw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Canal; Peliculas" tvg-chno="503",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/awmfYYX.png" group-title="Canal; Peliculas" tvg-chno="504",CINEINDIE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal; Peliculas" tvg-chno="504",CINEINDIE
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
 #EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Canal; Peliculas" tvg-chno="505",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
