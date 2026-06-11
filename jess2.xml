@@ -464,5 +464,13 @@
 		<desc> </desc>
 		<category>News</category>
 	</programme>
+
+	<channel id="simpson2">
+	</channel>
+  	<programme channel="simpson2" start="20260611160000 +0000" stop="20300611163000 +0000">
+		<title>Noticas por Telemundo</title>
+		<desc> </desc>
+		<category>News</category>
+	</programme>
 	
 </tv>
