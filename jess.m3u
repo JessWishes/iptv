@@ -1,4 +1,4 @@
-# Categorias :                       # Entertrainment = SERIES           # Drama = 
+# Categorias :                       # Entertainment = SERIES           # Drama = 
 # Shooping = MOSAICOS                # Travel = MUNDO                    # Education =
 # Comedy = VACIO/PREDEFINIDO         # Movies = PELICULAS                # Animals = 
 # Family = LOCALES/NACIONALES        # Sports = DEPORTES                 # Life Style = 
@@ -10,13 +10,30 @@
 
 #================================================================================# 100 NACIONAL
 
+#EXTINF:-1 tvg-id="Internacional", Internacional
+https://
+#EXTINF:-1 tvg-id="Musica", Musica
+https://
+#EXTINF:-1 tvg-id="Deportes", Deportes
+https://
+#EXTINF:-1 tvg-id="Peliculas", Peliculaas
+https://
+#EXTINF:-1 tvg-id="Mundo", Mundo
+https://
+#EXTINF:-1 tvg-id="Series", Series
+https://
+#EXTINF:-1 tvg-id="Animacion", Animacion
+https://
+#EXTINF:-1 tvg-id="Noticias", Noticias
+https://
+#EXTINF:-1 tvg-id="Locales", Locales
+https://
+#EXTINF:-1 tvg-id="vacio", Vacio
+https://
+
 #EXTINF:-1 tvg-chno="100" tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Nacionales",NACIONAL
 https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess3.m3u8
 
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal; Nacionales" tvg-chno="103",Vacio
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="Local" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal; Nacionales" tvg-chno="103",Locales
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canal; Nacionales" tvg-chno="103",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales" tvg-chno="104",Imagen TV
