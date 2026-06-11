@@ -10,6 +10,8 @@
 
 #================================================================================# 100 NACIONAL
 
+#EXTINF:-1 tvg-id="mosaico", Mosaico
+https://
 #EXTINF:-1 tvg-id="Internacional", Internacional
 https://
 #EXTINF:-1 tvg-id="Musica", Musica
@@ -26,7 +28,7 @@ https://
 https://
 #EXTINF:-1 tvg-id="Noticias", Noticias
 https://
-#EXTINF:-1 tvg-id="Locales", Locales
+#EXTINF:-1 tvg-id="Local", Locales
 https://
 #EXTINF:-1 tvg-id="vacio", Vacio
 https://
