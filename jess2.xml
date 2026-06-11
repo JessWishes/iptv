@@ -5,7 +5,7 @@
 		<display-name>mosaico</display-name>
 	</channel>
   	<programme channel="mosaico" start="20260101000000 +0000" stop="20300101000000 +0000">
-		<title>========== MOSAICO ==========</title>
+		<title>====== MOSAICO ======</title>
 		<desc> Canal sin contenido, unicamente es usado como divisor entre categorias.</desc>
 		<icon src="https://i.imgur.com/RrTGuEI.png"/>
 		<category>Shopping</category>
@@ -21,6 +21,23 @@
 		<category>Comedy</category>
 	</programme>
 
+	<channel id="Local">
+		<display-name>Local</display-name>
+	</channel>
+  	<programme channel="Local" start="20260101000000 +0010" stop="20360000000000 +0000">
+		<title>Programación Local</title>
+		<desc> Información de este canal aún no está disponible.</desc>
+		<icon src="https://i.imgur.com/RrTGuEI.png"/>
+		<category>Local</category>
+	</programme>
+
+
+
+
+
+
+
+	
 	<channel id="teleyucatan">
 		<display-name>teleyucatan</display-name>
 	</channel>
