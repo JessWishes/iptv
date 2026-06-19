@@ -427,6 +427,9 @@ https://cloudvideo.servers10.com:8081/8108/index.m3u8
 http://181.119.93.83:8000/play/a1jw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Canal; Peliculas" tvg-chno="503",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Peliculas" tvg-chno="519",CineCanal
+http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/128.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal; Peliculas" tvg-chno="504",CINEINDIE
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
 #EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Canal; Peliculas" tvg-chno="505",ENT Channel
@@ -455,8 +458,7 @@ https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playl
 https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Canal; Peliculas" tvg-chno="518",Cine Latino
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/173.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Peliculas" tvg-chno="519",CineCanal
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/128.m3u8
+
 #EXTINF:-1 group-title="Canal; Peliculas" tvg-chno="520",Filmex
 https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
 #EXTINF:-1 group-title="Canal; Peliculas" tvg-chno="521",Memorias film
@@ -737,3 +739,7 @@ https://i.imgur.com/TTND24i.jpeg
 
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",01
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",02
+http://138.121.15.230:9002/CITY-TV/index.m3u8
+
