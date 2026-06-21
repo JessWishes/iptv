@@ -34,7 +34,8 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Canal; Nacionales" tvg-chno="111",Once.3 Mx
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-
+#EXTINF:-1 tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Canal; Nacionales" tvg-chno="111",Once Niños
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7347
 #EXTINF:-1 tvg-id="aztecaint" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales" tvg-chno="113",Azteca Int
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="canalcatorce" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Canal; Nacionales" tvg-chno="114",Canal Catorce
@@ -59,6 +60,14 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" tvg-chno="124",Aprende MX
 https://stream.aprende.gob.mx/live/hls/index.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales; Peliculas" tvg-chno="125",AZ Cinema
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7034
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales; Peliculas" tvg-chno="126",Galavisión
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7605
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales; Peliculas" tvg-chno="127",AZ Clic
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7035
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales; Peliculas" tvg-chno="128",Nu9ve
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7120
 
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="Canal" tvg-chno="133",Canal 33
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
@@ -98,6 +107,9 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal; Noticias" tvg-chno="150",NOTICIAS
 https://i.imgur.com/TTND24i.jpeg
 
+
+#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales" tvg-chno="151",Foro N+
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7110
 #EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canal; Noticias" tvg-chno="152",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="mileniotv" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Canal; Noticias" tvg-chno="153",Milenio Tv
@@ -106,6 +118,8 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Noticias" tvg-chno="155",AZ Noticias
 https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Noticias" tvg-chno="156",Meganoticias
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7169
 
 #EXTINF:-1 tvg-id="mvstv" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Canal; Noticias" tvg-chno="160",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -438,13 +452,15 @@ https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal; Peliculas" tvg-chno="513",Cine Hispano
 https://telco.apk-media.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Canal; Series" tvg-chno="514",Europa Europa
-http://181.119.93.83:8000/play/a1sr/index.m3u8
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7190
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvtsFbT/Logo-imagen-Universal.png" group-title="Canal; Peliculas" tvg-chno="515",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="" group-title="Canal; Peliculas" tvg-chno="516",Todo Cine
 https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Canal; Peliculas" tvg-chno="517",Mi Miedo
 https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Canal; Peliculas" tvg-chno="518",Cine AR
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7642
 
 #EXTINF:-1 group-title="Canal; Peliculas" tvg-chno="520",Filmex
 https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
@@ -542,7 +558,8 @@ https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo@SD" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Canal" tvg-chno="614",Bolivisión LPZ
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="615",Caracol
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7643
 #EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="615",Caracol
 https://s2.bufaloweb.com/bufalo22/index.m3u8
 #EXTINF:-1  tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal; Series" tvg-chno="616",10 Costa Rica
@@ -709,44 +726,48 @@ https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 https://jmp2.uk/rok-8fd0bc4f08285a12abb872f0b2e320d4.m3u8
 #EXTINF:-1 tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Canal; Nacionales" tvg-chno="1111",Once.3 Mx
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Canal; Series" tvg-chno="1514",Europa Europa
+http://181.119.93.83:8000/play/a1sr/index.m3u8
+#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal; Nacionales",Azteca UNO
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7039
 
 #==================================================================# 2000 SIN SEÑAL
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal" tvg-chno="2000",SIN SEÑAL
 https://i.imgur.com/TTND24i.jpeg
 
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png group-title="Canal" tvg-chno="201",Comedy Central
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png group-title="Canal" tvg-chno="2201",Comedy Central
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/216.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="1105",Canal 5
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="2105",Canal 5
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/106.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="1105",Canal 5
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="2105",Canal 5
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/108.m3u8
-#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="1107",Azteca 7
+#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="2107",Azteca 7
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/74.m3u8
-#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="107",Azteca 7
+#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="2107",Azteca 7
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/72.m3u8
-#EXTINF:-1 tvg-id="amas" tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Canal; Nacionales" tvg-chno="1108",A más HD
+#EXTINF:-1 tvg-id="amas" tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Canal; Nacionales" tvg-chno="2108",A más HD
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/9.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales; Peliculas" tvg-chno="124",AZ Cinema
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales; Peliculas" tvg-chno="2124",AZ Cinema
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/63.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="202",A&E
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="2202",A&E
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/5.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Animaciones" tvg-chno="314",Doraemon
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Animaciones" tvg-chno="2314",Doraemon
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/297.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Animaciones" tvg-chno="315",Garfield
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Animaciones" tvg-chno="2315",Garfield
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/486.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Animaciones" tvg-chno="316",Family Guy
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Animaciones" tvg-chno="2316",Family Guy
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/747.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Peliculas" tvg-chno="519",CineCanal
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Peliculas" tvg-chno="2519",CineCanal
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/128.m3u8
-#EXTINF:-1 tvg-id="" group-title="Canal; Peliculas" tvg-chno="518" tvc-guide-description="canal de test",Cine Latino
+#EXTINF:-1 tvg-id="" group-title="Canal; Peliculas" tvg-chno="2518" tvg-guide-description="canal de test" tvg-description="canal de test2",Cine Latino
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/173.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="615",Caracol Int
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="2615",Caracol Int
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/126.m3u8
-#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales" tvg-chno="1104",Imagen TV
+#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales" tvg-chno="2104",Imagen TV
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/576.m3u8
-#EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canal; Noticias" tvg-chno="1151",ADN 40
+#EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canal; Noticias" tvg-chno="2151",ADN 40
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/20.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal; Nacionales",Azteca UNO
+#EXTINF:-1 tvg-chno="2101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal; Nacionales",Azteca UNO
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/76.m3u8
 
 #==================================================================# NO REVISADOS
