@@ -452,7 +452,7 @@ https://telco.apk-media.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Canal; Peliculas" tvg-chno="524",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Canal; Peliculas" tvg-chno="530,Mi Miedo
+#EXTINF:-1 tvg-id="" group-title="Canal; Peliculas" tvg-chno="530",Mi Miedo
 https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Canal; Peliculas" tvg-chno="540",Runtime
@@ -658,91 +658,88 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 
 #==================================================================# 1000 Enlaces Alternos
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal" tvg-chno="1000",OTROS
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Otros" tvg-chno="1000",OTROS
 https://i.imgur.com/TTND24i.jpeg
 
-#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal; Nacionales",Azteca UNO -1h
+#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Otros",Azteca UNO -1h
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
-#EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canal; Noticias" tvg-chno="1151",ADN 40
+#EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Otros" tvg-chno="1151",ADN 40
 https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
-#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/6iaWWUY.png" group-title="Canal; Noticias" tvg-chno="1165",Euro news Roku
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/6iaWWUY.png" group-title="Otros" tvg-chno="1165",Euro news Roku
 https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8
-#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/6iaWWUY.png" group-title="Canal; Noticias" tvg-chno="1165",Euro news PlutoTv
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/6iaWWUY.png" group-title="Otros" tvg-chno="1165",Euro news PlutoTv
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
-#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/6iaWWUY.png" group-title="Canal; Noticias" tvg-chno="1165",Euro news 4
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/6iaWWUY.png" group-title="Otros" tvg-chno="1165",Euro news 4
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/0Fff01Y.png" group-title="Canal; Series" tvg-chno="1207",A3 Pluto Roku
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/0Fff01Y.png" group-title="Otros" tvg-chno="1207",A3 Pluto Roku
 https://jmp2.uk/rok-770c7e1794505869b1ce94c84905ecea.m3u8
-#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales" tvg-chno="1103",Imagen TV
+#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Otros" tvg-chno="1103",Imagen TV
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="1105",Canal 5
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Otros" tvg-chno="1105",Canal 5
 http://190.61.101.11:7050/play/a098/index.m3u8?hls
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="1105",Canal 5
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Otros" tvg-chno="1105",Canal 5
 http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="1107",Azteca 7
+#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Otros" tvg-chno="1107",Azteca 7
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755500.ts
-#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="1107",Azteca 7
+#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Otros" tvg-chno="1107",Azteca 7
 http://45.5.119.43:4000/play/a026/index.m3u8
-#EXTINF:-1 tvg-id="aztecaint" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales" tvg-chno="1113",Azteca Int
+#EXTINF:-1 tvg-id="aztecaint" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Otros" tvg-chno="1113",Azteca Int
 https://azt-mun.otteravision.com/azt/mun/mun_360p.m3u8
-#EXTINF:-1 tvg-id="cnnla" tvg-logo="https://i.imgur.com/yL4KBtQ.png" group-title="Canal; Noticias" tvg-chno="1167",CNN LA
+#EXTINF:-1 tvg-id="cnnla" tvg-logo="https://i.imgur.com/yL4KBtQ.png" group-title="Otros" tvg-chno="1167",CNN LA
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="estrellatv2" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Canal; Series" tvg-chno="1223",ETV 2
+#EXTINF:-1 tvg-id="estrellatv2" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Otros" tvg-chno="1223",ETV 2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="aztecadep" tvg-logo="https://i.imgur.com/9ACGHPt.pn" group-title="Canal; Nacionales" tvg-chno="1352",Azteca DN
+#EXTINF:-1 tvg-id="aztecadep" tvg-logo="https://i.imgur.com/9ACGHPt.pn" group-title="Otros" tvg-chno="1352",Azteca DN
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
-#EXTINF:-1 tvg-id="aztecadep" tvg-logo="https://i.imgur.com/9ACGHPt.pn" group-title="Canal; Nacionales" tvg-chno="1352",Azteca DN
+#EXTINF:-1 tvg-id="aztecadep" tvg-logo="https://i.imgur.com/9ACGHPt.pn" group-title="Otros" tvg-chno="1352",Azteca DN
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Mundo" tvg-chno="1468",Jaime Oliver
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Otros" tvg-chno="1468",Jaime Oliver
 https://jmp2.uk/rok-8fd0bc4f08285a12abb872f0b2e320d4.m3u8
-#EXTINF:-1 tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Canal; Nacionales" tvg-chno="1111",Once.3 Mx
+#EXTINF:-1 tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Otros" tvg-chno="1111",Once.3 Mx
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Canal; Series" tvg-chno="1514",Europa Europa
+#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Otros" tvg-chno="1514",Europa Europa
 http://181.119.93.83:8000/play/a1sr/index.m3u8
-#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal; Nacionales",Azteca UNO
+#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Otros",Azteca UNO
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7039
 
 #==================================================================# 2000 SIN SEÑAL
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal" tvg-chno="2000",SIN SEÑAL
+#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Otros" tvg-chno="2000",SIN SEÑAL
 https://i.imgur.com/TTND24i.jpeg
 
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png group-title="Canal" tvg-chno="2201",Comedy Central
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png group-title="Otros" tvg-chno="2201",Comedy Central
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/216.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="2105",Canal 5
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Otros" tvg-chno="2105",Canal 5
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/106.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Canal; Nacionales" tvg-chno="2105",Canal 5
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Otros" tvg-chno="2105",Canal 5
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/108.m3u8
-#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="2107",Azteca 7
+#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Otros" tvg-chno="2107",Azteca 7
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/74.m3u8
-#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canal; Nacionales" tvg-chno="2107",Azteca 7
+#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Otros" tvg-chno="2107",Azteca 7
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/72.m3u8
-#EXTINF:-1 tvg-id="amas" tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Canal; Nacionales" tvg-chno="2108",A más HD
+#EXTINF:-1 tvg-id="amas" tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Otros" tvg-chno="2108",A más HD
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/9.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Canal; Nacionales; Peliculas" tvg-chno="2124",AZ Cinema
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Otros" tvg-chno="2124",AZ Cinema
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/63.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="2202",A&E
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Otros" tvg-chno="2202",A&E
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/5.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Animaciones" tvg-chno="2314",Doraemon
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Otros" tvg-chno="2314",Doraemon
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/297.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Animaciones" tvg-chno="2315",Garfield
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Otros" tvg-chno="2315",Garfield
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/486.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Animaciones" tvg-chno="2316",Family Guy
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Otros" tvg-chno="2316",Family Guy
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/747.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Peliculas" tvg-chno="2519",CineCanal
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Otros" tvg-chno="2519",CineCanal
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/128.m3u8
-#EXTINF:-1 tvg-id="" group-title="Canal; Peliculas" tvg-chno="2518" tvg-guide-description="canal de test" tvg-description="canal de test2",Cine Latino
+#EXTINF:-1 tvg-id="" group-title="Otros" tvg-chno="2518",Cine Latino
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/173.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal" tvg-chno="2615",Caracol Int
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Otros" tvg-chno="2615",Caracol Int
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/126.m3u8
-#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Canal; Nacionales" tvg-chno="2104",Imagen TV
+#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Otros" tvg-chno="2104",Imagen TV
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/576.m3u8
-#EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canal; Noticias" tvg-chno="2151",ADN 40
+#EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Otros" tvg-chno="2151",ADN 40
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/20.m3u8
-#EXTINF:-1 tvg-chno="2101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal; Nacionales",Azteca UNO
+#EXTINF:-1 tvg-chno="2101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Otros",Azteca UNO
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/76.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.oxygenmusic.com.au/assets/website_logo.png" group-title="Canal; Musica" tvg-chno="2762",Oxygen Music
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
 #==================================================================# NO REVISADOS
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Canal" tvg-chno="3000",SIN REVISAR
