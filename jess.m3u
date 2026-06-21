@@ -743,3 +743,29 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",02
 http://138.121.15.230:9002/CITY-TV/index.m3u8
 
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",03
+https://s2.bufaloweb.com/bufalo22/index.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",04
+https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",05
+http://45.5.119.43:4000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",06
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",07
+http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755503.ts
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",08
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",09
+http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755500.ts
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",10
+http://190.61.101.11:7050/play/a098/index.m3u8?hls
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",11
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1736945143.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",12
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",13
+http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/205870.ts
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",14
+https://1nyaler.streamhostingcdn.top/stream/83/index.m3u8
+
+
