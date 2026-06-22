@@ -1,0 +1,141 @@
+#EXTINF:-1 tvg-chno="101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales",Azteca UNO
+http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755503.ts
+
+#EXTINF:-1 tvg-chno="102" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales",UNO -1h
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+#EXTINF:-1 tvg-chno="103" tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Nacionales",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-chno="104" tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Nacionales",Imagen TV
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Nacionales" tvg-chno="105",Canal 5
+http://45.5.119.43:4000/play/a05o/index.m3u8
+
+#EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Nacionales" tvg-chno="106",Multimedios
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Nacionales" tvg-chno="107",Azteca 7
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+
+#EXTINF:-1 tvg-id="amas" tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Nacionales" tvg-chno="108",A mÃ¡s
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="nuevetv" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Nacionales" tvg-chno="109",Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+
+#EXTINF:-1 tvg-id="telemax" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Nacionales" tvg-chno="110",Telemax
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales" tvg-chno="111",Once.3 Mx
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales" tvg-chno="112",Once NiÃ±os
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7347
+
+#EXTINF:-1 tvg-id="aztecaint" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Nacionales" tvg-chno="113",Azteca Int
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-id="canalcatorce" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Nacionales" tvg-chno="114",Canal Catorce
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="expresatv" tvg-logo="https://i.imgur.com/r1MmDvT.png" group-title="Nacionales" tvg-chno="115",Expresatv
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="teleyucatan" tvg-logo="https://i.imgur.com/Ybty01t.jpeg" group-title="Nacionales" tvg-chno="116",TeleYucatÃ¡n
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="teleplay" tvg-logo="https://i.imgur.com/KMUJXb6.png" group-title="Nacionales" tvg-chno="117",Teleplay
+https://player.tvstream.mx/livestream/teleplay/livesd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="sipse1" tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Nacionales" tvg-chno="118",Sipse TV
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+
+#EXTINF:-1 tvg-id="sipse2" tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="Nacionales" tvg-chno="119",Sipse TV
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+#EXTINF:-1 tvg-id="turistiktv" tvg-logo="https://i.imgur.com/jFtTbcN.png" group-title="Mundo" tvg-chno="120",Turistik TV
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="capital21" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Nacionales" tvg-chno="121",Capital 21
+https://video.cdmx.gob.mx/redes/stream.m3u8
+
+#EXTINF:-1 tvg-id="canal22" tvg-logo="https://i.imgur.com/RnU7m5t.png" group-title="Nacionales" tvg-chno="122",Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aztecaint" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Nacionales" tvg-chno="123",Azteca Honduras
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales" tvg-chno="124",Aprende MX
+https://stream.aprende.gob.mx/live/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Nacionales; Peliculas" tvg-chno="125",AZ Cinema
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7034
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales; Peliculas" tvg-chno="126",GalavisiÃ³n
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7605
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9ACGHPt.png" group-title="Nacionales; Peliculas" tvg-chno="127",AZ Clic
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7035
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales; Peliculas" tvg-chno="128",Nu9ve
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7120
+
+#EXTINF:-1 tvg-chno="129" tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales; Peliculas",V
+
+#EXTINF:-1 tvg-chno="130" tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales; Peliculas",V
+
+#EXTINF:-1 tvg-chno="131" tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales; Peliculas",V
+
+#EXTINF:-1 tvg-chno="132" tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales; Peliculas",V
+
+#EXTINF:-1 tvg-chno="133" tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales; Peliculas",V
+
+#EXTINF:-1 tvg-id="mexiquense" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Nacionales" tvg-chno="134",Mexiquense
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://iili.io/JCt1Nbn.png" group-title=""  tvg-chno="135",Canal 33
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="Nacionales" tvg-chno="136",Canal 44
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Nacionales" tvg-chno="137",Canal 44 C. JuÃ¡re
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales" tvg-chno="138",8NTV
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales" tvg-chno="139",Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales" tvg-chno="140",TV Lobo Durango
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4tv1" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Nacionales" tvg-chno="141",4.1 TV
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+
+#EXTINF:-1 tvg-id="4tv2" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Nacionales" tvg-chno="142",4.2 TV
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
+#EXTINF:-1 tvg-id="4tv2" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Nacionales" tvg-chno="143",4.3 TV
+https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
+
+#EXTINF:-1 tvg-id="4tv2" tvg-logo="https://i.imgur.com/JyfisxP.png" group-title="Nacionales" tvg-chno="144",4.4 TV
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/ddPkX2a.png" group-title="Nacionales" tvg-chno="145",TV migrante
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/uKFJB2b.png" group-title="Nacionales" tvg-chno="146",Presumiendo MÃ©xico
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvunam" tvg-logo="https://i.imgur.com/dNPfcwA.png" group-title="Nacionales" tvg-chno="147",Tv Unam
+https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1833445631_DVR.m3u8
+
+#EXTINF:-1 tvg-id="canalcongreso" tvg-logo="https://i.imgur.com/GABhezg.png" group-title="Nacionales" tvg-chno="148",Congreso
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+
+#EXTINF:-1 tvg-id="justiciatv" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Nacionales" tvg-chno="149",Plural TV 
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
