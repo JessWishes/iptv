@@ -1,0 +1,120 @@
+#EXTINF:-1 tvg-id="nick" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Animaciones" tvg-chno="301",Nick 1
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+
+#EXTINF:-1 tvg-id="nick" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Animaciones" tvg-chno="302",Nick 2
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+
+#EXTINF:-1 tvg-id="nick" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Animaciones" tvg-chno="303",NickToons
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/By7u70X.png" group-title="Animaciones" tvg-chno="304",CN City
+https://envivo.cncity.live/hls/envivo.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png" group-title="Animaciones" tvg-chno="305",DJr
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="306" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="307" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="308" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="309" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/FpTDkdU.png" group-title="Animaciones" tvg-chno="310",Simpson 24/7
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/FpTDkdU.png" group-title="Animaciones" tvg-chno="311",Simpson Classic 24/7
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Animaciones" tvg-chno="312",Simpson Latino 24/7
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16064
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Animaciones" tvg-chno="313",south Park 24/7
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16177
+
+#EXTINF:-1 tvg-chno="314" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="315" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="316" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="317" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="318" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="319" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-id="dreikotv" tvg-logo="https://i.imgur.com/cYLeMMo.png" group-title="Animaciones" tvg-chno="320",Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+
+#EXTINF:-1 tvg-id="energeek" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animaciones" tvg-chno="321",EnerGeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 tvg-id="energeekfan" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Animaciones" tvg-chno="322",EG FAN
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 tvg-id="magickidz" tvg-logo="https://i.imgur.com/yZ80R2D.png" group-title="Animaciones" tvg-chno="323",Magic Kids
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="Animaciones" tvg-chno="324",Magic Kids 2
+https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Series" tvg-chno="325",Retro Magico
+https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="326" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="327" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="328" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="329" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-id="locomotion" tvg-logo="https://i.imgur.com/7gbXWhr.png" group-title="Animaciones" tvg-chno="330",Locomotion TV
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/7gbXWhr.png" group-title="Animaciones" tvg-chno="331",Anime Station
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/Zx9JiIo.png" group-title="Animaciones" tvg-chno="332",AnimesHD TV
+https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/7lzCkKW.png" group-title="Animaciones" tvg-chno="333",TeleAnimeMania
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zyoon Tv" tvg-id="Zyoon Tv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" group-title="Animaciones" tvg-chno="334",Zyoon Tv
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="Animaciones" tvg-chno="335",TALTALTV
+https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="336" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="337" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="338" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="339" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-id="animevision" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Animaciones" tvg-chno="340",Anime Vision EspaÃ±a
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 tvg-id="animevision2" tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Animaciones" tvg-chno="341",Anime Vision Classics EspaÃ±a
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 tvg-chno="342" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="343" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="344" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="345" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="346" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="347" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="348" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
+
+#EXTINF:-1 tvg-chno="349" tvg-id="vacio" tvg-logo="" group-title="Animaciones",v
