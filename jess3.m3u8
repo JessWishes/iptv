@@ -4,8 +4,5 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-TARGETDURATION:3
 
-#EXTINF:3.000, 01
-secuencia_01.ts
-#EXTINF:3.000, no desc
-secuencia_02.ts
-
+#EXTINF:-1, 01
+https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/002.ts
