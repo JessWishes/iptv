@@ -1,0 +1,127 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Internacional" tvg-chno="601",VenevisiÃ³n Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Internacional" tvg-chno="602",RCN MÃ¡s
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional" tvg-chno="603",Caracol Mix
+https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Internacional" tvg-chno="604",Ecuavisa
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title=""  tvg-chno="605" ,SeÃ±al PerÃº TV
+https://livestream.perucast.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Internacional" tvg-chno="606",Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-chno="607",Megamedia Argentina Series
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="Internacional" tvg-chno="608",AmÃ©ricaTeVÃ© Puerto Rico
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 tvg-chno="609"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="610"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Internacional" tvg-chno="611",13 Teleseries Chile
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Internacional" tvg-chno="612",13 Internacional Chile
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="antenaseis" tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Series" tvg-chno="613",Antena Seis
+https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+
+#EXTINF:-1 tvg-id="Bolivision.bo@SD" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title=""  tvg-chno="614",BolivisiÃ³n LPZ
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title=""  tvg-chno="615",Caracol
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7643
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title=""  tvg-chno="616",Caracol
+https://s2.bufaloweb.com/bufalo22/index.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.ibb.co/tJJQmmR/Logo-Costa-Rica-Channel.png" group-title="Series" tvg-chno="617",Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+
+#EXTINF:-1 tvg-chno="618"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="619"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-logo="vacio" group-title="Internacional" tvg-chno="620",Tv Galicia
+https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Internacional" tvg-chno="621",TVE Internacional America
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/512px-Star_TVE_2026.svg.png" group-title="Internacional" tvg-chno="622",TVE Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="ClanInternacional.es@SD" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Internacional" tvg-chno="623",Clan Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="vacio" group-title="Internacional" tvg-chno="624",Hola Play
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+
+#EXTINF:-1 group-title=""  tvg-chno="625",Antena 3
+http://187.190.55.136:5501/udp/225.1.1.101:5101
+
+#EXTINF:-1 tvg-chno="626"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="627"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="628"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="629"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="630"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Internacional" tvg-chno="631",Arirang TV Korea 01
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="632", EBS 1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="633", EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="634", e-EBS
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="635", EBS kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="636"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="637"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="638"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="639"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-id="vacio" group-title="Internacional" tvg-chno="640",NHK World-Japan 1
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:-1 tvg-id="vacio" group-title="Internacional" tvg-chno="641",NHK World-Japan 3
+https://nhk.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="642",Gaki no Tsukai
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Internacional" tvg-chno="643",Shop Channel JapÃ³n
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1 tvg-chno="644"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="645"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="646"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="647"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="648"tvg-logo="" group-title="Internacional",v
+
+#EXTINF:-1 tvg-chno="649"tvg-logo="" group-title="Internacional",v
