@@ -1,0 +1,241 @@
+#EXTINF:-1 tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="Peliculas" tvg-chno="501",MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="502",Cine Mexicano
+http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/205870.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hh0joaW.png" group-title="Peliculas" tvg-chno="503",D Pelicula 1
+https://cloudvideo.servers10.com:8081/8108/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hh0joaW.png" group-title="Peliculas" tvg-chno="504",D pelicula 2
+http://181.119.93.83:8000/play/a1jw/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Peliculas" tvg-chno="505",Todo Cine
+https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" group-title="Peliculas" tvg-chno="506",Filmex
+https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
+
+#EXTINF:-1 tvg-chno="507" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="508" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="509" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas" tvg-chno="510",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Peliculas" tvg-chno="511",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Peliculas" tvg-chno="512",ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Series" tvg-chno="513",Europa Europa
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7190
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Peliculas" tvg-chno="514",CINEINDIE
+https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="Peliculas" tvg-chno="515",RETRO PLUS
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="Peliculas" tvg-chno="516",Wow Movies
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="517" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="518" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="519" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-id="" group-title="Peliculas" tvg-chno="520",Cine AR
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7642
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Peliculas" tvg-chno="521",Cine Premium
+https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Peliculas" tvg-chno="522",Cine Familiar
+https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Peliculas" tvg-chno="523",Cine Hispano
+https://telco.apk-media.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
+
+#EXTINF:-1 tvg-id="CinePremiere.us" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Peliculas" tvg-chno="524",Cine Premiere
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+
+#EXTINF:-1 tvg-chno="525" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="526" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="527" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="528" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="529" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-id="" group-title="Peliculas" tvg-chno="530",Mi Miedo
+https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="531" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="532" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="533" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="534" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="535" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="536" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="537" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="538" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="539" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Peliculas" tvg-chno="540",Runtime
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zTW1prNB/Logo-Free-TV-Accion.png" group-title="Peliculas" tvg-chno="541",FreeTV Accion
+https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tTRHgfRq/Logo-Free-TV-Asia.png" group-title="Peliculas" tvg-chno="542",FreeTV Asia
+https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nsBG2GsX/Logo-Free-TV-Estelar.jpg" group-title="Peliculas" tvg-chno="543",FreeTV Estelar
+https://jmp2.uk/rok-beb2be3222295798a8828458bea458ba.m3u8
+
+#EXTINF:-1 tvg-chno="544" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="545" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="546" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="547" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="548" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="549" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-id="CanalCHD.co@SD" tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="Peliculas" tvg-chno="550",Canal C HD
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvtsFbT/Logo-imagen-Universal.png" group-title="Peliculas" tvg-chno="551",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 group-title="Peliculas" tvg-chno="552", Mega Cine TV
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Pv0kMtC1/Logo-Gen-TV.png" group-title="Peliculas" tvg-chno="553",GenTV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Peliculas" tvg-chno="554",Atacama TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF:-1 tvg-id="wtvcanal20" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Peliculas" tvg-chno="555",WTV 20
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="Peliculas" tvg-chno="556",Gia Tv
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fSYwbt7.png" group-title="Peliculas" tvg-chno="557",Aurora Media
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Peliculas" tvg-chno="558",Next
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-chno="544" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="559" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/tvretro-palmares-costa-rica.png.webp?itok=Bcs7bhqg" group-title="Peliculas" tvg-chno="560",TV Retro
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ScesUbHV-aMYDjL6TsdyJZRPRYckjFty_A&s" group-title="Peliculas" tvg-chno="561",OPINION SUR CINE
+https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe@SD" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Peliculas" tvg-chno="562",AutÃ©ntica TelevisiÃ³n
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="Peliculas" tvg-chno="563",Alcarrizos TV
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas" tvg-chno="564",360 RFTV
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+
+#EXTINF:-1  tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Series" tvg-chno="565",10 Costa Rica
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-chno="566" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="567" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="568" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="569" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="570" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="571" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="572" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="573" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="574" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="575" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="576" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="577" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="578" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="579" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="580" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="581" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="582" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="583" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="584" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="585" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="586" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="587" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="588" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="589" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-id="vacio" group-title="Peliculas" tvg-chno="590",A3 Cine
+http://187.190.55.136:5501/udp/225.1.1.20:5020
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Peliculas" tvg-chno="591",Cine Friki
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas" tvg-chno="592",MyTime Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas" tvg-chno="593",MyTime Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title=""  tvg-chno="594",Grjngo
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
+
+#EXTINF:-1 tvg-chno="595" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="596" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="597" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="598" tvg-id="vacio" group-title="Peliculas",Filmex
+
+#EXTINF:-1 tvg-chno="599" tvg-id="vacio" group-title="Peliculas",Filmex
