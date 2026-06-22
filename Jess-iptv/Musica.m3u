@@ -1,0 +1,131 @@
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Musica" tvg-chno="651",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Series" tvg-chno="652",GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="LoboTV.mx@SD" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Musica" tvg-chno="653",Lobo TV (720p)
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Musica" tvg-chno="654",Conecta TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Musica" tvg-chno="655",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-chno="656",88 Stereo Español
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="657" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-chno="658" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-chno="659" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RBK72UT.png" group-title="Musica" tvg-chno="660",TV One
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Internacional" tvg-chno="661",13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Musica" tvg-chno="662",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica" tvg-chno="663",Trace Latina
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+
+#EXTINF:60 group-title="Musica" tvg-chno="664",Trace Urban
+https://jmp2.uk/stvp-ESBA3300043M0
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Musica" tvg-chno="665",MTV Biggest Pop
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+
+#EXTINF:-1 tvg-chno="666" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Musica" tvg-chno="667",MTV Spankin' new
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Now-90s-00s.png" group-title="Musica" tvg-chno="668",NOW 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="Musica" tvg-chno="669", Retro Plus
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="Musica" tvg-chno="670",YOU & ME Radio
+https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Musica" tvg-chno="671",Qello Concerts
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
+
+#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-chno="672",Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Musica" tvg-chno="673",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica" tvg-chno="674",Vevo 2k
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica" tvg-chno="675",Vevo 70
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica" tvg-chno="676",Vevo 80
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica" tvg-chno="677",Vevo 90
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica" tvg-chno="678",Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="678" tvg-logo="" group-title="Musica",v
+
+#EXTINF:60 group-title="Musica" tvg-chno="680",XITE LIVE
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+
+#EXTINF:54 group-title="Musica" tvg-chno="681",XITE 8OS FLASHBACK
+https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
+
+#EXTINF:54 group-title="Musica" tvg-chno="682",XITE 90S THROWBACK
+https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
+
+#EXTINF:54 group-title="Musica" tvg-chno="683",XITE CELEBRIDADES
+https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
+
+#EXTINF:54 group-title="Musica" tvg-chno="684",XITE NUEVO LATINO
+https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
+
+#EXTINF:54 group-title="Musica"tvg-chno="685",XITE SIEMPRE LATINO
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
+
+#EXTINF:54 group-title="Musica" tvg-chno="686",XITE JUST CHILL
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+
+#EXTINF:-1 tvg-chno="687" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-chno="688" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-chno="689" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Musica" tvg-chno="690",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0d9OjHQ.jpg" group-title="Musica" tvg-chno="691",Radio Company TV Italia 
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="Animaciones" tvg-chno="692",TALTALTV
+https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="693" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-chno="694" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-chno="695" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-chno="696" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-chno="697" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-chno="698" tvg-logo="" group-title="Musica",v
+
+#EXTINF:-1 tvg-chno="699" tvg-logo="" group-title="Musica",v
