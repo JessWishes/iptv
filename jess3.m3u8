@@ -5,6 +5,5 @@
 #EXT-X-TARGETDURATION:20
 
 #EXTINF:20, 01
-https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/002.ts
-#EXTINF:20, 02
-https://github.com/JessWishes/iptv/raw/refs/heads/main/002.ts
+https://github.com/JessWishes/TST/raw/refs/heads/main/002.ts
+
