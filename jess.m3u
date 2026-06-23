@@ -255,6 +255,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16064
 #EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Canal; Animaciones" tvg-chno="313",south Park 24/7
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16177
+#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Animaciones" tvg-chno="314",Family Guy
+http://m3u.tvcluboficial.com/free/oct/oct/747.m3u8
 
 #EXTINF:-1 tvg-id="dreikotv" tvg-logo="https://i.imgur.com/cYLeMMo.png" group-title="Canal; Animaciones" tvg-chno="320",Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
@@ -453,8 +455,10 @@ https://telco.apk-media.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Canal; Peliculas" tvg-chno="524",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Canal; Peliculas" tvg-chno="530",Mi Miedo
+#EXTINF:-1 tvg-id="vacio" group-title="Peliculas" tvg-chno="530",Mi Miedo
 https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
+
+http://181.78.8.199:8000/play/a0bt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Canal; Peliculas" tvg-chno="540",Runtime
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
@@ -729,17 +733,15 @@ http://m3u.tvcluboficial.com/free/oct/oct/5.m3u8
 http://m3u.tvcluboficial.com/free/oct/oct/297.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Otros" tvg-chno="2315",Garfield
 http://m3u.tvcluboficial.com/free/oct/oct/486.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Otros" tvg-chno="2316",Family Guy
-http://m3u.tvcluboficial.com/free/oct/oct/747.m3u8
 #EXTINF:-1 tvg-id="" group-title="Otros" tvg-chno="2518",Cine Latino
 http://m3u.tvcluboficial.com/free/oct/oct/173.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="" group-title="Otros" tvg-chno="2615",Caracol Int
 http://m3u.tvcluboficial.com/free/oct/oct/126.m3u8
-#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Otros" tvg-chno="2104",Imagen TV
+#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Otros" tvg-chno="2904",Imagen TV
 http://m3u.tvcluboficial.com/free/oct/oct/576.m3u8
-#EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Otros" tvg-chno="2151",ADN 40
+#EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Otros" tvg-chno="2951",ADN 40
 http://m3u.tvcluboficial.com/free/oct/oct/20.m3u8
-#EXTINF:-1 tvg-chno="2101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Otros",Azteca UNO
+#EXTINF:-1 tvg-chno="2901" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Otros",Azteca UNO
 http://m3u.tvcluboficial.com/free/oct/oct/76.m3u8
 
 #==================================================================# NO REVISADOS
@@ -748,10 +750,9 @@ https://i.imgur.com/TTND24i.jpeg
 # BASE
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",01
 
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",02
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",MP
 http://45.5.119.43:4000/play/a0ij/index.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",03
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3002",Golden
 http://45.5.119.43:4000/play/a0jv/index.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Canal" tvg-chno="3001",04
-http://38.49.128.38:8000/play/a0lo/index.m3u8
+
 
