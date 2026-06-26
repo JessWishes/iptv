@@ -143,8 +143,6 @@ https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Series" tvg-chno="200",SERIES
 https://i.imgur.com/TTND24i.jpeg
 
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png group-title="Series" tvg-chno="201",Comedy Central
-http://181.119.93.83:8000/play/a1di/index.m3u8
 #EXTINF:-1 tvg-id="mundoseries" tvg-logo="https://i.imgur.com/r8fiwjG.png" group-title="Series" tvg-chno="202",Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Series" tvg-chno="203",Coreanas
@@ -501,10 +499,6 @@ https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 #EXTINF:-1  tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Series" tvg-chno="565",10 Costa Rica
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="588",MP
-http://45.5.119.43:4000/play/a0ij/index.m3u8
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="589",Golden
-http://45.5.119.43:4000/play/a0jv/index.m3u8
 #EXTINF:-1 tvg-id="vacio" group-title="Peliculas" tvg-chno="590",A3 Cine
 http://187.190.55.136:5501/udp/225.1.1.20:5020
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Peliculas" tvg-chno="591",Cine Friki
@@ -659,21 +653,19 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="Animaciones" tvg-chno="699",TALTALTV
 https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 
-#==================================================================# 800 Eventos
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="" tvg-chno="800",Eventos
-https://i.imgur.com/TTND24i.jpeg
-
 #==================================================================# 1000 Enlaces Alternos
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="" tvg-chno="1000",ALTERNOS
 https://i.imgur.com/TTND24i.jpeg
 
-#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="",Azteca UNO
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7039
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="3101",AZ UNO
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="1101",AZ UNO 1
 http://45.189.62.33:8002/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="",Azteca UNO
+
+#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="",Azteca UNO 2
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7039
+
+#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="",Azteca UNO 2
 http://m3u.tvcluboficial.com/free/oct/oct/76.m3u8
-#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="",Azteca UNO -1h
+#EXTINF:-1 tvg-chno="1101" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="",Azteca UNO -1h 4
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 #EXTINF:-1 tvg-id="adn40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="" tvg-chno="1151",ADN 40
 https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
@@ -709,11 +701,7 @@ https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 https://jmp2.uk/rok-8fd0bc4f08285a12abb872f0b2e320d4.m3u8
 #EXTINF:-1 tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="" tvg-chno="1111",Once.3 Mx
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="" tvg-chno="1514",Europa Europa
-http://181.119.93.83:8000/play/a1sr/index.m3u8
 
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png group-title="" tvg-chno="1201",Comedy Central
-http://m3u.tvcluboficial.com/free/oct/oct/216.m3u8
 #EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="" tvg-chno="1105",Canal 5
 http://m3u.tvcluboficial.com/free/oct/oct/106.m3u8
 #EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="" tvg-chno="1105",Canal 5
@@ -739,8 +727,4 @@ http://m3u.tvcluboficial.com/free/oct/oct/20.m3u8
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="" tvg-chno="2000",SIN SEÑAL
 https://i.imgur.com/TTND24i.jpeg
 
-#==================================================================# NO REVISADOS
-#EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="" tvg-chno="3000",SIN REVISAR
-https://i.imgur.com/TTND24i.jpeg
-
-#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="3001",01
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="2001",01
