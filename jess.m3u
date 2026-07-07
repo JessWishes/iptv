@@ -1,5 +1,7 @@
 # Lista creada para uso personal y de aprendizaje, sin fines de lucro o comerciales.
+# Para elimnar o agregar algún enlace a la lista, porfavor hacerlo através de la opción "ISSUE"
 
+# Guía de canales. BETA
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess2.xml"
 
 #==============================================================# 100 NACIONAL
@@ -12,13 +14,13 @@ http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755503.ts
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Nacionales",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Nacionales" tvg-chno="104",Imagen TV
+#EXTINF:-1 tvg-chno="104" tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Nacionales",Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Nacionales" tvg-chno="105",Canal 5
+#EXTINF:-1 tvg-chno="105" tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Nacionales",Canal 5
 http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Nacionales" tvg-chno="106",Multimedios
+#EXTINF:-1 tvg-chno="106" tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Nacionales",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Nacionales" tvg-chno="107",Azteca 7
+#EXTINF:-1 tvg-chno="107" tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Nacionales",Azteca 7
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="amas" tvg-logo="https://i.imgur.com/lD6fodW.png" group-title="Nacionales" tvg-chno="108",A más
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -770,3 +772,5 @@ http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/755548.ts
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="2001",20
 http://181.78.8.199:8000/play/a0ek/index.m3u8
 
+http://45.167.1.138:8000/play/a04s
+https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8
