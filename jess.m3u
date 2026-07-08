@@ -789,3 +789,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 http://177.234.249.135:8888/Telehit/index.m3u8
 #EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="2001",35
 http://177.234.249.135:8888/TelehitMusica/index.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="2001",36
+m/free/oct/oct/32.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="2001",37
+http://m3u.tvcluboficial.com/free/oct/oct/952.m3u8
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="" tvg-chno="2001",38
+https://edge.enhdtv.com/exitotv/index.m3u8
