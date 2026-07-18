@@ -238,9 +238,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/tvretro-palmares-costa-rica.png.webp?itok=Bcs7bhqg" group-title="Peliculas" tvg-chno="237",TV Retro
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 
-#EXTINF:-1 tvg-id="+tv" tvg-logo="https://i.imgur.com/rdHygJ1.png" group-title="Series" tvg-chno="240",Canal Mas TV
+#EXTINF:-1 tvg-id="mastv" tvg-logo="https://i.imgur.com/rdHygJ1.png" group-title="Series" tvg-chno="240",Canal Mas TV
 https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="UnicentroTV.pe@SD" tvg-logo="https://i.imgur.com/lhewC3K.png" group-title="" tvg-chno="241",Unicentro TV
+#EXTINF:-1 tvg-id="vacio" tvg-logo="https://i.imgur.com/lhewC3K.png" group-title="" tvg-chno="241",Unicentro TV
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="GAMTVcr.cr@SD" tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="Series" tvg-chno="242",GAMTV
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
