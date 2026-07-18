@@ -475,15 +475,15 @@
 
     <channel id="mastv">
 	</channel>
-  	<programme channel="mastv" start="20260717230000 +0000" stop="20260717233000 +0000">
+  	<programme channel="mastv" start="20260717230000 -0600" stop="20260717233000 -6000">
 		<title>Bob's Burguer</title>
 		<desc> </desc>
-		<category>Series</category>
+		<category>Games</category>
 	</programme>
-  	<programme channel="mastv" start="20260717233000 +0000" stop="20360717230000 +0000">
+  	<programme channel="mastv" start="20260717233000 -6000" stop="20360717230000 -6000">
 		<title>Televisión peruana.</title>
 		<desc> </desc>
-		<category>Series</category>
+		<category>Games</category>
 	</programme>
 
 	
