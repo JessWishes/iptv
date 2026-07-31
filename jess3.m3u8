@@ -2,12 +2,12 @@
 
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:3
+#EXT-X-TARGETDURATION:15
 
-#EXTINF:3, 1
+#EXTINF:15.0, a
 https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico_base.ts
-#EXTINF:3, 1
+#EXTINF:15.0, a
 https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico2.ts
-#EXTINF:3, 1
+#EXTINF:15.0, a
 https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico_base.ts
 
