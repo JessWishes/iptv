@@ -2,7 +2,7 @@
 
 #EXT-X-VERSION:3
 
-#EXTINF:-1, 1
+#EXTINF:15, 1
 https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico2.ts
-#EXTINF:-1, 1
+#EXTINF:15, 1
 https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico_base.ts
