@@ -5,8 +5,6 @@
 #EXT-X-TARGETDURATION:15
 
 #EXTINF:15.0, a
-https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico_base.ts
-#EXTINF:15.0, a
 https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico2.ts
 #EXTINF:15.0, a
 https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico_base.ts
