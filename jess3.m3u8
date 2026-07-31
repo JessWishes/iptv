@@ -1,10 +1,12 @@
 #EXTM3U
 
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:15
+#EXT-X-TARGETDURATION:30
 
 #EXTINF:15, 1
 https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico_base.ts
 #EXTINF:15, 1
 https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico2.ts
+#EXTINF:15, 1
+https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico_base.ts
 
