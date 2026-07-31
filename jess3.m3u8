@@ -2,9 +2,9 @@
 
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:2
-#EXT-X-TARGETDURATION:30
+#EXT-X-TARGETDURATION:15
 
-#EXTINF:15, 01
+#EXTINF:15, 1
 https://github.com/JessWishes/iptv/raw/refs/heads/main/mosaico_base.ts
-#EXTINF:15, 02
+#EXTINF:15, 1
 https://github.com/JessWishes/iptv/raw/refs/heads/main/A_living_room_in_1990_an_old_t.ts
