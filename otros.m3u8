@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:20
-#EXTINF:20,
-https://cablered.iptvperu.tv:1936/cablered/venus_new/playlist.m3u8
