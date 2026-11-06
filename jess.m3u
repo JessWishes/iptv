@@ -13,28 +13,27 @@ https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess3.m3u8
 #
 #==============================================================#
 
-#EXTINF:-1 tvg-chno="101" group-title="Nacionales" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png",Azteca UNO
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-chno="101.1" group-title="Nacionales" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png",Azteca UNO
 
-#EXTINF:-1 tvg-chno="102"  tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales",UNO -1h
+#EXTINF:-1 tvg-chno="102.1"  tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales",UNO -1h
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
-#EXTINF:-1 tvg-chno="103"  tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Nacionales",Las Estrellas
+#EXTINF:-1 tvg-chno="103.1"  tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Nacionales",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-chno="103.1"  tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Nacionales",Las Estrellas -2h
+#EXTINF:-1 tvg-chno="103.2"  tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Nacionales",Las Estrellas -2h
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/162200.ts
 
-#EXTINF:-1 tvg-chno="104"  tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Nacionales",Imagen TV
+#EXTINF:-1 tvg-chno="104.1"  tvg-id="imagentv" tvg-logo="https://i.imgur.com/pTfEJ0w.png" group-title="Nacionales",Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
-#EXTINF:-1 tvg-chno="105"  tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Nacionales",Canal 5
-http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-chno="105.1"  tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Nacionales",Canal 5
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-chno="105.2"  tvg-id="canal5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Nacionales",Canal 5
 http://190.61.101.11:7050/play/a098/index.m3u8?hls
 
-#EXTINF:-1 tvg-chno="106" tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Nacionales",Multimedios
+#EXTINF:-1 tvg-chno="106.1" tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Nacionales",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-chno="106.1" tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Nacionales",Multimedios MTY
+#EXTINF:-1 tvg-chno="106.2" tvg-id="canal6" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Nacionales",Multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-id="azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Nacionales",Azteca 7 
