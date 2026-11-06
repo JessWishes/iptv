@@ -48,15 +48,13 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="telemax" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Nacionales",Telemax 
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="111" tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales",Once Mx 
+#EXTINF:-1 tvg-chno="111.1" tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales",Once+
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="111-2" tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales",Once Mx
-https://vivo.Canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="111-3" tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales",Once Mx
+#EXTINF:-1 tvg-chno="111.2" tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales",Once Mx
 https://s5.mexside.net:1936/stream/stream/index.m3u8
-#EXTINF:-1 tvg-chno="111.1" tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales",Once.2 Mx 
-https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.
-#EXTINF:-1 tvg-chno="111.1-2" tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales",Once.2 Mx m3u8
+#EXTINF:-1 tvg-chno="111.3" tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales",Once.2 Mx 
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
+#EXTINF:-1 tvg-chno="111.4" tvg-id="once3mx"tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacionales",Once.2 Mx 
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 
 
