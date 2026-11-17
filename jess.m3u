@@ -7,8 +7,10 @@
 #==============================================================# 
 # 100 NACIONALES MEXICANOS y USA
 #==============================================================#
+
 #EXTINF:-1 tvg-chno="100" tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="Nacionales",NACIONAL
 https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess3.m3u8
+
 #==============================================================#
 #
 #==============================================================#
@@ -16,7 +18,9 @@ https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess3.m3u8
 
 #EXTINF:-1 tvg-chno="101.1" group-title="Nacionales" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png",Azteca UNO
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/78.m3u8
-#EXTINF:-1 tvg-chno="101.2"  tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales",UNO -1h
+#EXTINF:-1 tvg-chno="101.2" group-title="Nacionales" tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png",Azteca UNO
+http://m3u.tvcluboficial.com/free/Robert/4JC/78.m3u8
+#EXTINF:-1 tvg-chno="101.3"  tvg-id="aztecauno" tvg-logo="https://i.imgur.com/XifJd3Q.png" group-title="Nacionales",UNO -1h
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-chno="102.1"  tvg-id="lasestrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Nacionales",Las Estrellas
@@ -1695,3 +1699,6 @@ http://m3u.tvcluboficial.com/free/Robert/4JC/1067.m3u8
 #==============================================================#
 #EXTINF:-1 tvg-id="mosaico" tvg-logo="https://i.imgur.com/TTND24i.jpeg" group-title="" tvg-chno="2000",SIN SEÑAL
 https://raw.githubusercontent.com/JessWishes/iptv/refs/heads/main/jess3.m3u8
+
+
+
